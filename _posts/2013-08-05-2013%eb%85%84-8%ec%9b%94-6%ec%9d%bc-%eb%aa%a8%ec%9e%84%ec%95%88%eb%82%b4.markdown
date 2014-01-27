@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 8월 6일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 756
+wordpress_url: http://www.tuestudy.org/bp/?p=756
+date: 2013-08-05 10:25:10.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 456
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-08-05 10:25:24 +0900'
+  date_gmt: '2013-08-05 01:25:24 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 457
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-08-05 10:41:33 +0900'
+  date_gmt: '2013-08-05 01:41:33 +0900'
+  content: |
+    저 갑니당 ~~~
+- id: 458
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-08-05 23:32:03 +0900'
+  date_gmt: '2013-08-05 14:32:03 +0900'
+  content: |
+    갑니다.
+- id: 459
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-08-06 13:03:45 +0900'
+  date_gmt: '2013-08-06 04:03:45 +0900'
+  content: |
+    가요가요 ^^
+---
+<p><a href="http://algospot.com/judge/problem/read/JOSEPHUS">JOSEPHUS</a>, <a href="http://algospot.com/judge/problem/read/BRACKETS2">BRACKETS2</a>를 공유하고, 시간이 남으면 <a href="http://algospot.com/judge/problem/read/ITES">ITES</a>를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 8월 6일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

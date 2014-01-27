@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 6월 26일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 462
+wordpress_url: http://www.tuestudy.org/bp/?p=462
+date: 2012-06-24 22:05:01.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 107
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-06-25 14:27:07 +0900'
+  date_gmt: '2012-06-25 05:27:07 +0900'
+  content: |
+    저 내일 참가가 어렵겠습니다. 죄송합니둥.
+- id: 108
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-06-25 17:06:38 +0900'
+  date_gmt: '2012-06-25 08:06:38 +0900'
+  content: |
+    갑니다! 가요!
+- id: 109
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-06-26 15:49:20 +0900'
+  date_gmt: '2012-06-26 06:49:20 +0900'
+  content: |
+    저도 오늘 불참입니다. 회사도 빠지고.. 이래 저래 늘어지네요.
+- id: 110
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-06-26 19:04:24 +0900'
+  date_gmt: '2012-06-26 10:04:24 +0900'
+  content: |
+    저는 오랫만에 참가... 긴 한데 조금 늦을 것 같네요
+---
+<p>6월 26일 스터디 공지입니다. 이번 주 모임도 <strong>토즈 강남2호점</strong>입니다.</p>
+
+<ul>
+<li>일시: 2012년 6월 26일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남 2호점 (예약 모임명: TSG – HtDP 스터디) / 교보타워 사거리 부근</li>
+<li>준비물: 책 또는 노트북 / 34장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg" alt="" title="TOZ_강남2호점" width="706" height="903" class="alignnone size-full wp-image-47" /></a></p>
+
+<p>모임 전에 불참 인원을 알면 경우에 따라 예약 인원을 변경하여 회비를 절약할 수 있습니다.<br />
+<strong>스터디 참가가 어려우시면 늦어도 오후 6시까지 참석 여부를 알려주세요.</strong></p>

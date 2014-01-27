@@ -1,0 +1,91 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 6월 18일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 727
+wordpress_url: http://www.tuestudy.org/bp/?p=727
+date: 2013-06-13 22:59:25.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 410
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-06-13 23:02:34 +0900'
+  date_gmt: '2013-06-13 14:02:34 +0900'
+  content: |
+    고우고우
+- id: 411
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-13 23:06:57 +0900'
+  date_gmt: '2013-06-13 14:06:57 +0900'
+  content: |
+    <p>저도 고고쓍!</p>
+- id: 412
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-06-13 23:22:14 +0900'
+  date_gmt: '2013-06-13 14:22:14 +0900'
+  content: |
+    갑니다.
+- id: 413
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-06-14 10:16:00 +0900'
+  date_gmt: '2013-06-14 01:16:00 +0900'
+  content: |
+    저도 가요오~
+- id: 414
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-06-17 13:22:13 +0900'
+  date_gmt: '2013-06-17 04:22:13 +0900'
+  content: |
+    오랫만에 참석합니다~
+- id: 415
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-06-17 15:34:13 +0900'
+  date_gmt: '2013-06-17 06:34:13 +0900'
+  content: |
+    갑니다~
+- id: 416
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-06-18 18:24:47 +0900'
+  date_gmt: '2013-06-18 09:24:47 +0900'
+  content: |
+    오늘 못갈거 같아요오오오 ㅠㅠ
+- id: 417
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-06-18 19:10:14 +0900'
+  date_gmt: '2013-06-18 10:10:14 +0900'
+  content: |
+    전 늦을것 같습니다.. 흑..
+---
+<p><a href="http://algospot.com/judge/problem/read/SNAIL">SNAIL</a>, <a href="http://algospot.com/judge/problem/read/ASYMTILING">ASYMTILING</a>를 공유하고, <a href="http://algospot.com/judge/problem/read/POLY">POLY</a>, <a href="http://algospot.com/judge/problem/read/NUMB3RS">NUMB3RS</a>를 풉니다.</p>
+
+<p><strong>모임 장소가 변경되었습니다. 장소는 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 6월 18일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

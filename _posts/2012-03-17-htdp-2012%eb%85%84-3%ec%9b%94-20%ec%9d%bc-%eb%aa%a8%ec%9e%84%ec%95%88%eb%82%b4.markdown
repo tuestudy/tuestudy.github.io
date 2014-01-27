@@ -1,0 +1,69 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 3월 20일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 251
+wordpress_url: http://www.tuestudy.org/bp/?p=251
+date: 2012-03-17 21:28:41.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 28
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-03-20 15:41:04 +0900'
+  date_gmt: '2012-03-20 06:41:04 +0900'
+  content: |
+    <p>오늘 일이 있어 급하게 집으로 들어왔네요... ㅠ_ㅠ
+    진도 따라잡기도 힘든데 결석을 하게되니 마음이 아프네요.
+    다음주에 봐요 ^^</p>
+- id: 29
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-03-20 17:40:26 +0900'
+  date_gmt: '2012-03-20 08:40:26 +0900'
+  content: |
+    <p>아쉽네요. :'(</p>
+- id: 30
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-03-20 17:45:08 +0900'
+  date_gmt: '2012-03-20 08:45:08 +0900'
+  content: |
+    <p>오늘은 Chapter 2 마무리군요!? &gt;_&lt;///</p>
+- id: 31
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-03-20 19:11:19 +0900'
+  date_gmt: '2012-03-20 10:11:19 +0900'
+  content: |
+    <p>Part 2 마무리입니다 ㅋ</p>
+- id: 32
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-03-20 19:31:53 +0900'
+  date_gmt: '2012-03-20 10:31:53 +0900'
+  content: |
+    <p>크으 저 오늘도 40분 늦을꺼 같네요. 먼저 시작하고 계시면 가겠습니다.</p>
+---
+<p>토즈 강남점 최소 7인실(7인~9인실) 예약했습니다.<br />
+<strike>11 ~ 12장 준비해 오시면 됩니다.</strike>  11 ~ 13장으로 예습 범위 변경합니다.<br />
+오랜만에 전원 출석 기대해 봅니다. :D</p>
+
+<ul>
+<li>일시: 2012년 3월 20일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 11 ~ 13장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>

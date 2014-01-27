@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 10월 15일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 781
+wordpress_url: http://www.tuestudy.org/bp/?p=781
+date: 2013-10-13 14:41:48.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 504
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-10-13 14:42:17 +0900'
+  date_gmt: '2013-10-13 05:42:17 +0900'
+  content: |
+    <p>갑니다요~</p>
+- id: 505
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-10-13 15:31:33 +0900'
+  date_gmt: '2013-10-13 06:31:33 +0900'
+  content: |
+    갑니다.
+- id: 506
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-10-13 16:00:28 +0900'
+  date_gmt: '2013-10-13 07:00:28 +0900'
+  content: |
+    고고싱~
+- id: 507
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-10-14 11:18:22 +0900'
+  date_gmt: '2013-10-14 02:18:22 +0900'
+  content: |
+    갑니다
+- id: 508
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-10-15 14:14:11 +0900'
+  date_gmt: '2013-10-15 05:14:11 +0900'
+  content: |
+    오늘은 갈 수 있어요!!
+    제 자리 치우시진 않으셨죠? ㅠ_ㅠ
+- id: 509
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-10-15 19:52:46 +0900'
+  date_gmt: '2013-10-15 10:52:46 +0900'
+  content: |
+    <p>넵 어여 오세요~</p>
+---
+<p><a href="http://algospot.com/judge/problem/read/TRAVERSAL">TRAVERSAL</a>, <a href="http://algospot.com/judge/problem/read/FORTRESS">FORTRESS</a> 공유합니다. 시간이 남으면 다음 문제를 풉니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<ul>
+<li>일시: 2013년 10월 15일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

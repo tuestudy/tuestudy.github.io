@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 2월 28일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 104
+wordpress_url: http://www.tuestudy.org/bp/?p=104
+date: 2012-02-26 18:26:55.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments: []
+---
+벌써 2월 마지막 스터디네요. 이번 주에는 7장, 8장에 있는 문제를 함께 풀어보면서
+1부를 마무리 하는 시간을 갖겠습니다.
+
+혹시 갑작스러운 사정으로 참여가 어려우시거나 새로 참여를 원하시는 분은 그룹 쪽에 미리 댓글 남겨주시면 감사하겠습니다.
+
+그럼 화요일에 뵙겠습니다!
+
+
+<ul>
+	<li>일시: 2012년 2월 28일 화요일, 오후 8시 ~ 10시</li>
+	<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+	<li>회비: 5,000원 (토즈 이용료)</li>
+	<li>준비물: 책 또는 노트북 / <strong>7장, 8장</strong> 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img class="alignnone size-full wp-image-79" title="toz_kangnam" src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" width="715" height="353" /></a>

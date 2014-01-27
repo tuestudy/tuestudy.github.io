@@ -1,0 +1,115 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 12월 4일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 621
+wordpress_url: http://www.tuestudy.org/bp/?p=621
+date: 2012-11-29 13:31:47.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 246
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-11-29 15:50:29 +0900'
+  date_gmt: '2012-11-29 06:50:29 +0900'
+  content: |
+    갑니다. 발표 준비 해가도록 하겠습니다.
+- id: 247
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-30 10:38:29 +0900'
+  date_gmt: '2012-11-30 01:38:29 +0900'
+  content: |
+    <p>저도 갑니다.</p>
+- id: 248
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-03 14:12:59 +0900'
+  date_gmt: '2012-12-03 05:12:59 +0900'
+  content: |
+    가요가요 ~
+- id: 249
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-03 21:03:36 +0900'
+  date_gmt: '2012-12-03 12:03:36 +0900'
+  content: |
+    <p>라즈베리 파이를 기대합니다 ㅋ</p>
+- id: 250
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-12-04 09:57:41 +0900'
+  date_gmt: '2012-12-04 00:57:41 +0900'
+  content: |
+    크으.. 저 발표준비를 못했습니다.. 지송님만 믿고 가도 될까요? ㅎㄷ
+- id: 251
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-12-04 13:17:06 +0900'
+  date_gmt: '2012-12-04 04:17:06 +0900'
+  content: |
+    오늘 갑자기 퇴사하는 분이 계셔서 거기에 갈듯합니다.. ㅠㅠ
+- id: 252
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-04 13:47:43 +0900'
+  date_gmt: '2012-12-04 04:47:43 +0900'
+  content: |
+    부족하지만 발표 준비는 했습니다. 다만 20분 정도 늦을 수 있을 것 같네요.
+- id: 253
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-12-04 16:48:49 +0900'
+  date_gmt: '2012-12-04 07:48:49 +0900'
+  content: |
+    저는 오늘 판교에서 갑니다. ㅎㅎㅎㅎ
+- id: 254
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-04 17:51:12 +0900'
+  date_gmt: '2012-12-04 08:51:12 +0900'
+  content: |
+    라.. 라즈베리 파이는 없어요 ㅠㅠ
+- id: 255
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-04 19:50:54 +0900'
+  date_gmt: '2012-12-04 10:50:54 +0900'
+  content: |
+    <p>2.1 부스입니다. 어여 오세요~</p>
+---
+<h2>모임 안내</h2>
+
+어느덧 12월이 되었네요. POD님의 Selenium WebDriver 발표를 기대하며 많이 많이 신청해주세요!
+
+
+
+많은 참여 부탁드려요~ 참석 여부 댓글로 남겨주세요~
+
+
+
+<ul>
+<li>일시: 2012년 12월 4일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남2호점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

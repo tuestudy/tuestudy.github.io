@@ -1,0 +1,118 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 11월 27일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 617
+wordpress_url: http://www.tuestudy.org/bp/?p=617
+date: 2012-11-21 18:35:19.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 236
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-11-21 18:49:39 +0900'
+  date_gmt: '2012-11-21 09:49:39 +0900'
+  content: |
+    저 갑니다 ~
+    라즈베리파이도 들고 갈께요 히히히
+- id: 237
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-22 00:16:05 +0900'
+  date_gmt: '2012-11-21 15:16:05 +0900'
+  content: |
+    <p>저도 갑니당 ㅋㅋ</p>
+- id: 238
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-11-25 21:50:20 +0900'
+  date_gmt: '2012-11-25 12:50:20 +0900'
+  content: |
+    저도 참석합니다~ (그리고 위에 날짜가 틀린거 같아요..)
+- id: 239
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-26 13:19:12 +0900'
+  date_gmt: '2012-11-26 04:19:12 +0900'
+  content: |
+    <p>복붙하다가 실수가 있었네요;;; 수정했습니다. :)</p>
+- id: 240
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-11-27 11:27:53 +0900'
+  date_gmt: '2012-11-27 02:27:53 +0900'
+  content: |
+    으악 라즈베리파이를 집에 두고 왔어요 :'(
+- id: 241
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-11-27 17:04:24 +0900'
+  date_gmt: '2012-11-27 08:04:24 +0900'
+  content: |
+    저 한 2,30분 늦을수도 있겠습니다..
+- id: 242
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-11-27 17:04:32 +0900'
+  date_gmt: '2012-11-27 08:04:32 +0900'
+  content: |
+    오늘 팀장님이 저녁식사 하자고 하셔서...
+    출석 확률이 50% 정도네요.
+    되도록이면 갈께요 ㅎㅎㅎ 못가면 빨리 연락을 드리지요.
+- id: 243
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-27 19:59:30 +0900'
+  date_gmt: '2012-11-27 10:59:30 +0900'
+  content: |
+    <p>전 도to the착!</p>
+- id: 244
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-11-28 18:20:17 +0900'
+  date_gmt: '2012-11-28 09:20:17 +0900'
+  content: |
+    좋은 발표들 다 놓치는 군요. 다음 주에는 꼭 나갈께요
+- id: 245
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-29 13:29:05 +0900'
+  date_gmt: '2012-11-29 04:29:05 +0900'
+  content: |
+    <p>혹시 다음 모임 때 발표 가능하시면 알려주세요 ㅋㅋ 일단 POD님이 대기 중이시긴 합니다만 ㅋㅋ</p>
+---
+<h2>모임 안내</h2>
+
+이번 주 모임에는 아마도 디군님의 LLVM 발표가 예상됩니다.
+
+
+
+많은 참여 부탁드려요~ 참석 여부 댓글로 남겨주세요~
+
+
+
+<ul>
+<li>일시: 2012년 11월 27일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남2호점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 5월 22일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 417
+wordpress_url: http://www.tuestudy.org/bp/?p=417
+date: 2012-05-20 23:53:20.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 80
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-05-21 10:29:52 +0900'
+  date_gmt: '2012-05-21 01:29:52 +0900'
+  content: |
+    흐악 저 이번주에는 스터디에 못 나갈 것 같습니다. ㅠ_ㅠ
+- id: 81
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-05-22 13:39:06 +0900'
+  date_gmt: '2012-05-22 04:39:06 +0900'
+  content: |
+    저도 연속으로 빠지네요.. ㅠㅠ
+- id: 82
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-05-22 13:54:40 +0900'
+  date_gmt: '2012-05-22 04:54:40 +0900'
+  content: |
+    혹시 시간이 될 것 같으면 난입해볼께요 ! &gt;_&lt;/ 예습은 전혀 못했지만 ㅠㅠ
+- id: 83
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-05-22 18:36:21 +0900'
+  date_gmt: '2012-05-22 09:36:21 +0900'
+  content: |
+    저 오늘도 안될거 같아요 ㅠ_ㅠ
+- id: 84
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-05-22 19:44:34 +0900'
+  date_gmt: '2012-05-22 10:44:34 +0900'
+  content: |
+    저 지금 회사에서 나섭니다. 8시 10분 도착 예상합니다.
+---
+<p>5월 22일 스터디 공지입니다. 이번 주는 29장 진도 나갑니다.</p>
+
+<ul>
+<li>일시: 2012년 5월 22일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 29장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p><em>참석이 어려우신 분은 미리 댓글 남겨주세요.</em></p>

@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 7월 23일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 747
+wordpress_url: http://www.tuestudy.org/bp/?p=747
+date: 2013-07-21 21:28:05.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 445
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-07-21 21:28:47 +0900'
+  date_gmt: '2013-07-21 12:28:47 +0900'
+  content: |
+    <p>ㄱㅇ!</p>
+- id: 446
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-07-21 21:31:22 +0900'
+  date_gmt: '2013-07-21 12:31:22 +0900'
+  content: |
+    아이고!
+- id: 447
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-07-22 11:23:50 +0900'
+  date_gmt: '2013-07-22 02:23:50 +0900'
+  content: |
+    ㄲ
+- id: 448
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-07-22 17:58:54 +0900'
+  date_gmt: '2013-07-22 08:58:54 +0900'
+  content: |
+    갑니다.
+- id: 449
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-07-23 13:03:35 +0900'
+  date_gmt: '2013-07-23 04:03:35 +0900'
+  content: |
+    갑니다 ^^*
+---
+<p><a href="http://algospot.com/judge/problem/read/BRACKETS2">BRACKETS2</a>를 풉니다. 이미 푼 사람은 다음 문제를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 7월 23일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: (취소됨) [HtDP] 2012년 8월 28일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 542
+wordpress_url: http://www.tuestudy.org/bp/?p=542
+date: 2012-08-22 10:21:06.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 154
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-08-23 11:18:50 +0900'
+  date_gmt: '2012-08-23 02:18:50 +0900'
+  content: |
+    갑니다! ㅎㅎㅎ
+---
+<p><strong>내일 태풍 영향권에 든다고 합니다. 안전을 위해 이번 주 모임은 취소하도록 하겠습니다.<br />
+태풍에 피해 없으시길 바랍니다.</strong></p>
+
+<hr />
+
+<p>초스피드로 올리는 마지막(!) HtDP 스터디 모임 공지입니다.</p>
+
+<p>마지막 모임이라고 특별한 건 없고 43장과 에필로그를 공부합니다.</p>
+
+<p>못 오시는 분들은 미리 댓글로 알려주세요.<br />
+그럼 내일 뵙겠습니다!</p>
+
+<ul>
+<li>일시: 2012년 8월 28일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남 2호점 (예약 모임명: TSG – HtDP 스터디) / 교보타워 사거리 부근</li>
+<li>준비물: 책 또는 노트북</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg" alt="" title="TOZ_강남2호점" width="706" height="903" class="alignnone size-full wp-image-47" /></a></p>

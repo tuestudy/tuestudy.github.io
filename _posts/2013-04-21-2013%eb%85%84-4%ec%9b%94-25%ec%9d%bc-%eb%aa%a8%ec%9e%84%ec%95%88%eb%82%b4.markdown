@@ -1,0 +1,75 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 4월 23일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 697
+wordpress_url: http://www.tuestudy.org/bp/?p=697
+date: 2013-04-21 22:58:55.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 370
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-04-21 23:12:11 +0900'
+  date_gmt: '2013-04-21 14:12:11 +0900'
+  content: |
+    궈궈
+- id: 371
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-21 23:19:46 +0900'
+  date_gmt: '2013-04-21 14:19:46 +0900'
+  content: |
+    저 갑니다!
+- id: 372
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-22 10:06:16 +0900'
+  date_gmt: '2013-04-22 01:06:16 +0900'
+  content: |
+    <p>갑니다~</p>
+- id: 373
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-22 11:06:35 +0900'
+  date_gmt: '2013-04-22 02:06:35 +0900'
+  content: |
+    <p>제가 날짜를 23일인데 25일로 잘못 썼네요. -_-; 모임은 내일, 23일 입니다!</p>
+- id: 374
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-04-22 11:33:48 +0900'
+  date_gmt: '2013-04-22 02:33:48 +0900'
+  content: |
+    전 이번주에는 이번달일을 마무리(일명 야근) 해야해서 못갈것 같습니다.
+- id: 375
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-04-22 17:02:19 +0900'
+  date_gmt: '2013-04-22 08:02:19 +0900'
+  content: |
+    갑니다~~~ ㅎㅎㅎ
+---
+<p><a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>, <a href="http://www.algospot.com/judge/problem/read/JLIS">JLIS</a>, <a href="http://www.algospot.com/judge/problem/read/PI">PI</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/QUANTIZE">QUANTIZE</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 4월 23일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

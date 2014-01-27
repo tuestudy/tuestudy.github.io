@@ -1,0 +1,70 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 5월 8일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 391
+wordpress_url: http://www.tuestudy.org/bp/?p=391
+date: 2012-05-04 20:52:34.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 65
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-05-04 21:26:59 +0900'
+  date_gmt: '2012-05-04 12:26:59 +0900'
+  content: |
+    저는 가긴 갈텐데, 예비군 마치고 옷갈아입고 가야해서 초큼 늦을거예요 ㅠㅠ
+- id: 66
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-05-07 12:03:32 +0900'
+  date_gmt: '2012-05-07 03:03:32 +0900'
+  content: |
+    기념일이라 저녁을 집에서 보내게 될 것 같습니다. 뒤늦은 불참 예고 죄송합니다.
+- id: 67
+  author: honghong
+  author_email: cheonjh@hotmail.com
+  author_url: ''
+  date: '2012-05-08 11:08:25 +0900'
+  date_gmt: '2012-05-08 02:08:25 +0900'
+  content: |
+    프리하다가 제가 어제부로 입사를 했는데,,, 당분간 못나갈 것 같아요TT  가능한 빨리 나가도록 하겠습니다. 죄송~
+- id: 68
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-05-08 16:26:15 +0900'
+  date_gmt: '2012-05-08 07:26:15 +0900'
+  content: |
+    어제 시작해 오늘 새벽4,5시까지 알콜 섭취를
+    했더니 지금 몸이 말이 아니라서 불참할꺼 같습니다. ㅠㅠ
+---
+<p><strong>[추가]</strong> 5월 회비 걷습니다. 회비를 준비해주세요. :)</p>
+
+<p>====</p>
+
+<p>5월 8일 모임 공지입니다.</p>
+
+<p>어버이께 감사하는 마음으로 열심히 공부합시다.</p>
+
+<p>진도는 27.3장 ~ 29장까지입니다.</p>
+
+<p>주말 잘 보내시구요~ 화요일에 뵙겠습니다!</p>
+
+<ul>
+<li>일시: 2012년 5월 8일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 27.3장 ~ 29장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p><em>참석이 어려우신 분은 미리 댓글 남겨주세요.</em></p>

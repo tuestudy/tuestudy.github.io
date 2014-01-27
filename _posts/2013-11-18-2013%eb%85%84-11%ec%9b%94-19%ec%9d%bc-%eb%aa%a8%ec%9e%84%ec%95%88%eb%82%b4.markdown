@@ -1,0 +1,75 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 11월 19일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 795
+wordpress_url: http://www.tuestudy.org/bp/?p=795
+date: 2013-11-18 09:08:57.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 529
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-11-18 09:10:11 +0900'
+  date_gmt: '2013-11-18 00:10:11 +0900'
+  content: |
+    <p>갑니다~</p>
+- id: 530
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-11-18 09:24:45 +0900'
+  date_gmt: '2013-11-18 00:24:45 +0900'
+  content: |
+    저도 좀 참석해보겠습니다. 꼭
+- id: 531
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-11-18 09:39:27 +0900'
+  date_gmt: '2013-11-18 00:39:27 +0900'
+  content: |
+    갑니다.
+- id: 532
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-11-18 10:08:03 +0900'
+  date_gmt: '2013-11-18 01:08:03 +0900'
+  content: |
+    저도 고고싱~
+- id: 533
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-11-19 12:34:07 +0900'
+  date_gmt: '2013-11-19 03:34:07 +0900'
+  content: |
+    이번주에도 못갈거 같아요 ^^;;;
+- id: 534
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-11-19 14:28:27 +0900'
+  date_gmt: '2013-11-19 05:28:27 +0900'
+  content: |
+    <p>다시 또 바빠지셨나보군요 ㅠ.ㅠ 다음에 뵈어요~</p>
+---
+<p>!!! 다시 <strong>강남 2호점</strong>입니다. !!!</p>
+
+<p>자신에 진도에 맞게 문제를 풉니다. 적당한 때가 되면 공유합니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 11월 19일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남점</li>
+</ul>

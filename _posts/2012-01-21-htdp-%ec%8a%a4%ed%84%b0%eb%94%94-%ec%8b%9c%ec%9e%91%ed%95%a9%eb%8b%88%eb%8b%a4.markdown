@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: HtDP 스터디 시작합니다.
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 38
+wordpress_url: http://etsg.cafe24.com/bp/?p=38
+date: 2012-01-21 04:13:09.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 2
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-01-22 11:27:19 +0900'
+  date_gmt: '2012-01-22 11:27:19 +0900'
+  content: 여기다 신청하면 되는건가요? ㅎ
+- id: 3
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-01-22 14:20:08 +0900'
+  date_gmt: '2012-01-22 14:20:08 +0900'
+  content: TSG 그룹 홈( http://etsg.cafe24.com/bp/groups/tsg/ ) 에 남겨주시면 됩니다.
+---
+HtDP(How to Design Programs) 스터디를 시작합니다.
+
+앞으로 매주 화요일 오프라인 스터디가 진행될 예정입니다.
+
+스터디 방법은 SICP 스터디 때와 마찬가지로 함께 모여서 책을 읽고,
+연습문제를 풉니다. 미리 준비해서 발표하는 보통의 스터디그룹에 비해
+진도는 느리지만 참여에 부담감이 없다는 것이 특징입니다.
+
+모임이 시작되면 체크인이라는 과정을 통해 각자의 당일 스터디 목표를 점검하고
+이후 뽀모도로 테크닉을 적용하여 25분 스터디, 5분 휴식 사이클로 보통 3번의
+뽀모도로를 진행하게 됩니다. 스터디가 끝나면 회고를 통하여 목표 달성 여부,
+다음에 해볼 것들을 공유하고 스터디를 마칩니다.
+
+참여를 원하시는 분은 사용자 등록 후에, TSG 그룹에 가입하셔서 그룹 <a href="http://etsg.cafe24.com/bp/groups/tsg/">Home</a>에
+오프라인 스터디 참가 신청 메시지를 남겨주세요.
+
+토즈 예약을 위하여 신청은 <span style="color: #ff0000;"><strong>1월 26일 목요일</strong></span>까지 받습니다.
+(신청인원이 너무(?) 많을 경우 조기 마감될 수 있습니다.)
+
+<strong>모임안내</strong>
+<ul>
+	<li>일시: 2012년 1월 31일 화요일, 오후 7시 30분 ~ 9시 30분</li>
+	<li>장소: 토즈 강남점 또는 강남2호점 (예약 모임명: TSG - HtDP 스터디)</li>
+	<li>회비: 5,000원 (토즈 이용료)</li>
+	<li>준비물: 책 또는 노트북
+<ul>
+	<li><a href="http://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186">How to Design Programs (원서)</a></li>
+	<li><a href="http://www.yes24.com/24/Goods/4853907">프로그램, 어떻게 할 것인가 (번역서)</a></li>
+	<li><a href="http://www.htdp.org/2003-09-26/Book/">How to Design Programs (HTML)</a></li>
+</ul>
+</li>
+</ul>
+<strong>참고자료</strong>
+<ul>
+	<li><a href="http://agile.egloos.com/3684946">바쁜 직장인을 위한 스터디 비결</a></li>
+	<li><a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a></li>
+</ul>

@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 5월 29일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 425
+wordpress_url: http://www.tuestudy.org/bp/?p=425
+date: 2012-05-29 10:33:32.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 85
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-05-29 16:15:46 +0900'
+  date_gmt: '2012-05-29 07:15:46 +0900'
+  content: |
+    오늘도 어려울꺼 같습니다..
+- id: 86
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-05-29 16:26:46 +0900'
+  date_gmt: '2012-05-29 07:26:46 +0900'
+  content: |
+    5월은 잔인한 달이에요 ㅠㅠ
+    오늘도 못갈거 같네요 그래도 이번주면 이 일도 끝날거 같아요 ㅎㅎㅎ
+---
+<p>5월 29일 스터디 공지입니다. 이번 주는 30~31장 진도 나갑니다.</p>
+
+<ul>
+<li>일시: 2012년 5월 29일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 30 ~ 31장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p>스터디 참석 인원이 줄고 있습니다. 최소7인실을 예약하는데 반도 안오는 경우가 잦아지네요.<br />
+모임 전에 불참 인원을 알면 경우에 따라 예약 인원을 변경하여 회비를 절약할 수 있습니다.<br />
+<strong>스터디 참가가 어려우시면 늦어도 오후 6시까지 참석 여부를 알려주세요.</strong></p>

@@ -1,0 +1,81 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 2월 5일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 663
+wordpress_url: http://www.tuestudy.org/bp/?p=663
+date: 2013-02-03 00:27:55.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 315
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-02-03 19:27:59 +0900'
+  date_gmt: '2013-02-03 10:27:59 +0900'
+  content: |
+    <p>갑니다!</p>
+- id: 316
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-02-03 23:23:59 +0900'
+  date_gmt: '2013-02-03 14:23:59 +0900'
+  content: |
+    저도 갑니둥
+- id: 317
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-02-04 00:14:30 +0900'
+  date_gmt: '2013-02-03 15:14:30 +0900'
+  content: |
+    갑니다.
+- id: 318
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-02-04 10:23:38 +0900'
+  date_gmt: '2013-02-04 01:23:38 +0900'
+  content: |
+    저도 ㄱㄱ
+- id: 319
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-02-05 10:47:04 +0900'
+  date_gmt: '2013-02-05 01:47:04 +0900'
+  content: |
+    저는 다음주까지 못갈것 같습니다. 다다음주에나 뵈요 ㅠ_ㅠ
+- id: 320
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-02-05 15:34:24 +0900'
+  date_gmt: '2013-02-05 06:34:24 +0900'
+  content: |
+    저는 이번주엔 가기 힘들것 같습니다 ^^
+- id: 321
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-02-05 19:45:37 +0900'
+  date_gmt: '2013-02-05 10:45:37 +0900'
+  content: |
+    <p>저 10분 정도 늦을듯...</p>
+---
+<p>지난 주에 풀었던 <a href="http://www.algospot.com/judge/problem/read/BOGGLE">BOGGLE</a>풀이 공유하고 <a href="http://www.algospot.com/judge/problem/read/PICNIC">PICNIC</a> 을 풉니다.</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 2월 5일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

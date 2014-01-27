@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 3월 27일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 275
+wordpress_url: http://www.tuestudy.org/bp/?p=275
+date: 2012-03-24 16:48:49.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments: []
+---
+<p>토즈 강남점 최소 7인실(7인~9인실) 예약했습니다.<br />
+14 ~ 15장 예습해오시면 됩니다.<br />
+참석이 어려우신 분은 미리 댓글 남겨주세요.</p>
+
+<ul>
+<li>일시: 2012년 3월 27일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 14 ~ 15장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>

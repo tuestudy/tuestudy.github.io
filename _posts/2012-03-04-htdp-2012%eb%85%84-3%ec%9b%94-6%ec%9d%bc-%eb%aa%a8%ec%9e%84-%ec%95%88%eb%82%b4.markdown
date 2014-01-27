@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 3월 6일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 163
+wordpress_url: http://www.tuestudy.org/bp/?p=163
+date: 2012-03-04 23:25:44.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments: []
+---
+이번 주는 예고 드렸던 바와 같이 1부를 끝낸 기념으로 쉬어가는 시간을 갖도록 하겠습니다.
+개발 관련 담소나 스터디 운영에 대한 얘기 나눠보면 좋겠습니다.
+<ul>
+	<li>일시: 2012년 3월 6일 화요일, 오후 8시 부터 ~</li>
+	<li>장소: <a href="http://www.wingspoon.com/seoul/gangnam_station/espressopublic_gny/index.nhn">에스프레소 퍼블릭</a></li>
+	<li>회비: 각자 먹은 것을 계산합니다.</li>
+	<li>준비물: 없음</li>
+</ul>
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/03/Espresso_public.png"><img class="alignnone size-full wp-image-164" title="Espresso_public" src="http://www.tuestudy.org/bp/wp-content/uploads/2012/03/Espresso_public.png" alt="" width="581" height="425" /></a>
+
+----
+
+갑작스러운 스터디 불참으로 토즈 이용료가 비는 상황에 발생하기 시작했습니다.
+기존까지는 누적된 토즈 포인트를 이용했는데 생각보다 불참 사태가 많아져서
+앞으로는 한달치 토즈 이용료를 미리 걷으려고 합니다.
+<span style="color: #ff0000;"><strong>매월 첫주 2만원씩 걷도록 하겠습니다.</strong></span>
+<span style="color: #ff0000;"><strong> 모임 오실 때 미리 준비해주시면 감사하겠습니다.</strong></span>
+
+그럼 화요일에 뵙겟습니다!

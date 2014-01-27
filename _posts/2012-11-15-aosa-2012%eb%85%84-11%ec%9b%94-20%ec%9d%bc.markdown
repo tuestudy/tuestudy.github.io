@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 11월 20일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 614
+wordpress_url: http://www.tuestudy.org/bp/?p=614
+date: 2012-11-15 09:44:14.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 231
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-11-15 12:33:17 +0900'
+  date_gmt: '2012-11-15 03:33:17 +0900'
+  content: |
+    갑니다 ~
+- id: 232
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-16 18:13:28 +0900'
+  date_gmt: '2012-11-16 09:13:28 +0900'
+  content: |
+    <p>저도 갑니다! 꼭 발표를!</p>
+- id: 233
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-11-19 00:57:25 +0900'
+  date_gmt: '2012-11-18 15:57:25 +0900'
+  content: |
+    이번주는 노드컨퍼런스 사진찍어주러 화요일날 가서 못갈꺼 같아요 ㅠㅠ
+- id: 234
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-19 22:04:54 +0900'
+  date_gmt: '2012-11-19 13:04:54 +0900'
+  content: |
+    <p>크흑 제 주옥(?) 같은 발표를 못 들으시겠군요. ㅋㅋㅋㅋ</p>
+- id: 235
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-11-20 11:29:44 +0900'
+  date_gmt: '2012-11-20 02:29:44 +0900'
+  content: |
+    저 개인적인 사정으로 오늘 불참합니다. 다음주도 어떻게 될지 모르겠군요
+---
+<h2>모임 안내</h2>
+
+이번 주 모임에는 Processing.js 발표가 있을 예정입니다.
+그 외 준비되는 분 발표가 하나 정도 더 있을 것 같구요.
+
+
+
+참석 여부 댓글로 남겨주세요~
+
+
+
+<ul>
+<li>일시: 2012년 11월 20일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남2호점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 12월 3일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 799
+wordpress_url: http://www.tuestudy.org/bp/?p=799
+date: 2013-12-01 16:40:10.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 540
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-12-01 16:50:20 +0900'
+  date_gmt: '2013-12-01 07:50:20 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 541
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-12-01 17:15:22 +0900'
+  date_gmt: '2013-12-01 08:15:22 +0900'
+  content: |
+    갑니다.
+- id: 542
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-12-01 17:49:41 +0900'
+  date_gmt: '2013-12-01 08:49:41 +0900'
+  content: |
+    갑니다 ~~,
+- id: 543
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-12-03 18:08:03 +0900'
+  date_gmt: '2013-12-03 09:08:03 +0900'
+  content: |
+    저도 갑니다 ^^*
+    댓글이 너무 늦었네요
+---
+<p>!! <strong>강남 2호점</strong>입니다. !!!</p>
+
+<p>간만에 공유 타임!!</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 12월 3일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남점</li>
+</ul>

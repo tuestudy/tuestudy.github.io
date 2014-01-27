@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 8월 13일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 758
+wordpress_url: http://www.tuestudy.org/bp/?p=758
+date: 2013-08-11 21:39:31.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 460
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-08-11 21:45:27 +0900'
+  date_gmt: '2013-08-11 12:45:27 +0900'
+  content: |
+    <p>갑니다요~</p>
+- id: 461
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-08-11 21:47:24 +0900'
+  date_gmt: '2013-08-11 12:47:24 +0900'
+  content: |
+    갑니다. 피자주세요.
+- id: 462
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-08-13 00:14:26 +0900'
+  date_gmt: '2013-08-12 15:14:26 +0900'
+  content: |
+    늦어서 죄송합니당 저도 가요 가요 ~
+- id: 463
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-08-13 12:07:12 +0900'
+  date_gmt: '2013-08-13 03:07:12 +0900'
+  content: |
+    갑니다~
+- id: 464
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-08-13 13:34:45 +0900'
+  date_gmt: '2013-08-13 04:34:45 +0900'
+  content: |
+    아이고 저도 갑니다. 요새 지메일이 뭐가 바뀌어서 레이블을 만들어서 자동 저장을 해주는데, 레이블링 된 메일들은 알림이 안오네요...
+---
+<p>지난번에 열심히 공유를 해서 이번주는 <a href="http://algospot.com/judge/problem/read/NAMING">NAMING</a> 문제를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 8월 13일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

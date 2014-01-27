@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 5월 21일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 714
+wordpress_url: http://www.tuestudy.org/bp/?p=714
+date: 2013-05-18 20:27:12.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 393
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-05-18 20:29:55 +0900'
+  date_gmt: '2013-05-18 11:29:55 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 394
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-05-18 20:43:10 +0900'
+  date_gmt: '2013-05-18 11:43:10 +0900'
+  content: |
+    갑니다 가요
+- id: 395
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-05-19 14:45:38 +0900'
+  date_gmt: '2013-05-19 05:45:38 +0900'
+  content: |
+    네 방금 출발했어요
+- id: 396
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-05-21 12:39:46 +0900'
+  date_gmt: '2013-05-21 03:39:46 +0900'
+  content: |
+    갑니다~~~~~
+---
+<p><a href="http://www.algospot.com/judge/problem/read/QUANTIZE">QUANTIZE</a>를 공유하고, <a href="http://algospot.com/judge/problem/read/TILING2">타일링</a>을 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 5월 21일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

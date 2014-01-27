@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 8월 27일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 764
+wordpress_url: http://www.tuestudy.org/bp/?p=764
+date: 2013-08-25 22:43:26.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 471
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-08-25 22:51:04 +0900'
+  date_gmt: '2013-08-25 13:51:04 +0900'
+  content: |
+    <p>갑니다!</p>
+- id: 472
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-08-25 22:51:43 +0900'
+  date_gmt: '2013-08-25 13:51:43 +0900'
+  content: |
+    가여. 꼭
+- id: 473
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-08-25 22:53:36 +0900'
+  date_gmt: '2013-08-25 13:53:36 +0900'
+  content: |
+    까ㅃ니따
+- id: 474
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-08-26 00:08:29 +0900'
+  date_gmt: '2013-08-25 15:08:29 +0900'
+  content: |
+    저는 심지어 화요일 휴가!
+    갑니당 ㅎㅎ
+- id: 475
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-08-27 09:15:15 +0900'
+  date_gmt: '2013-08-27 00:15:15 +0900'
+  content: |
+    이번주도 가기 어려울것 같아요 ^^*
+---
+<p>공유는 몰아서 하기로 하고 이번주는 <a href="http://algospot.com/judge/problem/read/JAEHASAFE">JAEHASAFE</a> 문제를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 8월 27일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

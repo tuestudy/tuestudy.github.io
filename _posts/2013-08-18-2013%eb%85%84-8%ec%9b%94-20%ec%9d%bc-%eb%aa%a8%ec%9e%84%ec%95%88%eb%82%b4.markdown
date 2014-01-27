@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 8월 20일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 762
+wordpress_url: http://www.tuestudy.org/bp/?p=762
+date: 2013-08-18 20:30:05.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 465
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-08-18 21:07:04 +0900'
+  date_gmt: '2013-08-18 12:07:04 +0900'
+  content: |
+    갑니당~~
+- id: 466
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-08-18 21:17:39 +0900'
+  date_gmt: '2013-08-18 12:17:39 +0900'
+  content: |
+    갑니다.
+- id: 467
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-08-18 21:49:49 +0900'
+  date_gmt: '2013-08-18 12:49:49 +0900'
+  content: |
+    <p>저도~</p>
+- id: 468
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-08-19 10:09:29 +0900'
+  date_gmt: '2013-08-19 01:09:29 +0900'
+  content: |
+    저도 오랫만에 갑니다~
+- id: 469
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-08-19 11:02:11 +0900'
+  date_gmt: '2013-08-19 02:02:11 +0900'
+  content: |
+    gogo 요
+- id: 470
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-08-20 09:03:11 +0900'
+  date_gmt: '2013-08-20 00:03:11 +0900'
+  content: |
+    저는 오늘은 패스!
+    다음주에 뵈요 ^^
+---
+<p>공유는 몰아서 하기로 하고 이번주는 <a href="http://algospot.com/judge/problem/read/NAMING">PALINDROMIZE</a> 문제를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 8월 20일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

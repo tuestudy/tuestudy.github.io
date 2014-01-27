@@ -1,0 +1,79 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 4월 17일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 320
+wordpress_url: http://www.tuestudy.org/bp/?p=320
+date: 2012-04-13 18:40:21.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 45
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-16 21:31:08 +0900'
+  date_gmt: '2012-04-16 12:31:08 +0900'
+  content: |
+    <p>내일 전원 참석인가요?! 두구두구.</p>
+- id: 46
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-04-17 10:08:28 +0900'
+  date_gmt: '2012-04-17 01:08:28 +0900'
+  content: |
+    흑 저 못가겠네요 ㅠㅜ
+- id: 47
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-04-17 13:48:16 +0900'
+  date_gmt: '2012-04-17 04:48:16 +0900'
+  content: |
+    오늘 예습은 못하겠군요 쿨럭쿨럭
+- id: 48
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-04-17 15:03:18 +0900'
+  date_gmt: '2012-04-17 06:03:18 +0900'
+  content: |
+    저도 예습을 못하겠네요. 가서 책이라도 봐야 겠습니다.. ㅠㅠ
+- id: 49
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-17 16:14:50 +0900'
+  date_gmt: '2012-04-17 07:14:50 +0900'
+  content: |
+    <p>저도 예습 못 했다능 쿨럭</p>
+- id: 50
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-04-17 17:43:40 +0900'
+  date_gmt: '2012-04-17 08:43:40 +0900'
+  content: |
+    예습은 모임 전 토즈에 와서 부랴부랴 얼렁뚱땅해야 제 맛 아닙니까
+---
+<p>4월 17일 모임 공지입니다.</p>
+
+<p>19장과 20장 분량이 적어서 19 ~ 21장까지로 진도 잡아봤습니다.</p>
+
+<p>오는 주말 즐겁게 보내시고 화요일에 뵙겠습니다.</p>
+
+<ul>
+<li>일시: 2012년 4월 17일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 19 ~ 21장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p><em>참석이 어려우신 분은 미리 댓글 남겨주세요.</em></p>

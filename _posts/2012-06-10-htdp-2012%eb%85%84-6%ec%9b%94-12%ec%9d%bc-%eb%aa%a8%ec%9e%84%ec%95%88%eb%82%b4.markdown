@@ -1,0 +1,78 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 6월 12일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 446
+wordpress_url: http://www.tuestudy.org/bp/?p=446
+date: 2012-06-10 22:50:02.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 97
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-06-12 10:44:39 +0900'
+  date_gmt: '2012-06-12 01:44:39 +0900'
+  content: |
+    크흑 저 오늘 못갈 듯 해요.
+    일이 많은건 아닌데, 딱 스터디 하는 시간에 봐줘야 하는게 생겼네요. ㅠㅠ ㅇ으헝ㅎ러허어헝헝 ㅠㅠ
+- id: 98
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-12 13:47:03 +0900'
+  date_gmt: '2012-06-12 04:47:03 +0900'
+  content: |
+    <p>저는 디아의 유혹을 무릎쓰고 스터디에 갈 것입니다. =_=</p>
+- id: 99
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-06-12 15:29:27 +0900'
+  date_gmt: '2012-06-12 06:29:27 +0900'
+  content: |
+    오늘도 못가겠네요 잘못하면 담주까지도 못 가는 불상사가 생길 것 같네요 ㅠㅜ
+- id: 100
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-06-12 18:17:48 +0900'
+  date_gmt: '2012-06-12 09:17:48 +0900'
+  content: |
+    금주 불참입니다. ㅠㅠ 오랫만에 야근하네요..
+- id: 101
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-12 19:05:18 +0900'
+  date_gmt: '2012-06-12 10:05:18 +0900'
+  content: |
+    <p>저도 야근 크리 ㅠㅠ</p>
+- id: 102
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-12 19:43:04 +0900'
+  date_gmt: '2012-06-12 10:43:04 +0900'
+  content: |
+    <p>저 이제 회사에서 출발해요 ㅠㅠ 9시 다 되서 도착하겠네요.</p>
+---
+<p>6월 12일 스터디 공지입니다. 이번 주는 32장 진도 나갑니다.<br />
+장소는 언제나 그렇듯 토즈 강남점입니다!</p>
+
+<ul>
+<li>일시: 2012년 6월 12일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 32장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p>모임 전에 불참 인원을 알면 경우에 따라 예약 인원을 변경하여 회비를 절약할 수 있습니다.<br />
+<strong>스터디 참가가 어려우시면 늦어도 오후 6시까지 참석 여부를 알려주세요.</strong></p>

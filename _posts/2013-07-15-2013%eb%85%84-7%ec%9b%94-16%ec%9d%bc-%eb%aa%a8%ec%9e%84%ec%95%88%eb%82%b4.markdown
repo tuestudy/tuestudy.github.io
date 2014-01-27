@@ -1,0 +1,87 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 7월 16일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 744
+wordpress_url: http://www.tuestudy.org/bp/?p=744
+date: 2013-07-15 10:06:09.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 438
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-07-15 10:07:46 +0900'
+  date_gmt: '2013-07-15 01:07:46 +0900'
+  content: |
+    <p>ㄱㄴㄷ</p>
+- id: 439
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-07-15 10:29:34 +0900'
+  date_gmt: '2013-07-15 01:29:34 +0900'
+  content: |
+    ㅏㅣㅏ
+- id: 440
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-07-15 10:36:14 +0900'
+  date_gmt: '2013-07-15 01:36:14 +0900'
+  content: |2+
+
+    ㄱㅏㄴㅣㄷㅏ
+      ㅂ
+
+- id: 441
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-07-15 13:42:06 +0900'
+  date_gmt: '2013-07-15 04:42:06 +0900'
+  content: |
+    ㅈ ㅓ ㄷ  ㅇ
+             ㅜ   ㅛ
+- id: 442
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-07-15 13:42:29 +0900'
+  date_gmt: '2013-07-15 04:42:29 +0900'
+  content: |
+    저두요 쓰려고 했는데... OTL
+- id: 443
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-07-15 16:19:39 +0900'
+  date_gmt: '2013-07-15 07:19:39 +0900'
+  content: |
+    저도 갑니다 ^^
+- id: 444
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-07-15 17:57:18 +0900'
+  date_gmt: '2013-07-15 08:57:18 +0900'
+  content: |
+    <p>드디어 오시는군요! 낼 뵈요~ :)</p>
+---
+<p><a href="http://algospot.com/judge/problem/read/JOSEPHUS">JOSEPHUS</a>를 풉니다. 이미 푼 사람은 다음 문제를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 7월 16일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

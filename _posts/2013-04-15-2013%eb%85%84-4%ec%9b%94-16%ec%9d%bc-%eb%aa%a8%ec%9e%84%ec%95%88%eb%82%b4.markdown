@@ -1,0 +1,83 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 4월 16일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 695
+wordpress_url: http://www.tuestudy.org/bp/?p=695
+date: 2013-04-15 14:19:38.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 363
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-15 14:19:50 +0900'
+  date_gmt: '2013-04-15 05:19:50 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 364
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-04-15 15:57:28 +0900'
+  date_gmt: '2013-04-15 06:57:28 +0900'
+  content: |
+    저도 갑니다.
+- id: 365
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-04-16 10:48:07 +0900'
+  date_gmt: '2013-04-16 01:48:07 +0900'
+  content: |
+    오늘 참여자가 적네요.. 폭발인가요? ㅎㄷ
+- id: 366
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-04-16 12:17:13 +0900'
+  date_gmt: '2013-04-16 03:17:13 +0900'
+  content: |
+    이번주도 못갈거 같아요 ^^;;;
+- id: 367
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-16 13:44:15 +0900'
+  date_gmt: '2013-04-16 04:44:15 +0900'
+  content: |
+    갑니다요!
+- id: 368
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-04-16 17:15:54 +0900'
+  date_gmt: '2013-04-16 08:15:54 +0900'
+  content: |
+    저도 컨디션 문제로 오늘 모임 쉬겠습니다. 그나저나 밀린 문제들이 많아 큰일 이네요. 자꾸 쌓이면 하기가 싫어지는데... 이번 주말에 밀린 것들 한번 털어봐야겠습니다. 턴다고 털리지 않는 게 함정이지만.
+- id: 369
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-16 18:58:44 +0900'
+  date_gmt: '2013-04-16 09:58:44 +0900'
+  content: |
+    <p>그냥 맘 편히 책을 보시는 것도...</p>
+---
+<p><a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>, <a href="http://www.algospot.com/judge/problem/read/JLIS">JLIS</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/PI">PI</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 4월 16일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

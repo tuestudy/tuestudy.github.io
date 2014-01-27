@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 7월 3일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 468
+wordpress_url: http://www.tuestudy.org/bp/?p=468
+date: 2012-07-02 09:56:58.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 111
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-07-02 22:55:47 +0900'
+  date_gmt: '2012-07-02 13:55:47 +0900'
+  content: |
+    진도 따라가고 있어요!
+- id: 112
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-07-03 16:56:07 +0900'
+  date_gmt: '2012-07-03 07:56:07 +0900'
+  content: |
+    2주 연속 참가를 못하네요 ^^;;
+    다음주에 뵈요!
+- id: 113
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-07-03 17:13:37 +0900'
+  date_gmt: '2012-07-03 08:13:37 +0900'
+  content: |
+    저도 이번 25일 퇴사 결정이 확정되면서 정리할께 생겨 못갈꺼 같습니다.
+- id: 114
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-07-03 19:06:08 +0900'
+  date_gmt: '2012-07-03 10:06:08 +0900'
+  content: |
+    급한 일이 생겨 불참합니다. 다음주에 뵈어요!!
+---
+<p>7월 3일 스터디 공지입니다. 이번 주 모임도 <strong>토즈 강남2호점</strong>입니다.</p>
+
+<p>지난 주에 35장까지 나가서 이번 주는 36장을 봅니다.
+진도가 맞지 않는 분들은 적당히 진도 맞춰서 보시면 됩니다.
+내일 뵈겠습니다.</p>
+
+<ul>
+<li>일시: 2012년 7월 3일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남 2호점 (예약 모임명: TSG – HtDP 스터디) / 교보타워 사거리 부근</li>
+<li>준비물: 책 또는 노트북 / 36장 예습</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg" alt="" title="TOZ_강남2호점" width="706" height="903" class="alignnone size-full wp-image-47" /></a></p>
+
+<p>모임 전에 불참 인원을 알면 경우에 따라 예약 인원을 변경하여 회비를 절약할 수 있습니다.<br />
+<strong>스터디 참가가 어려우시면 늦어도 오후 6시까지 참석 여부를 알려주세요.</strong></p>

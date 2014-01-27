@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 1월 31일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 46
+wordpress_url: http://etsg.cafe24.com/bp/?p=46
+date: 2012-01-27 05:19:56.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 4
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-01-29 13:53:16 +0900'
+  date_gmt: '2012-01-29 13:53:16 +0900'
+  content: 야호! &gt;_&lt;/
+---
+<span style="color: #ff0000;"><strong>폭설로 인하여 오늘 모임은 취소되었습니다.</strong></span>
+
+============
+
+토즈 강남2호점 최소5인실(5~6인실) 예약했습니다.
+한자리 여유분이 있으니 혹시 기간내에 신청을 하지 못하셨더라도 참여를 희망하시면 글 남겨주세요.
+<ul>
+	<li>일시: 2012년 1월 31일 화요일, 오후 7시 30분 ~ 9시 30분</li>
+	<li>장소: <strong>토즈 <span style="color: #ff0000;">강남2호점</span></strong> (예약 모임명: TSG – HtDP 스터디) / <a href="http://www.toz.co.kr/booth/jb_booth/booth_jb_basicinfo.asp?idx=1">약도보기</a></li>
+	<li>회비: 5,000원 (토즈 이용료)</li>
+	<li>준비물: 책 또는 노트북
+<ul>
+	<li><a href="http://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186">How to Design Programs (원서)</a></li>
+	<li><a href="http://www.yes24.com/24/Goods/4853907">프로그램, 어떻게 할 것인가 (번역서)</a></li>
+	<li><a href="http://www.htdp.org/2003-09-26/Book/">How to Design Programs (HTML)</a></li>
+</ul>
+</li>
+</ul>

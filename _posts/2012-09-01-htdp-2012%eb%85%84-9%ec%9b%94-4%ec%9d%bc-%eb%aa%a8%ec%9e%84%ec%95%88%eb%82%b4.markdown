@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 9월 4일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 548
+wordpress_url: http://www.tuestudy.org/bp/?p=548
+date: 2012-09-01 01:05:40.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 155
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-09-04 15:41:54 +0900'
+  date_gmt: '2012-09-04 06:41:54 +0900'
+  content: |
+    헛 이번주가 마지막이군요;;; 이번 주 내내 외부교육 중이라 참석이 어려울듯 합니다...
+- id: 156
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-09-04 17:32:50 +0900'
+  date_gmt: '2012-09-04 08:32:50 +0900'
+  content: |
+    저도 이번주는 참석이 어려울것 같네요 ㅠ_ㅠ
+    오늘은 릴리즈... 두 시간짜리 빌드에 들어갔어요
+- id: 157
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-09-04 18:20:09 +0900'
+  date_gmt: '2012-09-04 09:20:09 +0900'
+  content: |
+    아으 저도 못갈듯 ;ㅁ; 엄청 오랫동안 못갔네요 담주엔 꼭! ㅠㅜ
+- id: 158
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-04 18:58:10 +0900'
+  date_gmt: '2012-09-04 09:58:10 +0900'
+  content: |
+    전 지금 출발합니드아으아으!
+---
+<p>마지막 HtDP 스터디 모임입니다.
+43장과 에필로그를 공부하고 마무리 하는 시간을 갖습니다.</p>
+
+<p>새 책은 2주차 부터!</p>
+
+<p>못 오시는 분들은 미리 댓글로 알려주세요.<br />
+그럼 내일 뵙겠습니다!</p>
+
+<ul>
+<li>일시: 2012년 9월 4일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남 2호점 (예약 모임명: TSG – HtDP 스터디) / 교보타워 사거리 부근</li>
+<li>준비물: 책 또는 노트북</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점.jpg" alt="" title="TOZ_강남2호점" width="706" height="903" class="alignnone size-full wp-image-47" /></a></p>

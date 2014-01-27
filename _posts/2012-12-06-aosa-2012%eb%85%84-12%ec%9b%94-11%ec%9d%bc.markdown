@@ -1,0 +1,95 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 12월 11일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 630
+wordpress_url: http://www.tuestudy.org/bp/?p=630
+date: 2012-12-06 13:19:22.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 258
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-06 13:19:55 +0900'
+  date_gmt: '2012-12-06 04:19:55 +0900'
+  content: |
+    <p>전 회식 때문에 불참 ㅠㅠ</p>
+- id: 259
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-06 22:35:17 +0900'
+  date_gmt: '2012-12-06 13:35:17 +0900'
+  content: |
+    전 팟님 발표 들으러 갑니당!
+- id: 261
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-12-09 17:35:57 +0900'
+  date_gmt: '2012-12-09 08:35:57 +0900'
+  content: |
+    아 정말 죄송합니다..
+
+    연말이다 보니 이런저런 일들이 계속 생겨서 이번주에도 못갈꺼 같습니다.. ㅠㅠ
+- id: 264
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-10 16:05:59 +0900'
+  date_gmt: '2012-12-10 07:05:59 +0900'
+  content: |
+    헉 그럼 내일은 사람이 두명? 인건가염 :'(
+- id: 266
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-10 16:20:03 +0900'
+  date_gmt: '2012-12-10 07:20:03 +0900'
+  content: |
+    저는 불참입니다요.
+- id: 267
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-10 16:35:52 +0900'
+  date_gmt: '2012-12-10 07:35:52 +0900'
+  content: |
+    <p>여러가지 사정으로 이번 주 모임은 쉽니다. 푹 쉬시고 다음 주 송년 모임때 뵈요!</p>
+---
+이번 모임은 취소 되었습니다.
+
+
+
+=====================
+
+
+
+<h2>모임 안내</h2>
+
+한 주 늦어진 POD님의 Selenium WebDriver 발표를 기대하며 많이 많이 신청해주세요!
+
+참석 여부 댓글로 남겨주세요~
+
+
+
+이번엔 <strong>강남점</strong>입니다!!!!
+
+
+
+<ul>
+<li>일시: 2012년 12월 11일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a>
+
+

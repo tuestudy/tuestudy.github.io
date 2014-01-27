@@ -1,0 +1,113 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 1월 15일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 650
+wordpress_url: http://www.tuestudy.org/bp/?p=650
+date: 2013-01-13 00:24:08.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 294
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-13 00:24:46 +0900'
+  date_gmt: '2013-01-12 15:24:46 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 295
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-01-13 10:43:39 +0900'
+  date_gmt: '2013-01-13 01:43:39 +0900'
+  content: |
+    저도 갑니당!
+- id: 296
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-13 18:24:18 +0900'
+  date_gmt: '2013-01-13 09:24:18 +0900'
+  content: |
+    저도 참석이요.
+- id: 297
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-01-15 09:32:14 +0900'
+  date_gmt: '2013-01-15 00:32:14 +0900'
+  content: |
+    새벽까지 술을 마시고 회사에서 잤지만.. 술과 피곤에 쩔은 모습으로 가겠습니다. ㅎㄷ
+- id: 298
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-15 14:09:49 +0900'
+  date_gmt: '2013-01-15 05:09:49 +0900'
+  content: |
+    <p>못 오신다는 줄 알고 깜놀 ㅋ</p>
+- id: 299
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-15 14:10:41 +0900'
+  date_gmt: '2013-01-15 05:10:41 +0900'
+  content: |
+    <p>제가 발표 준비가 1~3장까지 밖에 안되서 일단 준비된 곳까지 발표하고 남는 시간에 책을 좀 읽거나 1장에 나온 FESTIVAL 문제를 풀어보면 어떨까 합니다. ㅠ.ㅠ</p>
+- id: 300
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-15 17:14:52 +0900'
+  date_gmt: '2013-01-15 08:14:52 +0900'
+  content: |
+    제가 오늘 책을 안 들고 가는데, 팟님 혹시 '그거' 준비 가능할까요?
+- id: 301
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-01-15 18:09:11 +0900'
+  date_gmt: '2013-01-15 09:09:11 +0900'
+  content: |
+    전 좀 일찍 퇴근해서 강남을 배회하고 있겠습니다..
+- id: 302
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-01-15 18:45:37 +0900'
+  date_gmt: '2013-01-15 09:45:37 +0900'
+  content: |
+    지금 출발합니다 ^^
+- id: 303
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-15 19:00:19 +0900'
+  date_gmt: '2013-01-15 10:00:19 +0900'
+  content: |
+    <p>저도 출발~</p>
+---
+<p>2013년 첫 스터디는 "프로그래밍 대회에서 배우는 알고리즘 문제해결전략"(일명 JMBook)로 결정되었습니다.</p>
+
+<p>이번 모임에서는 제가 1~5장까지 초날림 정리 발표를 하고, 그 다음 주 부터 문제 위주로 스터디를 진행할 예정입니다.</p>
+
+<p>한 주는 문제를 풀고, 그 다음 주에 해당 문제에 대한 풀이를 공유하는 방식으로...</p>
+
+<p>기간은 대략 6개월 정도 예상 중입니다.</p>
+
+<p>많은 참여 부탁드리며, 모임 참석 여부를 댓글로 남겨주세요.</p>
+
+<ul>
+<li>일시: 2013년 1월 15일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/2013/01/13/2013%eb%85%84-1%ec%9b%94-15%ec%9d%bc-%eb%aa%a8%ec%9e%84%ec%95%88%eb%82%b4/tsg_2013/" rel="attachment wp-att-651"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2013/01/tsg_2013.jpg" alt="tsg_2013" width="800" height="460" class="alignnone size-full wp-image-651" /></a></p>

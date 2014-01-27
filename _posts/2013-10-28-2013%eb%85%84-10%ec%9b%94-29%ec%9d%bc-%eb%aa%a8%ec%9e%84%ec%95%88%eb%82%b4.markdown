@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 10월 29일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 788
+wordpress_url: http://www.tuestudy.org/bp/?p=788
+date: 2013-10-28 10:03:07.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 515
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-10-28 10:03:32 +0900'
+  date_gmt: '2013-10-28 01:03:32 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 516
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-10-28 10:10:41 +0900'
+  date_gmt: '2013-10-28 01:10:41 +0900'
+  content: |
+    저도 가요 ~ 자잔~
+- id: 517
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-10-28 12:06:48 +0900'
+  date_gmt: '2013-10-28 03:06:48 +0900'
+  content: |
+    갑니다.
+- id: 518
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-10-29 15:14:01 +0900'
+  date_gmt: '2013-10-29 06:14:01 +0900'
+  content: |
+    갑니다~~~
+---
+<p>자신에 진도에 맞게 문제를 풉니다. 적당한 때가 되면 공유합니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<ul>
+<li>일시: 2013년 10월 29일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

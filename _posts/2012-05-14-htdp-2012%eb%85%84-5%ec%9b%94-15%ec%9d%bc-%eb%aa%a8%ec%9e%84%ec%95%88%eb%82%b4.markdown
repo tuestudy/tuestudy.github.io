@@ -1,0 +1,82 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 5월 15일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 407
+wordpress_url: http://www.tuestudy.org/bp/?p=407
+date: 2012-05-14 00:07:35.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 71
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-05-14 14:25:56 +0900'
+  date_gmt: '2012-05-14 05:25:56 +0900'
+  content: |
+    내일은 참석합니다! ㅋ
+- id: 72
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-05-15 15:38:59 +0900'
+  date_gmt: '2012-05-15 06:38:59 +0900'
+  content: |
+    허허 망했어요 오늘은 예습 하나도 못했네요
+    스터디 가서 책 읽을 판입니다 orz
+- id: 73
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-05-15 16:18:54 +0900'
+  date_gmt: '2012-05-15 07:18:54 +0900'
+  content: |
+    외할머니 상을 당해서 갑자기 고향을 갑니다. 화요일마다 일이 하나씩 생기네요.
+- id: 74
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-05-15 17:50:08 +0900'
+  date_gmt: '2012-05-15 08:50:08 +0900'
+  content: |
+    저도 이번주는 바빠서 못가겠네요. 담주에 뵈어요~
+- id: 75
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-05-15 17:54:50 +0900'
+  date_gmt: '2012-05-15 08:54:50 +0900'
+  content: |
+    저도 오늘은 참석이 힘들것 같네요 ㅠ_ㅠ
+- id: 76
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-05-15 19:54:13 +0900'
+  date_gmt: '2012-05-15 10:54:13 +0900'
+  content: |
+    이거 의도치 않게 계속 빠지게 되네요 ㅠㅠ
+---
+<p>5월 15일 모임 공지입니다.</p>
+
+<p>스승의 은혜에 감사하는 마음으로 열심히 공부합시다.</p>
+
+<p>진도는 28장 ~ 29장까지입니다.</p>
+
+<p>주말 잘 보내시구요~ 화요일에 뵙겠습니다!</p>
+
+<ul>
+<li>일시: 2012년 5월 15일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 28장 ~ 29장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p><em>참석이 어려우신 분은 미리 댓글 남겨주세요.</em></p>

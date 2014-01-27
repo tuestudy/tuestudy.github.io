@@ -1,0 +1,58 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 5월 1일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 369
+wordpress_url: http://www.tuestudy.org/bp/?p=369
+date: 2012-04-30 01:06:40.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 61
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-05-01 10:42:58 +0900'
+  date_gmt: '2012-05-01 01:42:58 +0900'
+  content: |
+    일찌감치 강남가서 책보고 있어야겠어요 ㅎ
+- id: 62
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-05-01 16:39:00 +0900'
+  date_gmt: '2012-05-01 07:39:00 +0900'
+  content: |
+    2주 연속 못나가게 될거 같네요...
+    집안 행사가 잡혀서 ㅠ_ㅠ
+- id: 63
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-05-01 19:15:11 +0900'
+  date_gmt: '2012-05-01 10:15:11 +0900'
+  content: |
+    <p>토즈에 좀 일찍 도착해서 예약 시간을 7시 10분 ~ 10시로 변경했습니다.
+    일찍 도착하시는 분들은 3+4 부스로 오시면 됩니다~</p>
+---
+<p>5월 1일 모임 공지입니다.</p>
+
+<p>휴일이지만 시간 변경 없이 8시에 시작합니다.
+진도는 25 ~ 27.2장입니다. 27장 양이 좀 많아서 나눴습니다.</p>
+
+<p>그럼 화요일에 뵙겠습니다!</p>
+
+<ul>
+<li>일시: 2012년 5월 1일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 25 ~ 27.2장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p><em>참석이 어려우신 분은 미리 댓글 남겨주세요.</em></p>

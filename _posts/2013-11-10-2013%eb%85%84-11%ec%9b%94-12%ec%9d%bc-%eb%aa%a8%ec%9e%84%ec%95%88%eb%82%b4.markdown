@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 11월 12일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 792
+wordpress_url: http://www.tuestudy.org/bp/?p=792
+date: 2013-11-10 16:27:10.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 525
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-11-10 16:29:32 +0900'
+  date_gmt: '2013-11-10 07:29:32 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 526
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-11-10 16:31:44 +0900'
+  date_gmt: '2013-11-10 07:31:44 +0900'
+  content: |
+    저도 고고싱
+- id: 527
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-11-10 17:05:52 +0900'
+  date_gmt: '2013-11-10 08:05:52 +0900'
+  content: |
+    갑니다.
+- id: 528
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-11-12 16:23:26 +0900'
+  date_gmt: '2013-11-12 07:23:26 +0900'
+  content: |
+    저는 오늘 참석이 힘드네요 ^^*
+---
+<p>!!! 모임 장소가 <strong>강남점</strong>으로 변경되었습니다. !!!</p>
+
+<p>자신에 진도에 맞게 문제를 풉니다. 적당한 때가 되면 공유합니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 11월 12일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남점</li>
+</ul>

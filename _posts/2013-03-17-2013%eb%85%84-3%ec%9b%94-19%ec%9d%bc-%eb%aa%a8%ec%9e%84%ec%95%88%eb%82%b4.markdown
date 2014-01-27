@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 3월 19일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 681
+wordpress_url: http://www.tuestudy.org/bp/?p=681
+date: 2013-03-17 21:01:01.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 345
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-03-17 21:31:22 +0900'
+  date_gmt: '2013-03-17 12:31:22 +0900'
+  content: |
+    저 갑니다용!
+- id: 346
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-03-17 21:51:09 +0900'
+  date_gmt: '2013-03-17 12:51:09 +0900'
+  content: |
+    저도 궈궈
+- id: 347
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-03-18 00:07:17 +0900'
+  date_gmt: '2013-03-17 15:07:17 +0900'
+  content: |
+    저도 갑니다!
+- id: 348
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-03-18 10:20:17 +0900'
+  date_gmt: '2013-03-18 01:20:17 +0900'
+  content: |
+    <p>저도 갑니둥!</p>
+- id: 349
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-03-18 17:49:50 +0900'
+  date_gmt: '2013-03-18 08:49:50 +0900'
+  content: |
+    전 오늘 어딜 간다고 일찍 퇴근해 내일은 야근크리를 맞을꺼 같습니다.. 흑..
+---
+<p>이번 주는 <a href="http://www.algospot.com/judge/problem/read/FANMEETING">FANMEETING</a> 공유하고, <a href="http://www.algospot.com/judge/problem/read/JUMPGAME">JUMPGAME</a>, <a href="http://www.algospot.com/judge/problem/read/WILDCARD">WILDCARD</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 3월 19일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

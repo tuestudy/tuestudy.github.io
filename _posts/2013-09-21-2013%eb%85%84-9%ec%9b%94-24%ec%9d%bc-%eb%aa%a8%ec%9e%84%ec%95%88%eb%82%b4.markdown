@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 9월 24일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 772
+wordpress_url: http://www.tuestudy.org/bp/?p=772
+date: 2013-09-21 15:52:22.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 487
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-09-21 15:53:46 +0900'
+  date_gmt: '2013-09-21 06:53:46 +0900'
+  content: |
+    <p>갑니다!</p>
+- id: 488
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-09-21 17:33:08 +0900'
+  date_gmt: '2013-09-21 08:33:08 +0900'
+  content: |
+    고고 ~
+- id: 489
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-09-21 19:36:59 +0900'
+  date_gmt: '2013-09-21 10:36:59 +0900'
+  content: |
+    휴가중이지만 고고
+- id: 490
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-09-22 14:21:38 +0900'
+  date_gmt: '2013-09-22 05:21:38 +0900'
+  content: |
+    갑니다.
+- id: 491
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-09-23 16:12:30 +0900'
+  date_gmt: '2013-09-23 07:12:30 +0900'
+  content: |
+    저는 이번주도 가기 힘들겠어요 ㅠ_ㅠ
+---
+<p>지난 공유 이후 문제를 풉니다. 아마도 21장 트리일듯?!</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<ul>
+<li>일시: 2013년 9월 24일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

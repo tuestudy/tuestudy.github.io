@@ -1,0 +1,134 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 10월 9일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 587
+wordpress_url: http://www.tuestudy.org/bp/?p=587
+date: 2012-10-04 13:37:05.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 177
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-10-04 13:50:09 +0900'
+  date_gmt: '2012-10-04 04:50:09 +0900'
+  content: |
+    으아아아 발표오오오 ~_~
+- id: 178
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-05 10:37:37 +0900'
+  date_gmt: '2012-10-05 01:37:37 +0900'
+  content: |
+    <p>저도 갑니다. 주말에 벼락치기 해야겠네요. ㅠㅠ</p>
+- id: 179
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-10-07 14:57:22 +0900'
+  date_gmt: '2012-10-07 05:57:22 +0900'
+  content: |
+    저도 ㄱ ㄱ
+- id: 180
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-07 15:32:30 +0900'
+  date_gmt: '2012-10-07 06:32:30 +0900'
+  content: |
+    저도 갑니닥~
+
+    벼락치기 해야겠군요.. 이제야 컴퓨터를 구해서 ㅠㅠ
+- id: 181
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-08 20:30:59 +0900'
+  date_gmt: '2012-10-08 11:30:59 +0900'
+  content: |
+    후움 이거 아무래도 내일까지 하나라도 못할듯한 스멜이.. 어헝헝..
+- id: 182
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-08 22:58:24 +0900'
+  date_gmt: '2012-10-08 13:58:24 +0900'
+  content: |
+    <p>허허. 아니아니 아니되오~ 근데 아직 백수 모드 신가요??</p>
+- id: 183
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-08 23:14:51 +0900'
+  date_gmt: '2012-10-08 14:14:51 +0900'
+  content: |
+    네 아직까지..
+
+    그리고 여러가지 일이 생겨 스터디에 가도 한게 없는일이 생겨버린.. ㅎㄷ
+- id: 184
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-10-09 08:29:00 +0900'
+  date_gmt: '2012-10-08 23:29:00 +0900'
+  content: |
+    매번 당일에 댓글을 달게 되는군여~ 참석합니다~~
+- id: 185
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-10-09 15:19:55 +0900'
+  date_gmt: '2012-10-09 06:19:55 +0900'
+  content: |
+    저 조금 늦을 것 같아요 ㅠㅠ
+    으으 발표는 망했군요 :'(
+- id: 186
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-10-09 16:14:14 +0900'
+  date_gmt: '2012-10-09 07:14:14 +0900'
+  content: |
+    저도 참석합니다~
+- id: 187
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-10-09 17:25:02 +0900'
+  date_gmt: '2012-10-09 08:25:02 +0900'
+  content: |
+    갑자기 일이 생겨서 전 빠지겠습니다 ㅠㅠ
+---
+추석 연휴 잘 보내셨는지요?
+
+
+
+다음 모임은 다시 토즈 강남2호점입니다.
+
+
+
+이번 모임 부터는 발표가 진행됩니다. 미리미리 준비해주세요.
+
+
+
+참석여부 댓글로 남겨주시면 감사하겠습니다.
+
+
+
+<ul>
+<li>일시: 2012년 10월 9일 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남2호점 (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

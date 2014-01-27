@@ -1,0 +1,74 @@
+---
+layout: post
+status: publish
+published: true
+title: 2014년 1월 7일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 809
+wordpress_url: http://www.tuestudy.org/bp/?p=809
+date: 2014-01-05 17:59:33.000000000 +09:00
+categories:
+- 공지사항
+- TAOCP
+tags: []
+comments:
+- id: 556
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2014-01-05 18:02:41 +0900'
+  date_gmt: '2014-01-05 09:02:41 +0900'
+  content: |
+    <p>고고</p>
+- id: 557
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2014-01-05 18:20:30 +0900'
+  date_gmt: '2014-01-05 09:20:30 +0900'
+  content: |
+    Gogo
+- id: 558
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2014-01-05 18:26:28 +0900'
+  date_gmt: '2014-01-05 09:26:28 +0900'
+  content: |
+    오랫만에 고고
+- id: 559
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2014-01-05 19:59:45 +0900'
+  date_gmt: '2014-01-05 10:59:45 +0900'
+  content: |
+    저도 고고 ~
+- id: 560
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2014-01-07 15:01:08 +0900'
+  date_gmt: '2014-01-07 06:01:08 +0900'
+  content: |
+    저는 장인 장모님이 오셔서 이번주는 건너 뜁니다 ^^*
+- id: 561
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2014-01-07 16:13:08 +0900'
+  date_gmt: '2014-01-07 07:13:08 +0900'
+  content: |
+    갑니다.
+---
+<p>!! <strong>강남 2호점</strong>입니다. !!!</p>
+
+<p>TAOCP 스터디를 위한 계획을 세워봅니다.
+참석 여부를 댓글로 남겨주세요~</p>
+
+<ul>
+<li>일시: 2014년 1월 7일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

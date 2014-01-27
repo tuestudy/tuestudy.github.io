@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 3월 26일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 684
+wordpress_url: http://www.tuestudy.org/bp/?p=684
+date: 2013-03-24 23:10:44.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 350
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-03-25 11:17:14 +0900'
+  date_gmt: '2013-03-25 02:17:14 +0900'
+  content: |
+    저 갈게요웁!
+- id: 351
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-03-25 11:24:06 +0900'
+  date_gmt: '2013-03-25 02:24:06 +0900'
+  content: |
+    <p>저도 갑니다~</p>
+- id: 352
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-03-25 15:14:19 +0900'
+  date_gmt: '2013-03-25 06:14:19 +0900'
+  content: |
+    저도 갑니다. Fence 뒤로 문제 풀이가 자꾸 밀리네요. 오늘 밤에 밀린 문제들 꼭 풀고 가겠슴다
+- id: 353
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-03-26 10:01:17 +0900'
+  date_gmt: '2013-03-26 01:01:17 +0900'
+  content: |
+    오늘은 일이 생겨서 참석이 어려울것 같습니다. 담주에 뵈요!
+---
+<p><a href="http://www.algospot.com/judge/problem/read/JUMPGAME">JUMPGAME</a>, <a href="http://www.algospot.com/judge/problem/read/WILDCARD">WILDCARD</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/TRIANGLEPATH">TRIANGLEPATH</a>, <a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 3월 26일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

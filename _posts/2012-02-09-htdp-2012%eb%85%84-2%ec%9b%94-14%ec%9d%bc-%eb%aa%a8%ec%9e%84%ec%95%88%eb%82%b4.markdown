@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 2월 14일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 61
+wordpress_url: http://etsg.cafe24.com/bp/?p=61
+date: 2012-02-09 15:26:05.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 5
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-02-13 15:01:01 +0900'
+  date_gmt: '2012-02-13 15:01:01 +0900'
+  content: 으 발렌타인데이군요 ;ㅁ; 저 못가겠어요 ;ㅁ;
+- id: 6
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-02-13 23:00:59 +0900'
+  date_gmt: '2012-02-13 23:00:59 +0900'
+  content: 약속 취소됐습니다. 갈께요 ㅎㅎ
+- id: 7
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-02-14 11:06:19 +0900'
+  date_gmt: '2012-02-14 11:06:19 +0900'
+  content: 아직 퇴근을 못했네요. 조금 늦게 조인하도록 합지요
+---
+HtDP 두번째 모임 공지입니다.
+
+지난 모임 때 얘기된 대로 모임 시간이 오후 8시 ~ 10시로 변경되었습니다.
+일단 지난 주에 참석 인원 기준으로 토즈 강남2호점 예약했습니다.
+<ul>
+	<li>일시: 2012년 2월 14일 화요일, 오후 8시 ~ 10시</li>
+	<li>장소: 토즈 강남2호점 (예약 모임명: TSG – HtDP 스터디) / 교보타워 사거리 부근</li>
+	<li>회비: 5,000원 (토즈 이용료)</li>
+	<li>준비물: 책 또는 노트북</li>
+	<li><span style="color: #ff0000;">1부 5장까지 읽고 함께 풀어볼 문제를 골라오시면 됩니다.</span></li>
+</ul>
+저희 모임은 참여를 희망하는 모든 분들께 열려 있습니다. :)

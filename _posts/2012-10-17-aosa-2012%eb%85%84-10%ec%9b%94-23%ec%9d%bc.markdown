@@ -1,0 +1,128 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 10월 23일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 599
+wordpress_url: http://www.tuestudy.org/bp/?p=599
+date: 2012-10-17 10:32:31.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 196
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-10-17 11:01:25 +0900'
+  date_gmt: '2012-10-17 02:01:25 +0900'
+  content: |
+    ㄱ ㄱ
+- id: 197
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-17 22:49:41 +0900'
+  date_gmt: '2012-10-17 13:49:41 +0900'
+  content: |
+    <p>고고쓍~</p>
+- id: 198
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-10-18 13:01:18 +0900'
+  date_gmt: '2012-10-18 04:01:18 +0900'
+  content: |
+    참석합니다~~
+- id: 199
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-10-22 13:59:53 +0900'
+  date_gmt: '2012-10-22 04:59:53 +0900'
+  content: |
+    =_=; 화요일에 예비군이 있었네요~~ 이번주는 못갈 것 같습니다 ㅠㅠ
+- id: 200
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-10-22 17:55:41 +0900'
+  date_gmt: '2012-10-22 08:55:41 +0900'
+  content: |
+    저도 갑니다!
+    나의 <del>날림</del> 발표를 들어!!
+- id: 201
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-22 23:19:29 +0900'
+  date_gmt: '2012-10-22 14:19:29 +0900'
+  content: |
+    <p>기대기대 +_+</p>
+- id: 202
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-22 23:19:44 +0900'
+  date_gmt: '2012-10-22 14:19:44 +0900'
+  content: |
+    <p>에고 아쉽네영 ㅠ.ㅠ</p>
+- id: 203
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-10-23 13:57:41 +0900'
+  date_gmt: '2012-10-23 04:57:41 +0900'
+  content: |
+    오늘은 아버지께서 상경하셔서 ^^;; 한 주 쉽니다.
+- id: 204
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-23 18:18:35 +0900'
+  date_gmt: '2012-10-23 09:18:35 +0900'
+  content: |
+    발표준비는 못했지만.. 뒤늦게나마 참석신청을.. ㅎㄷ
+- id: 205
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-23 19:08:20 +0900'
+  date_gmt: '2012-10-23 10:08:20 +0900'
+  content: |
+    헛 갑자기 또 일이생겨서.. 못가는 ㅠㅠ
+- id: 206
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-10-23 19:47:47 +0900'
+  date_gmt: '2012-10-23 10:47:47 +0900'
+  content: |
+    30 분 정도 지각 할 듯 합니다.
+- id: 207
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-23 19:57:17 +0900'
+  date_gmt: '2012-10-23 10:57:17 +0900'
+  content: |
+    <p>전 도착!</p>
+---
+<h2>모임 안내</h2>
+
+참석여부 댓글로 남겨주시면 감사하겠습니다.
+
+
+
+<ul>
+<li>일시: 2012년 10월 23일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남2호점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

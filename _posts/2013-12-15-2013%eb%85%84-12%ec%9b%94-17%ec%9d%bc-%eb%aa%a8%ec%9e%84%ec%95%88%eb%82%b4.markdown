@@ -1,0 +1,84 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 12월 17일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 804
+wordpress_url: http://www.tuestudy.org/bp/?p=804
+date: 2013-12-15 17:38:10.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 549
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-12-15 17:41:48 +0900'
+  date_gmt: '2013-12-15 08:41:48 +0900'
+  content: |
+    갑니다.
+- id: 550
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-12-15 17:47:45 +0900'
+  date_gmt: '2013-12-15 08:47:45 +0900'
+  content: |
+    <p>갑니다!</p>
+- id: 551
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-12-15 19:15:08 +0900'
+  date_gmt: '2013-12-15 10:15:08 +0900'
+  content: |
+    꼬꼬
+- id: 552
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-12-15 23:00:11 +0900'
+  date_gmt: '2013-12-15 14:00:11 +0900'
+  content: |
+    저도 고고슁!
+- id: 553
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-12-15 23:32:00 +0900'
+  date_gmt: '2013-12-15 14:32:00 +0900'
+  content: |
+    저두 ㄲㄲ
+- id: 554
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-12-16 17:16:18 +0900'
+  date_gmt: '2013-12-16 08:16:18 +0900'
+  content: |
+    가요가요!!
+- id: 555
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-12-17 17:51:23 +0900'
+  date_gmt: '2013-12-17 08:51:23 +0900'
+  content: |
+    으윽... 갑자기 일이생겨서 참석이 힘들것 같아요 ㅜㅠ
+---
+<p>예고했던 바와 같이 JMBook 책걸이 및 2013년 기년회를 합니다.</p>
+
+<p>신논현역 6번 출구에서 모여서 아래 지도 표시된 골목 어딘가의 고깃집에서 고기를 포풍 흡입한 후</p>
+
+<p>조용한 카페(과연 강남역 근처에 조용한 카페가 있을지 의문이지만)에서 조촐하게 기년회를 진행합니다.</p>
+
+<p>간단히 발표 자료를 준비해주시면 좋습니다. 되도록 월요일까지 참석 여부를 알려주세요.</p>
+
+<p>회비는 전체 비용(고기+커피)의 1/n 합니다.</p>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2013/12/스크린샷-2013-12-15-오후-5.32.09.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2013/12/스크린샷-2013-12-15-오후-5.32.09.png" alt="스크린샷 2013-12-15 오후 5.32.09" width="385" height="521" class="alignnone size-full wp-image-805" /></a></p>

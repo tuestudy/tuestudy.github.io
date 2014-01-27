@@ -1,0 +1,121 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 1월 8일 모임 안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 643
+wordpress_url: http://www.tuestudy.org/bp/?p=643
+date: 2013-01-01 23:37:46.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 284
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-01 23:38:44 +0900'
+  date_gmt: '2013-01-01 14:38:44 +0900'
+  content: |
+    <p>갑니다!!!</p>
+- id: 285
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-01-02 10:50:12 +0900'
+  date_gmt: '2013-01-02 01:50:12 +0900'
+  content: |
+    저도 갑니다!
+- id: 286
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-02 23:29:49 +0900'
+  date_gmt: '2013-01-02 14:29:49 +0900'
+  content: |
+    저도 참석요.
+- id: 287
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-02 23:32:17 +0900'
+  date_gmt: '2013-01-02 14:32:17 +0900'
+  content: |
+    위에 요일은 화요일 잘못 쓰신거 맞지요? ㅋ
+- id: 288
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-03 12:59:14 +0900'
+  date_gmt: '2013-01-03 03:59:14 +0900'
+  content: |
+    <p>전에 공지를 복붙했더니 요일이 잘못 들어갔네요. 수정했습니다. ^^;;</p>
+- id: 289
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-01-08 10:27:52 +0900'
+  date_gmt: '2013-01-08 01:27:52 +0900'
+  content: |
+    저는 오늘 감기몸살때문에 패스 ㅠ_ㅠ
+
+    새해 복 많이 받으세요 ^^
+- id: 290
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-01-08 17:30:49 +0900'
+  date_gmt: '2013-01-08 08:30:49 +0900'
+  content: |
+    흐으 이거 일때문에 하나도 못했네요.. 과연 어떻게 될려나.. ㅎㄷ
+- id: 291
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-08 18:35:14 +0900'
+  date_gmt: '2013-01-08 09:35:14 +0900'
+  content: |
+    <p>저런 ㅠㅠ 푹 쉬고 얼른 나으세요.</p>
+- id: 292
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-08 18:36:25 +0900'
+  date_gmt: '2013-01-08 09:36:25 +0900'
+  content: |
+    <p>발표가 어려우시면 올해 스터디 계획 짜는 걸로 하죠. 일단 참석하셔서 눈총을 받으시란. -_-+++++</p>
+- id: 293
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-01-08 18:45:59 +0900'
+  date_gmt: '2013-01-08 09:45:59 +0900'
+  content: |
+    어헝헝..
+---
+<p>대망의 새해가 밝았습니다. 모두 새해 복 많이 받으시길.. (_ _)</p>
+
+<p>올해도 Tuesday Study Club은 계속 됩니다~ 쭈욱~~</p>
+
+<p>1월 첫 모임 공지입니다.</p>
+
+<ul>
+<li>일시: 2013년 1월 8일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>
+
+<p>팟님이 <a href="http://www.aosabook.org/en/selenium.html">Selenium WebDriver</a>를 발표를 듣고 2013년에는 무엇을 공부할지 얘기 하는 시간을 갖도록 하겠습니다.</p>
+
+<p>일단 얘기가 나왔던 것들을 적어보면..</p>
+
+<ul>
+<li>AOSA Season 3</li>
+<li>알고리즘 문제 해결 전략 1, 2 (일명 JMBook) + 번외로 알고스팟 문제 풀기</li>
+<li>TAOCP</li>
+</ul>
+
+<p>참석 여부 댓글로 남겨주세요~ 올해 뭘 공부하면 좋을지에 대한 의견도 환영합니다.</p>

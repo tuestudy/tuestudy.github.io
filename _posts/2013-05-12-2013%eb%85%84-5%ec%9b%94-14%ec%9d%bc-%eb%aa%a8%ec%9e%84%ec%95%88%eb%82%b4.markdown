@@ -1,0 +1,84 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 5월 14일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 710
+wordpress_url: http://www.tuestudy.org/bp/?p=710
+date: 2013-05-12 21:45:34.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 386
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-05-12 21:48:04 +0900'
+  date_gmt: '2013-05-12 12:48:04 +0900'
+  content: |
+    궈궈
+- id: 387
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-05-12 21:50:46 +0900'
+  date_gmt: '2013-05-12 12:50:46 +0900'
+  content: |
+    갑니다용 ~~~
+- id: 388
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-05-13 10:00:32 +0900'
+  date_gmt: '2013-05-13 01:00:32 +0900'
+  content: |
+    <p>고고싱~</p>
+- id: 389
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-05-13 12:35:49 +0900'
+  date_gmt: '2013-05-13 03:35:49 +0900'
+  content: |
+    갑니다.
+- id: 390
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-05-13 20:43:19 +0900'
+  date_gmt: '2013-05-13 11:43:19 +0900'
+  content: |
+    저는 이번주도 패스입니다...
+    아들 백일이에요 ^^
+- id: 391
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-05-14 11:07:21 +0900'
+  date_gmt: '2013-05-14 02:07:21 +0900'
+  content: |
+    <p>와! 축하드립니다!</p>
+- id: 392
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-05-14 13:52:00 +0900'
+  date_gmt: '2013-05-14 04:52:00 +0900'
+  content: |
+    축하드려요~
+---
+<p><a href="http://www.algospot.com/judge/problem/read/QUANTIZE">QUANTIZE</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 5월 14일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>
