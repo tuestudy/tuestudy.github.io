@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 4월 30일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 705
+wordpress_url: http://www.tuestudy.org/bp/?p=705
+date: 2013-04-29 10:14:17.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 376
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-29 10:43:56 +0900'
+  date_gmt: '2013-04-29 01:43:56 +0900'
+  content: |
+    I Go!
+- id: 377
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-04-29 11:35:58 +0900'
+  date_gmt: '2013-04-29 02:35:58 +0900'
+  content: |
+    Me go!
+- id: 378
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-29 13:01:19 +0900'
+  date_gmt: '2013-04-29 04:01:19 +0900'
+  content: |
+    <p>저는 내일 회식 잡혀서 못 가요 ㅠ.ㅠ</p>
+- id: 379
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-29 18:11:52 +0900'
+  date_gmt: '2013-04-29 09:11:52 +0900'
+  content: |
+    <p>개인적으로 조사해본 결과 bill님은 오시고, pod님은 참석이 어려우시다네요.
+    내일 스터디 잘 하시고 전 다음 주에 뵐께요!</p>
+---
+<p><a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>, <a href="http://www.algospot.com/judge/problem/read/JLIS">JLIS</a>, <a href="http://www.algospot.com/judge/problem/read/PI">PI</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/QUANTIZE">QUANTIZE</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 4월 30일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

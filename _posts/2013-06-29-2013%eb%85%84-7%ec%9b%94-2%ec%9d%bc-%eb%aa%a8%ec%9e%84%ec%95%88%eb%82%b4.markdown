@@ -1,0 +1,85 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 7월 2일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 738
+wordpress_url: http://www.tuestudy.org/bp/?p=738
+date: 2013-06-29 21:37:53.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 425
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-06-29 22:56:51 +0900'
+  date_gmt: '2013-06-29 13:56:51 +0900'
+  content: |
+    갑니다.
+- id: 426
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-30 12:03:54 +0900'
+  date_gmt: '2013-06-30 03:03:54 +0900'
+  content: |
+    <p>고고씽!</p>
+- id: 427
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-06-30 12:13:34 +0900'
+  date_gmt: '2013-06-30 03:13:34 +0900'
+  content: |
+    GoGo!
+- id: 428
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-06-30 12:40:17 +0900'
+  date_gmt: '2013-06-30 03:40:17 +0900'
+  content: |
+    참석합니다~
+- id: 429
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-07-01 07:43:59 +0900'
+  date_gmt: '2013-06-30 22:43:59 +0900'
+  content: |
+    고고요
+- id: 430
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-07-01 16:38:37 +0900'
+  date_gmt: '2013-07-01 07:38:37 +0900'
+  content: |
+    저는 이번주도 참석이 어렵습니다 ㅠ_ㅠ
+- id: 431
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-07-02 18:51:25 +0900'
+  date_gmt: '2013-07-02 09:51:25 +0900'
+  content: |
+    <p>허헝... 아쉽슴다 ㅠ.ㅠ 다음 모임 때 뵈요~</p>
+---
+<p><a href="http://algospot.com/judge/problem/read/POLY">POLY</a>, <a href="http://algospot.com/judge/problem/read/NUMB3RS">NUMB3RS</a>를 공유하고, 지난 회고 때 얘기 나온대로 7월 부터는 JMBook 2권을 봅니다.</p>
+
+<p>2권 첫번째 문제인 GRADUATION이 준비 중인 관계로 책을 읽거나 두번째 문제인 <a href="http://algospot.com/judge/problem/read/CHRISTMAS">CHRISTMAS</a>를 풉니다.</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 7월 2일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

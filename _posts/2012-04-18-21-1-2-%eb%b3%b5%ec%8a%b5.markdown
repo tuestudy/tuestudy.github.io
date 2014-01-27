@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: 21.1.2 복습
+author: falsetru
+author_login: falsetru
+author_email: falsetru@gmail.com
+wordpress_id: 345
+wordpress_url: http://www.tuestudy.org/bp/?p=345
+date: 2012-04-18 00:03:04.000000000 +09:00
+categories:
+- HtDP
+tags: []
+comments:
+- id: 51
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2012-04-18 00:07:26 +0900'
+  date_gmt: '2012-04-17 15:07:26 +0900'
+  content: |
+    수정할때마다 링크가 날아가고, 포멧이 바뀌네요; 수정하기 귀찮아서 링크만 남깁니다.
+- id: 52
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-18 10:23:15 +0900'
+  date_gmt: '2012-04-18 01:23:15 +0900'
+  content: |
+    <p>윽 그래요? WP-Markup 에디터가 뭔짓을 하나... ㅡㅡ;;</p>
+- id: 53
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-04-19 19:11:06 +0900'
+  date_gmt: '2012-04-19 10:11:06 +0900'
+  content: |
+    설명하는 목소리만 있었어도 더 좋았을텐데 아쉽습니다~ ㅋ
+---
+<p>모임에서 라이브코딩으로 풀었던 21.1.2 를 집에서 다시 풀었습니다. 풀었던걸 녹화해서 <a href="http://ascii.io/a/395">http://ascii.io/a/395</a> 에 올렸습니다.</p>

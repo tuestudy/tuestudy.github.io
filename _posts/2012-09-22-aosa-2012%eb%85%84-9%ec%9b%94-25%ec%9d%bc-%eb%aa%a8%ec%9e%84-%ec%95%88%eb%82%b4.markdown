@@ -1,0 +1,97 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 9월 25일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 582
+wordpress_url: http://www.tuestudy.org/bp/?p=582
+date: 2012-09-22 11:26:37.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 171
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-09-22 11:27:04 +0900'
+  date_gmt: '2012-09-22 02:27:04 +0900'
+  content: |
+    <p>저 갑니다. 가요!</p>
+- id: 172
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-24 11:52:15 +0900'
+  date_gmt: '2012-09-24 02:52:15 +0900'
+  content: |
+    저도 가요!
+- id: 173
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-09-24 19:47:29 +0900'
+  date_gmt: '2012-09-24 10:47:29 +0900'
+  content: |
+    저도 ㄱㄱ
+- id: 174
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-09-25 14:33:29 +0900'
+  date_gmt: '2012-09-25 05:33:29 +0900'
+  content: |
+    뜬금 없는 저녁 미팅이 잡혔는데, 조금 늦더라도 가겠습니다. 혹시 좀 늦으면 먼저들 하고 계세요.
+- id: 175
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-09-25 16:07:54 +0900'
+  date_gmt: '2012-09-25 07:07:54 +0900'
+  content: |
+    참석합니다~~~
+- id: 176
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-09-25 17:59:59 +0900'
+  date_gmt: '2012-09-25 08:59:59 +0900'
+  content: |
+    갑니댜~
+---
+이번 모임은 맛있는 후레치 후라이를 파는 미트파이 맞은 편에 있는 <strong>토즈 강남점</strong>에서 합니다. ㅋㅋ
+
+
+
+헷갈리지 마시고 강남역과 가까운 토즈 강남점으로 오세요.
+
+
+
+그리고 여태까지는 불참하시는 분들 댓글만 받았는데
+
+
+
+참석 여부를 댓글로 받도록 하겠습니다.
+
+
+
+그리고 참석이 어려우실 때는 되도록 하루 전에 알려주세요.
+
+
+
+한두시간 전에 못 온다고 하시는 건 반사
+
+
+
+<ul>
+<li>일시: 2012년 9월 25일 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약모임명: TSG - AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a>
+
+

@@ -1,0 +1,70 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 9월 11일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 562
+wordpress_url: http://www.tuestudy.org/bp/?p=562
+date: 2012-09-09 16:25:43.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 164
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-11 19:28:19 +0900'
+  date_gmt: '2012-09-11 10:28:19 +0900'
+  content: |
+    전 이미 근처에서 밥먹고 있습죠!
+    배 채우고 먼저 가서 커피나 한잔 하고 있어야겠네요 ㅎㅎ
+- id: 165
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-11 21:57:55 +0900'
+  date_gmt: '2012-09-11 12:57:55 +0900'
+  content: |
+    http://wiki.tuestudy.org/aosabook/outline
+
+    오늘 모임 정리입니다!
+- id: 166
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-09-17 11:09:15 +0900'
+  date_gmt: '2012-09-17 02:09:15 +0900'
+  content: |
+    혹시 lulu 에서 1,2권 중에 아직 구입 예정인 분이 계신가요? 구입하실 때  SEPBOOKS12 코드 적용하시면 20% 할인이 됩니다. 참고하세요.
+---
+<p>AOSA 스터디 첫 모임 공지입니다.</p>
+
+<p>첫 모임에서는 모임 진행 방식과 각자 발표할 파트를 공유하는 자리를 가질 예정입니다.<br />
+또, 총무와 회비 운영 방식에 대해서도 논의합니다.</p>
+
+<p>이번엔 살짝 장소를 바꿔서 에이블 스퀘어라는 스터디 카페에서 진행할 예정입니다.<br />
+장소 이용료는 지난 모임 회비를 이용할 예정이고, 음료 및 기타 메뉴 이용료는 각자 계산하시면 됩니다.</p>
+
+<p>에이블 스퀘어는 토즈 대비 이용료가 저렴한 대신 무료 음료가 제공되지 않으며<br />
+외부 음식을 반입할 수 없으니 이점 유의해주시기 바랍니다.</p>
+
+<p>첫 모임이니만큼 되도록 참석해주시길 부탁드리며<br />
+부득이하게 참석이 어려우신 분은 미리 댓글 남겨주시기 바랍니다.<br />
+그럼 화요일에 뵙겠습니다.</p>
+
+<ul>
+<li>일시: 2012년 9월 11일 저녁 8시 ~ 10시</li>
+<li>장소: <a href="http://cafe.naver.com/cafeable/173">에이블 스퀘어</a> (최소 7인 예약) / 예약모임명: AOSA STUDY</li>
+<li>준비물: 책 또는 노트북 
+
+<ul>
+<li><a href="http://www.aosabook.org/en/index.html">http://www.aosabook.org/en/index.html</a></li>
+</ul></li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/09/ABLESQUARE.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/09/ABLESQUARE.png" alt="" title="ABLESQUARE" width="544" height="609" class="alignnone size-full wp-image-564" /></a></p>

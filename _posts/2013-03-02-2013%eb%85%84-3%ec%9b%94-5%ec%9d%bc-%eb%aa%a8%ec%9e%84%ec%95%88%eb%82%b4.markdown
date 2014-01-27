@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 3월 5일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 677
+wordpress_url: http://www.tuestudy.org/bp/?p=677
+date: 2013-03-02 21:42:57.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 335
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-03-02 23:01:37 +0900'
+  date_gmt: '2013-03-02 14:01:37 +0900'
+  content: |
+    <p>갑니당!</p>
+- id: 336
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-03-03 16:44:20 +0900'
+  date_gmt: '2013-03-03 07:44:20 +0900'
+  content: |
+    저도 고고요
+- id: 337
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-03-04 12:20:45 +0900'
+  date_gmt: '2013-03-04 03:20:45 +0900'
+  content: |
+    갑니다용 ~
+- id: 338
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-03-05 08:10:23 +0900'
+  date_gmt: '2013-03-04 23:10:23 +0900'
+  content: |
+    저는 오늘 출석이 힘들 것 같아요 ㅠ_ㅠ
+    다음주에 뵙지요!
+- id: 339
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-03-05 17:59:58 +0900'
+  date_gmt: '2013-03-05 08:59:58 +0900'
+  content: |
+    <p>dgoon님도 못 오신다고 하셔서 이번 주 오프 모임은 폭파되었습니다. ㅠ.ㅠ</p>
+---
+<p>풀이 공유가 엄청 밀렸네요. 이번 주는</p>
+
+<ul>
+<li><a href="http://www.algospot.com/judge/problem/read/CLOCKSYNC">CLOCKSYNC</a></li>
+<li><a href="http://www.algospot.com/judge/problem/read/QUADTREE">QUADTREE</a></li>
+<li><a href="http://www.algospot.com/judge/problem/read/FENCE">FENCE</a></li>
+</ul>
+
+<p>풀이 공유하고, 시간이 남을 경우 <a href="http://algospot.com/judge/problem/read/FANMEETING">FANMEETING</a>을 풉니다.</p>
+
+<p>장소는 이번에도 강남점!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 3월 5일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: a
+author: falsetru
+author_login: falsetru
+author_email: falsetru@gmail.com
+wordpress_id: 322
+wordpress_url: http://www.tuestudy.org/bp/?p=322
+date: 2012-04-17 20:31:30.000000000 +09:00
+categories:
+- 미분류
+tags: []
+comments: []
+---
+<p>구글코드잼 2012 Qualification Round A번 문제를 Scheme으로 풀어봤습니다.</p>
+
+<p><a href="http://code.google.com/codejam/contest/1460488/dashboard#s=p0">http://code.google.com/codejam/contest/1460488/dashboard#s=p0</a></p>
+
+<pre><code>(define mapping
+  (hash #\a #\y   #\b #\h   #\c #\e   #\d #\s   #\e #\o
+        #\f #\c   #\g #\v   #\h #\x   #\i #\d   #\j #\u
+        #\k #\i   #\l #\g   #\m #\l   #\n #\b   #\o #\k
+        #\p #\r   #\q #\z   #\r #\t   #\s #\n   #\t #\w
+        #\u #\j   #\v #\p   #\w #\f   #\x #\m   #\y #\a
+        #\z #\q))
+
+(define (translate c) (hash-ref mapping c c))
+(define (solve text) (list-&amp;gt;string (map translate (string-&amp;gt;list text))))
+
+(define (output case-number)
+  (string-append "Case #"
+                 (number-&amp;gt;string case-number)
+                 ": "
+                 (solve (read-line))
+                 "\n"))
+
+(define T (string-&amp;gt;number (read-line)))
+(define case-number-list (build-list T add1))
+(for-each display (map output case-number-list))
+
+
+;(require rackunit)
+;(require rackunit/text-ui)
+;
+;(define speaking-in-tongues-tests
+;  (test-suite "Test for speaking-in-tongues"
+;   (check-equal? (solve "ejp mysljylc kd kxveddknmc re jsicpdrysi")
+;                 "our language is impossible to understand")))
+;(exit (run-tests speaking-in-tongues-tests))
+</code></pre>

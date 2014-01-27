@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 8월 14일은 쉽니다.'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 526
+wordpress_url: http://www.tuestudy.org/bp/?p=526
+date: 2012-08-08 13:21:36.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments: []
+---
+<p>광복절을 맞아 다음 주 모임은 쉽니다.<br />
+푹 쉬고 21일에 뵙겠습니다!</p>

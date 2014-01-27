@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 6월 4일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 719
+wordpress_url: http://www.tuestudy.org/bp/?p=719
+date: 2013-06-02 23:05:38.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 400
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-06-02 23:28:35 +0900'
+  date_gmt: '2013-06-02 14:28:35 +0900'
+  content: |
+    GoGo!
+- id: 401
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-03 13:45:17 +0900'
+  date_gmt: '2013-06-03 04:45:17 +0900'
+  content: |
+    <p>갑니다!!!</p>
+- id: 402
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-06-03 15:07:15 +0900'
+  date_gmt: '2013-06-03 06:07:15 +0900'
+  content: |
+    갑니다.
+- id: 403
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-06-03 15:36:57 +0900'
+  date_gmt: '2013-06-03 06:36:57 +0900'
+  content: |
+    갑니다 ^^
+- id: 404
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-06-03 16:14:01 +0900'
+  date_gmt: '2013-06-03 07:14:01 +0900'
+  content: |
+    저도저도
+---
+<p><a href="http://www.algospot.com/judge/problem/read/TILING2">TILING2</a>, <a href="http://algospot.com/judge/problem/read/TRIPATHCNT">TRIPATHCNT</a>, <a href="http://algospot.com/judge/problem/read/SNAIL">SNAIL</a>를 공유하고, <a href="http://algospot.com/judge/problem/read/ASYMTILING">ASYMTILING</a>을 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 6월 4일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

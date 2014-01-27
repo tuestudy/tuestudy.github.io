@@ -1,0 +1,177 @@
+---
+layout: post
+status: publish
+published: true
+title: 2012년 송년 모임
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 633
+wordpress_url: http://www.tuestudy.org/bp/?p=633
+date: 2012-12-08 18:09:51.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 260
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-08 20:46:10 +0900'
+  date_gmt: '2012-12-08 11:46:10 +0900'
+  content: |
+    어디서 하건 일단 갑니다용!
+- id: 262
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-10 10:32:50 +0900'
+  date_gmt: '2012-12-10 01:32:50 +0900'
+  content: |
+    아.. 이거 요일 바꾸면 안될까여... ㅠ.ㅠ
+- id: 263
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-10 16:04:58 +0900'
+  date_gmt: '2012-12-10 07:04:58 +0900'
+  content: |
+    <p>그럼 날짜를 다시 정할까요? 17일 ~ 21일 사이에 가능한 날짜 남겨주세요.</p>
+- id: 265
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-10 16:17:02 +0900'
+  date_gmt: '2012-12-10 07:17:02 +0900'
+  content: |
+    화요일 빼고 나 괜찮습니다.
+- id: 268
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-10 17:13:45 +0900'
+  date_gmt: '2012-12-10 08:13:45 +0900'
+  content: |
+    저는 19, 21 이 안될듯요 ~
+    20(목?)이 어떨깝숑
+- id: 269
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-10 18:21:05 +0900'
+  date_gmt: '2012-12-10 09:21:05 +0900'
+  content: |
+    20 일 콜이요~
+- id: 270
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-10 22:39:25 +0900'
+  date_gmt: '2012-12-10 13:39:25 +0900'
+  content: |
+    <p>전 금요일 빼고 다 괜찮슴당.</p>
+- id: 271
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-12-11 12:36:00 +0900'
+  date_gmt: '2012-12-11 03:36:00 +0900'
+  content: |
+    저도 20일 좋아요 ^^
+- id: 272
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-12-12 09:38:09 +0900'
+  date_gmt: '2012-12-12 00:38:09 +0900'
+  content: |
+    오늘 아침에 갑자기 20일에 팀 송년회를 하자고 결정이 됐네요 ㅠ_ㅠ
+    20일은 힘들듯 합니다.
+- id: 273
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-12 11:33:09 +0900'
+  date_gmt: '2012-12-12 02:33:09 +0900'
+  content: |
+    17 18 19 20 21
+    저   O   X  O  O  O
+    dg  O   O  X   O  X
+    ma  O  O  O  O  X
+    bil   O  O  O  X   O
+
+    그럼 남은 건 17일 월요일?
+- id: 274
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-12-12 13:41:19 +0900'
+  date_gmt: '2012-12-12 04:41:19 +0900'
+  content: |
+    저도 월요일이나 목요일 괜찮습니다.
+- id: 275
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-13 09:52:06 +0900'
+  date_gmt: '2012-12-13 00:52:06 +0900'
+  content: |
+    <p>그럼 월요일(17일) 고고 하겠음당!</p>
+- id: 276
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-12-13 11:57:05 +0900'
+  date_gmt: '2012-12-13 02:57:05 +0900'
+  content: |
+    넵!
+    17일에 기년회 ㄱㄱ 하려면 지금부터 무슨 얘기 할지 생각해둬야겠네요 ~_~
+- id: 277
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-12-13 13:29:17 +0900'
+  date_gmt: '2012-12-13 04:29:17 +0900'
+  content: |
+    17일! 조금 늦겠지만 꼭 갈께용 ^^
+- id: 278
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-13 15:14:54 +0900'
+  date_gmt: '2012-12-13 06:14:54 +0900'
+  content: |
+    기년회 준비물은 '자유 주제 4분 정도 발표 슬라이드' 입니까?
+- id: 279
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-13 23:44:41 +0900'
+  date_gmt: '2012-12-13 14:44:41 +0900'
+  content: |
+    <p>넵! 토즈 강남점 예약해보고 저녁은 미트파이 먹는게 어떨까 싶은데요? ㅋㅋ 식사는 남은 회비로, 토즈 이용료는 토즈 포인트로 할까합니당.</p>
+---
+날짜 다시 조사합니다. 17일 ~ 21일 사이에 가능한 날짜 댓글 남겨주세요~
+
+
+
+=====================
+
+
+
+대한민국 18대 대통령 선거 전날인 12월 18일 TSG 송년 모임을 가지려고 합니다.
+
+
+
+예전에 송년모임 할 때는 그냥 맛있는 거 먹고 수다 떠는 시간을 갖고 헤어졌던 것 같은데 올해는 <a href="https://www.ibm.com/developerworks/mydeveloperworks/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/entry/142?lang=en">기년회</a>를 해보면 어떨까 합니다. 개인의 한해 경험 가지고 해도 좋고, 모임에 한정한 내용도 좋습니다. 4분 내외의 짤막한 발표를 준비해주세요.
+
+
+
+장소는 식사와 발표가 가능한 장소를 알아보려고 하는데 어려우면 토즈가 될 수도 있습니다.(토즈로 배달 가능한 식사가 있는지 알아보겠습니다.) 모임 전에 장소 예약을 위하여 인원을 파악하려고 하니 12월 12일까지 참석 여부를 댓글로 남겨주세요.
+
+
+
+<ul>
+<li>일시: 2012년 12월 18일 8시 ~</li>
+<li>장소: 강남 토즈 또는 다른 어딘가</li>
+</ul>

@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 2월 12일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 666
+wordpress_url: http://www.tuestudy.org/bp/?p=666
+date: 2013-02-07 23:12:28.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 322
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-02-07 23:13:29 +0900'
+  date_gmt: '2013-02-07 14:13:29 +0900'
+  content: |
+    갑니다!
+- id: 323
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-02-08 00:34:40 +0900'
+  date_gmt: '2013-02-07 15:34:40 +0900'
+  content: |
+    궈궈
+- id: 324
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-02-08 10:53:09 +0900'
+  date_gmt: '2013-02-08 01:53:09 +0900'
+  content: |
+    <p>갑니당~~</p>
+- id: 325
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-02-08 11:01:58 +0900'
+  date_gmt: '2013-02-08 02:01:58 +0900'
+  content: |
+    갑니다.
+- id: 326
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-02-12 12:37:28 +0900'
+  date_gmt: '2013-02-12 03:37:28 +0900'
+  content: |
+    저는 설 연휴가 오늘까지인 관계로... 오늘까지만 패쓰 하겠습니다. ^^;;;;
+---
+<p>지난 주에 풀었던 풀이 <a href="http://www.algospot.com/judge/problem/read/PICNIC">PICNIC</a> 공유하고 <a href="http://www.algospot.com/judge/problem/read/BOARDCOVER">BOARDCOVER</a>를 풉니다.</p>
+
+<p>이번 주는 미트파이 맞은 편에 있는 토즈 강남점입니다!!!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 2월 12일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

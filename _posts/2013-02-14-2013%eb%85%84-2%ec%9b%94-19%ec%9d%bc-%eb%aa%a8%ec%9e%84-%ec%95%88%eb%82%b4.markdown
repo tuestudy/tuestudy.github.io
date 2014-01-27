@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 2월 19일 모임 안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 668
+wordpress_url: http://www.tuestudy.org/bp/?p=668
+date: 2013-02-14 00:15:14.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 327
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-02-14 00:18:15 +0900'
+  date_gmt: '2013-02-13 15:18:15 +0900'
+  content: |
+    <p>갑니다~</p>
+- id: 328
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-02-14 10:33:25 +0900'
+  date_gmt: '2013-02-14 01:33:25 +0900'
+  content: |
+    저도 갑니다 ~~~
+- id: 329
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-02-14 10:46:58 +0900'
+  date_gmt: '2013-02-14 01:46:58 +0900'
+  content: |
+    궈궈
+- id: 330
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-02-14 10:57:29 +0900'
+  date_gmt: '2013-02-14 01:57:29 +0900'
+  content: |
+    갑니다.
+---
+<p>지난 주에 풀었던 풀이 <a href="http://www.algospot.com/judge/problem/read/BOARDCOVER">BOARDCOVER</a> 공유하고 <a href="http://www.algospot.com/judge/problem/read/QUADTREE">QUADTREE</a>를 풉니다.</p>
+
+<p>이번 주도 미트파이 맞은 편에 있는 토즈 강남점입니다!!!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 2월 19일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

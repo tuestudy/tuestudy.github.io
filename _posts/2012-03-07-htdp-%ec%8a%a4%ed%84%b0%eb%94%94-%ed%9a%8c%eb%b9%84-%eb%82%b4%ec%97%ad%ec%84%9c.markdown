@@ -1,0 +1,25 @@
+---
+layout: bp_doc
+status: publish
+published: true
+title: HtDP 스터디 회비 내역서
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 175
+date: 2012-03-07 00:55:34.000000000 +09:00
+categories: []
+tags: []
+comments: []
+---
+<h3>회비</h3>
+<ul>
+	<li>매월 첫째주 모금(?)</li>
+	<li> 20,000원/월</li>
+	<li>토즈 이용료로 사용됩니다.</li>
+</ul>
+&nbsp;
+
+스터디 회비 사용 내역을 Google Docs로 옮겼습니다.
+
+<a href="http://goo.gl/7RMhl">HtDP 스터디 회비 사용 내역 보기</a>

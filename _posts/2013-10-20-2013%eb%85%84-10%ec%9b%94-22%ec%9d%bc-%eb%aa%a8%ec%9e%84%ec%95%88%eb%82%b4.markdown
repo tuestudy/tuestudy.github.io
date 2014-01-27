@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 10월 22일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 783
+wordpress_url: http://www.tuestudy.org/bp/?p=783
+date: 2013-10-20 10:42:29.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 510
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-10-20 10:44:20 +0900'
+  date_gmt: '2013-10-20 01:44:20 +0900'
+  content: |
+    <p>갑니다!</p>
+- id: 511
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-10-20 11:47:38 +0900'
+  date_gmt: '2013-10-20 02:47:38 +0900'
+  content: |
+    갑니다.
+- id: 512
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-10-20 12:02:55 +0900'
+  date_gmt: '2013-10-20 03:02:55 +0900'
+  content: |
+    갑니드앙!
+- id: 513
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-10-21 13:13:28 +0900'
+  date_gmt: '2013-10-21 04:13:28 +0900'
+  content: |
+    예습도 복습도 숙제도 하지 않았습니다.
+    하지만 ㄱ ㄱ 요
+- id: 514
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-10-22 12:31:48 +0900'
+  date_gmt: '2013-10-22 03:31:48 +0900'
+  content: |
+    갑니다 ^^
+---
+<p><a href="http://algospot.com/judge/problem/read/NERD2">NERD2</a>를 풉니다. 푼 사람은 다음 문제를 풉니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<ul>
+<li>일시: 2013년 10월 22일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

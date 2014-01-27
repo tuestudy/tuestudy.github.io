@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: 2012년 송년 모임 안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 639
+wordpress_url: http://www.tuestudy.org/bp/?p=639
+date: 2012-12-15 15:59:44.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 280
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-15 16:01:03 +0900'
+  date_gmt: '2012-12-15 07:01:03 +0900'
+  content: |
+    <p>전 크리미치킨 &amp; 칩스~</p>
+- id: 281
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-12-16 22:09:12 +0900'
+  date_gmt: '2012-12-16 13:09:12 +0900'
+  content: |
+    저는 비프앤 치즈요.
+- id: 282
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-12-16 22:59:21 +0900'
+  date_gmt: '2012-12-16 13:59:21 +0900'
+  content: |
+    저도 비프앤 치즈요(2)~
+- id: 283
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-12-17 19:22:18 +0900'
+  date_gmt: '2012-12-17 10:22:18 +0900'
+  content: |
+    <p>저 제스터스 도to the착. 여러분의 저녁을 대기 중입니당.</p>
+---
+이미 공지한 바와 같이 올해는 기년회를 합니다. 개인의 한해 경험 가지고 해도 좋고, 모임에 한정한 내용도 좋습니다. 4분 내외의 짤막한 발표를 준비해주세요.
+
+
+
+식사는 토즈 강남점 맡은 편에 있는 호주식 정통 미트파이 전문점 JESTERS에서 공수해오려고 합니다.
+
+참석하시는 분들 댓글로 원하는 메뉴를 남겨주세요.
+
+
+
+<strong><a href="http://jesterskorea.com/?c=loc&amp;mcd=jkc0000a">JESTERS 메뉴 보기</a></strong>
+
+
+
+그럼 월요일에 뵙겠습니다!
+
+
+
+<ul>
+<li>일시: 2012년 12월 17일 (월) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

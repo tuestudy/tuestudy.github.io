@@ -1,0 +1,87 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 9월 4일 체크인/회고'
+author: dgoon
+author_login: dgoon
+author_email: dgoon@dgoon.net
+wordpress_id: 551
+wordpress_url: http://www.tuestudy.org/bp/?p=551
+date: 2012-09-04 21:54:38.000000000 +09:00
+categories:
+- HtDP
+- AOSA
+tags: []
+comments:
+- id: 161
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-06 13:44:33 +0900'
+  date_gmt: '2012-09-06 04:44:33 +0900'
+  content: |
+    골룸은 오늘 설치해보겠습니다!
+- id: 162
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-09-06 13:57:04 +0900'
+  date_gmt: '2012-09-06 04:57:04 +0900'
+  content: |
+    <p>우왕!</p>
+- id: 163
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-07 10:47:47 +0900'
+  date_gmt: '2012-09-07 01:47:47 +0900'
+  content: |
+    이... 이거 여럿이 같이 쓰기에는 좀 어려울지도 + 엄청 느린 것 같아요. 쿨럭쿨럭.
+---
+<p><strong>﻿체크인: 기분 근황 기대</strong></p>
+
+<p>pod: - 축축하네요 - 한달 넘게 백수짓을 하고 있습니다. - 노는것도 피곤해요. 한것도 없지만 책이 끝나서 좋을 것 같다는 생각이 듭니다.</p>
+
+<p>master: - 비가 너무 많이와서 살짝 귀찮았는데, 막상 오니 좋네요. 오랜만에 ... - 회사일이 좀 바빠지려고 해서 좋기도 하고 나쁘기도 하고 ... 멀뚱히 있는것보단 바쁜게 나은 것 같아요. 한명이 나가고 두명이 들어왔어요. 드디어! - 아기다리 고기다리 던마지막 스터디가! 잘 마무리하요.</p>
+
+<p>gsong: - 지쳐있습니다. - 회사 일이 바빠서 지난 토요일 일을 했더니 ... 주말근무는 역시 안돼. - 유종의 미를 거두고 가면 좋겠습니다.</p>
+
+<p>dgoon: - 좋아요. 비가 오니까 좋네요. - 파이날판타지 3, 서브라임 에디터를 써보려고 노력중, 코딩하면서 지내고 있습니다 에필로그를 읽겠어요. - 2교시가 더 기다려져요.</p>
+
+<hr />
+
+<p><strong>AOSABOOK</strong></p>
+
+<p>http://www.aosabook.org</p>
+
+<ol>
+<li>1~4주: 읽고 발표 자료는 만드는 시간을 공유</li>
+<li>5주부터 한명씩 발표를 해보자 wiki.tuestudy.org</li>
+<li>위키(http://wiki.tuestudy.org)를 하나 파서 스터디 자료를 공유 - https://github.com/github/gollum ?</li>
+<li>읽을 챕터: 
+
+<ul>
+<li>dgoon - llvm, git, python packaging</li>
+<li>master - bash, processing.js</li>
+<li>pod - selenium webdriver, sqlalchemy</li>
+<li>gsong - SocialCalc, PyPy</li>
+<li>sunkmi - berkeleydb, yesod</li>
+</ul></li>
+</ol>
+
+<p>각 챕터의 요약&amp;소개 정도 느낌. In-depth 를 다루는 것이 아니므로 부담없이 진행하자.</p>
+
+<p>다음주 모임은 책걸이 겸 준비모임 + 쉬어가기 어떤가요?</p>
+
+<hr />
+
+<p><strong>회고: Good / Bad / Comment on HTDP</strong></p>
+
+<p>gsong: - 블로그에 글을 썼다 - 책을 너무 건성으로 봤어요. 텍스트를 거의 안읽었어요. - 다시 태어나서 프로그래밍을 다시 배워야 한다면 이 책부터 읽겠어요.</p>
+
+<p>master: - 드디어 책이 끝났어요. 빗길을 뚫고 마지막 모임에 온 보람이 있네요. 마음이 가볍습니다. - 집에 어떻게 갈지 걱정 ... 비가 너무 많이와요. - 뒤로갈수록 문제도 내용도 대충봐서 어디가서 마쳤다고 말할 수 있을지 ... SICP 보고 나서 그런지 조금 지루했던 것 같아요. 기회가 되면 개인적으로 문제를 풀어보는 시간을 가지면 좋겠어요.</p>
+
+<p>pod: - 끝나긴 했네요. - 다른분들이 말했던 것 처럼 제대로 안보고 빠진것도 많고... SICP에 이어서 HTDP도 이렇게 끝나나 생각이 들어서 아쉽네요. - SICP에 비해서 환경 설정이 대단히 친절해서 바로 눈으로 보며 실행해볼 수 있었던게 좋았던 것 같습니다.</p>
+
+<p>dgoon: - 에필로그를 다 읽었고. 다음 스터디도 진행이 되긴 될 것 같아서 좋습니다. - 책 마치는 날인데 못온 사람이 많아서 아쉬워요. - 친절해서 좋긴 한데, TOO VERBOSE. 한 말 또하고 한 말 또하고, 마치 술먹고 했던 얘기 또하는 훌륭한 고수 같은 느낌. 다 좋은 말인데 너무 반복을 많이해요. SICP를 먼저 봐서 그런거 같기도 하고 ... SICP랑 HTDP 둘 중에 하나를 보면, 다른 하나는 보지 말라고 권하고 싶습니다. 뭘 봐도 상관 없는데 ...</p>

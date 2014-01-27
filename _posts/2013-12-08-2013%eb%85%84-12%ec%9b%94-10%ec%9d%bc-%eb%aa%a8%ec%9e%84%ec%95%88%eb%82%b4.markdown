@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 12월 10일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 801
+wordpress_url: http://www.tuestudy.org/bp/?p=801
+date: 2013-12-08 21:11:26.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 544
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-12-08 21:15:43 +0900'
+  date_gmt: '2013-12-08 12:15:43 +0900'
+  content: |
+    갑니다.
+- id: 545
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-12-08 21:42:34 +0900'
+  date_gmt: '2013-12-08 12:42:34 +0900'
+  content: |
+    <p>갑니다용~</p>
+- id: 546
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-12-09 08:52:52 +0900'
+  date_gmt: '2013-12-08 23:52:52 +0900'
+  content: |
+    저도 ㄱㄱ
+- id: 547
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-12-09 11:06:20 +0900'
+  date_gmt: '2013-12-09 02:06:20 +0900'
+  content: |
+    저도 갑니다용~
+- id: 548
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-12-09 14:38:53 +0900'
+  date_gmt: '2013-12-09 05:38:53 +0900'
+  content: |
+    저도 갑니다~
+---
+<p>!! <strong>강남 2호점</strong>입니다. !!!</p>
+
+<p>남은 문제들 공유합니다. (아마도 23장, 24장 문제들...)</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 12월 10일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

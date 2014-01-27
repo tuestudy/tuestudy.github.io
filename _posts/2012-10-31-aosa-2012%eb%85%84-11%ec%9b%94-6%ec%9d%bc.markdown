@@ -1,0 +1,118 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 11월 6일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 610
+wordpress_url: http://www.tuestudy.org/bp/?p=610
+date: 2012-10-31 10:08:44.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 218
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-10-31 14:40:32 +0900'
+  date_gmt: '2012-10-31 05:40:32 +0900'
+  content: |
+    저 갑니다 ~
+- id: 219
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-01 10:07:44 +0900'
+  date_gmt: '2012-11-01 01:07:44 +0900'
+  content: |
+    <p>저도 갑니다~ 발표 여부는 주말 지나고 상황을 봐서.. ㅋㅋ</p>
+- id: 220
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-11-05 10:14:30 +0900'
+  date_gmt: '2012-11-05 01:14:30 +0900'
+  content: |
+    저 지난주 월요일 부터 시작된 감기에 일주일이 넘도록 시달리고 있네요. 아무래도 내일 참석은 쉽지 않을 듯 합니다.
+- id: 221
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-05 13:18:21 +0900'
+  date_gmt: '2012-11-05 04:18:21 +0900'
+  content: |
+    <p>에궁.. 푹 쉬시구 어여 나으세요 ㅠ.ㅠ</p>
+- id: 222
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-05 13:18:43 +0900'
+  date_gmt: '2012-11-05 04:18:43 +0900'
+  content: |
+    <p>발표는 어려울듯 합니당.......</p>
+- id: 223
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-11-05 22:05:59 +0900'
+  date_gmt: '2012-11-05 13:05:59 +0900'
+  content: |
+    저도 갑니다.. (발표를 안하면 죽을것같은 분위기에.. 일단 아무렇게라도 발표준비를 ㅎㄷ)
+- id: 224
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-11-06 09:45:59 +0900'
+  date_gmt: '2012-11-06 00:45:59 +0900'
+  content: |
+    <p>우왕! 기대할께요!</p>
+- id: 225
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-11-06 11:08:58 +0900'
+  date_gmt: '2012-11-06 02:08:58 +0900'
+  content: |
+    ㅋㅋㅋㅋ
+- id: 226
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-11-06 16:30:44 +0900'
+  date_gmt: '2012-11-06 07:30:44 +0900'
+  content: |
+    POD님 발표 들으러 가야하는데 ㅠㅠ 오늘 불참합니다.
+---
+<h2>모임 안내</h2>
+
+10월 30일 모임에서 발표 없이 넘어가게 되어 중간에 쉬는 타임 없이 다음 주부터
+다시 발표 시즌2(?)를 갖도록 하겠습니다.
+
+
+
+기본적으로 발표가 다 가능한 상태로 시즌2를 진행해야겠지만 여건상 어려운 점이
+많아서 지원자 우선으로 발표 진행했으면 합니다.
+
+
+
+그리고 지원자와 상관없이 지난 시즌 발표가 누락된 pod은 다음 주에는 꼭 발표해주셨으면
+하는 바램이...
+
+
+
+참석여부와 발표 가능 여부를 댓글로 남겨주시면 감사하겠습니다.
+
+
+
+<ul>
+<li>일시: 2012년 11월 6일 오후 8시 ~ 10시</li>
+<li>장소: <strong>토즈 강남2호점</strong> (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

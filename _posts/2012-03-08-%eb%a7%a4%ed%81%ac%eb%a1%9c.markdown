@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: 매크로
+author: falsetru
+author_login: falsetru
+author_email: falsetru@gmail.com
+wordpress_id: 184
+wordpress_url: http://www.tuestudy.org/bp/?p=184
+date: 2012-03-08 16:26:07.000000000 +09:00
+categories:
+- HtDP
+tags: []
+comments:
+- id: 14
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-03-08 23:54:01 +0900'
+  date_gmt: '2012-03-08 14:54:01 +0900'
+  content: =b 마스터님이 좋아합니다.
+- id: 15
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2012-03-09 22:25:10 +0900'
+  date_gmt: '2012-03-09 13:25:10 +0900'
+  content: http://www.scheme.com/tspl3/syntax.html
+---
+<pre>$ racket
+Welcome to Racket v5.2.1.
+- (define-syntax def-struct
+  (syntax-rules ()
+    ((_ fields id)
+     (define-struct id fields))))
+- (def-struct (x y) point)
+- (define p (make-point 3 4))
+- (point-x p)
+3
+- 
+</pre>
+
+
+<a href="http://www.shido.info/lisp/scheme_syntax_e.html">http://www.shido.info/lisp/scheme_syntax_e.html</a>

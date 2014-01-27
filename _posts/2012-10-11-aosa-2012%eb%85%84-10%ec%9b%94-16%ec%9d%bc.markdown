@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 10월 16일'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 590
+wordpress_url: http://www.tuestudy.org/bp/?p=590
+date: 2012-10-11 10:16:29.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 188
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-10-11 16:54:45 +0900'
+  date_gmt: '2012-10-11 07:54:45 +0900'
+  content: |
+    ㄱ ㄱ
+- id: 189
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-11 22:08:48 +0900'
+  date_gmt: '2012-10-11 13:08:48 +0900'
+  content: |
+    <p>저도 ㄱㄱ</p>
+- id: 190
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-10-15 13:54:45 +0900'
+  date_gmt: '2012-10-15 04:54:45 +0900'
+  content: |
+    아슬아슬하지만 가보겠습니다!!! &gt;_&lt;
+- id: 191
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-15 17:27:57 +0900'
+  date_gmt: '2012-10-15 08:27:57 +0900'
+  content: |
+    전 오늘부터 출근해서 확실히 모르겠네요.. ㅠㅠ
+- id: 192
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-10-15 17:43:15 +0900'
+  date_gmt: '2012-10-15 08:43:15 +0900'
+  content: |
+    <p>설마 출근 둘쨋날 부터 야근야근모드인건가요 :'(</p>
+- id: 193
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-10-15 18:43:11 +0900'
+  date_gmt: '2012-10-15 09:43:11 +0900'
+  content: |
+    저도 갑니다~~!
+- id: 194
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-10-15 19:57:49 +0900'
+  date_gmt: '2012-10-15 10:57:49 +0900'
+  content: |
+    오늘 첫째날인데 야근이네요.. ㅎㄷ
+- id: 195
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-10-16 13:24:10 +0900'
+  date_gmt: '2012-10-16 04:24:10 +0900'
+  content: |
+    갑니다!!
+---
+<h2>모임 안내</h2>
+
+다음 모임도 역시 토즈 강남2호점입니다.
+
+참석여부 댓글로 남겨주시면 감사하겠습니다.
+
+
+
+<ul>
+<li>일시: 2012년 10월 16일 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남2호점 (예약모임명: TSG – AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+
+
+<h2>체크인 및 회고</h2>
+
+<ul>
+<li><a href="http://wiki.tuestudy.org/meeting/20121016">http://wiki.tuestudy.org/meeting/20121016</a></li>
+</ul>

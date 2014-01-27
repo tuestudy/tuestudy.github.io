@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 2012년 9월 18일 모임 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 577
+wordpress_url: http://www.tuestudy.org/bp/?p=577
+date: 2012-09-17 23:05:48.000000000 +09:00
+categories:
+- 공지사항
+- AOSA
+tags: []
+comments:
+- id: 168
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-09-18 00:24:57 +0900'
+  date_gmt: '2012-09-17 15:24:57 +0900'
+  content: |
+    저 이번주랑 다음주 불참합니다. 이번주는 전에 회사 들릴꺼 같고, 다음주는 기차표를 구하지 못해서 미리 내려가 있을듯 합니다.
+- id: 169
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-09-18 17:49:30 +0900'
+  date_gmt: '2012-09-18 08:49:30 +0900'
+  content: |
+    금일 회식 관계로 불참입니다~~
+- id: 170
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-09-18 18:12:47 +0900'
+  date_gmt: '2012-09-18 09:12:47 +0900'
+  content: |
+    저는 이번주에 개인적인 일이 있어서 불참합니다. 담주에 뵐께요.
+---
+토즈 강남2호점 최소6인실 예약했습니다.
+
+
+
+부득이하게 참석이 어려우신 분은 미리 댓글 남겨주시기 바랍니다.
+
+
+
+그럼 내일 뵙겠습니다!
+
+
+
+<ul>
+<li>일시: 2012년 9월 18일 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남2호점 (예약모임명: TSG - AOSA 스터디)</li>
+</ul>
+
+<a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/01/TOZ_강남2호점-e1347890806258.jpg" alt="" title="TOZ_강남2호점" width="704" height="345" class="alignnone size-full wp-image-47" /></a>
+
+

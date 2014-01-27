@@ -1,0 +1,4 @@
+name: TSG
+markdown: redcarpet
+pygments: true
+paginate: 5

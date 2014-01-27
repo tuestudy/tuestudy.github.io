@@ -1,0 +1,99 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 6월 25일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 733
+wordpress_url: http://www.tuestudy.org/bp/?p=733
+date: 2013-06-23 22:55:26.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 418
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-23 22:57:24 +0900'
+  date_gmt: '2013-06-23 13:57:24 +0900'
+  content: |
+    <p>도넛 사서 갑니다!</p>
+- id: 419
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-06-23 23:03:14 +0900'
+  date_gmt: '2013-06-23 14:03:14 +0900'
+  content: |
+    저 갑니둥!
+- id: 420
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-06-23 23:19:37 +0900'
+  date_gmt: '2013-06-23 14:19:37 +0900'
+  content: |
+    저도 갑니다
+- id: 421
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-06-24 00:50:56 +0900'
+  date_gmt: '2013-06-23 15:50:56 +0900'
+  content: |
+    갑니다. 식사하고 갈거라서 도넛은 안먹을겁니다.
+- id: 422
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-06-24 09:50:37 +0900'
+  date_gmt: '2013-06-24 00:50:37 +0900'
+  content: |
+    저두 갑니다~
+- id: 423
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-06-24 15:35:29 +0900'
+  date_gmt: '2013-06-24 06:35:29 +0900'
+  content: |
+    저는 하필 그날 회식이 생겼네요 =<em>=
+    ㅠ</em>ㅠ
+- id: 424
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-24 22:59:34 +0900'
+  date_gmt: '2013-06-24 13:59:34 +0900'
+  content: |
+    <p>흑 아쉽네요. 다음 모임 때 뵈요~</p>
+---
+<p>6월 마지막 주 스터디를 맞이하여, 상반기 회고를 진행합니다.</p>
+
+<p>모임에 대한 회고, 개인적인 회고 모두 괜찮습니다.</p>
+
+<p>목표 - 한일 - 결과 - 다음 목표</p>
+
+<p>같은 식으로 준비하면 좋을 것 같습니다.</p>
+
+<p>대충 예를들면...</p>
+
+<blockquote>
+  <p>올해 초에 알고스팟 정복 하기로 했는데, 스터디 때 문제를 열심히 풀어서 60위권 내 진입! 올해 안에 10위권 내 진입에 도전해보겠습니다.</p>
+</blockquote>
+
+<p>회고 진행 후 시간이 남으면 상반기에 읽은 책/공연/행사/영화 등등의 덕질과 관련한 추천/소개하는 시간을 가져보죠.</p>
+
+<p>원래 그럴듯한 저녁도 먹고 그럴듯한 장소에서 모여볼까 했지만.. 어찌어찌 시간이 가서 이번 주도 토즈입니다. 강남2호점!</p>
+
+<p>저녁은 각자 해결하고 대신 간식으로 크리스피크림 도넛 또는 미스터 도넛을 준비할 예정입니다. (인당 2개 정도 먹을 수 있게 준비할 예정입니다. 저녁 미리 드실 때 참고를... 비용은 2012년도 때 쓰고 남은 회비로.. <a href="http://wiki.tuestudy.org/membershipfee">회비 내역 참고</a>)</p>
+
+<p>도넛 구매 수량을 파악 하기 위해 참석 여부를 꼭 남겨주시기 바랍니다.</p>
+
+<ul>
+<li>일시: 2013년 6월 25일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

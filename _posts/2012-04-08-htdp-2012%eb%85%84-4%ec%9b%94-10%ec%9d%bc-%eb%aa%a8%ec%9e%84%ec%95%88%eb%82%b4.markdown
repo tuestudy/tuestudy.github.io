@@ -1,0 +1,120 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 4월 10일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 298
+wordpress_url: http://www.tuestudy.org/bp/?p=298
+date: 2012-04-08 21:11:59.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 35
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-04-09 19:39:07 +0900'
+  date_gmt: '2012-04-09 10:39:07 +0900'
+  content: |
+    넵! 홍콩반점이군요 ㅎㅎㅎ 이번엔 예습 안해가도 되는거죠!?
+- id: 36
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-09 21:50:38 +0900'
+  date_gmt: '2012-04-09 12:50:38 +0900'
+  content: |
+    <p>홍콩반점 메뉴 예습해오세요 ㅋㅋ</p>
+- id: 37
+  author: Yarra
+  author_email: flourscent@gmail.com
+  author_url: ''
+  date: '2012-04-10 14:36:30 +0900'
+  date_gmt: '2012-04-10 05:36:30 +0900'
+  content: |
+    감기로 불참입니다.. 2주 연속이네요 ㅠㅠ
+- id: 38
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-04-10 14:59:09 +0900'
+  date_gmt: '2012-04-10 05:59:09 +0900'
+  content: |
+    저도 할 일이 밀려서 오늘 불참이네요. 다음 주에 뵐께요
+- id: 39
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2012-04-10 15:47:22 +0900'
+  date_gmt: '2012-04-10 06:47:22 +0900'
+  content: |
+    아 저도 아내가 아파서 집에 바로 들어가 봐야 될 것 같아요. 죄송합니다.
+- id: 40
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-04-10 17:18:34 +0900'
+  date_gmt: '2012-04-10 08:18:34 +0900'
+  content: |
+    8시까지 홍콩반점으로 가면 되는건가요?
+- id: 41
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-04-10 17:50:59 +0900'
+  date_gmt: '2012-04-10 08:50:59 +0900'
+  content: |
+    오늘은 과연 몇명이나! 아흥 벌써 배고파요 ... :'(
+- id: 42
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-10 18:06:56 +0900'
+  date_gmt: '2012-04-10 09:06:56 +0900'
+  content: |
+    <p>현재 불참하시는 분이 3명이시니 예상 인원은 여섯명 정도? 8시까지 홍콩반점 앞으로 오시면 됩니다. 전 좀 일찍 도착할듯한데 근처에서 방황해야 것 같네요ㅋ :'(</p>
+- id: 43
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-04-10 18:52:50 +0900'
+  date_gmt: '2012-04-10 09:52:50 +0900'
+  content: "저 늦게 도착할듯 합니다. ㅠㅠ \n4,50분 정도 늦을듯 하니.. 식사하시구 난뒤 차를 드신다면 그쪽으로 갈께요.\n"
+- id: 44
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-04-10 19:33:11 +0900'
+  date_gmt: '2012-04-10 10:33:11 +0900'
+  content: |
+    <p>전 조금 일찍 도착해서 근처 맥도날드에 짱박혀있는 중입니다. ㅠㅠ</p>
+---
+<p>몇가지 추가 안내드립니다.</p>
+
+<p>내일 회비는 식사 비용으로 사용될 예정입니다. <strong>되도록 현금을 미리 준비해 주시기 바랍니다.</strong><br />
+식사 비용 계산 후 남는 회비는 후식(?)을 사먹거나, 월회비에 더해 토즈 이용료로 사용할 예정입니다.</p>
+
+<p>또 지난 주에 월 회비를 내지 않으신 분도 월 회비 준비 부탁드립니다.
+계좌 이체 하실 분은 제게 Private Message 남겨주시면 입금 계좌를 안내 해드리도록 하겠습니다.</p>
+
+<p>그럼 내일 뵙겠습니다!</p>
+
+<hr />
+
+<p>4월 10일 모임공지입니다.</p>
+
+<p>파트3 마무리 기념으로 이번 모임은 쉬어가기 시간을 갖겠습니다.</p>
+
+<ul>
+<li>일시: 2012년 4월 10일 화요일 오후 8시</li>
+<li>장소: 강남역 CGV 뒷골목에 있는 <strong><a href="http://blog.naver.com/saehee80?Redirect=Log&amp;logNo=30134924421">강남역 홍콩반점 0410</a></strong></li>
+<li>회비: 10,000원</li>
+</ul>
+
+<p>참석이 어려우신 분은 미리 댓글 남겨주세요.</p>
+
+<p><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/04/hongkong.png" alt="enter image description here" /></p>

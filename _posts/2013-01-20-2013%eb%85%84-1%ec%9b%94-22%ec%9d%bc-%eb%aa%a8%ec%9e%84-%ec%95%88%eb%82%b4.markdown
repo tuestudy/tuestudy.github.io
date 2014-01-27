@@ -1,0 +1,81 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 1월 22일 모임 안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 656
+wordpress_url: http://www.tuestudy.org/bp/?p=656
+date: 2013-01-20 17:39:12.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 304
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-20 17:39:33 +0900'
+  date_gmt: '2013-01-20 08:39:33 +0900'
+  content: |
+    <p>갑니다.</p>
+- id: 305
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-20 22:21:05 +0900'
+  date_gmt: '2013-01-20 13:21:05 +0900'
+  content: |
+    저도 고고
+- id: 306
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-01-21 10:33:01 +0900'
+  date_gmt: '2013-01-21 01:33:01 +0900'
+  content: |
+    저도 참석합니다.
+- id: 307
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-01-21 17:27:52 +0900'
+  date_gmt: '2013-01-21 08:27:52 +0900'
+  content: |
+    갑니다.
+- id: 308
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-23 17:26:15 +0900'
+  date_gmt: '2013-01-23 08:26:15 +0900'
+  content: |
+    버디프레스 통해서 커뮤니케이션이 좀 힘든 것 같아서 구글 그룹을 하나 만들었습니다. 자료 정리는 위키에 올리고, 대화의 장은 구글 그룹스 이용하면 어떨까 하는 의견을 내봅니다.
+- id: 309
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-01-23 23:35:26 +0900'
+  date_gmt: '2013-01-23 14:35:26 +0900'
+  content: |
+    <p>그룹스 주소를 던져주세요!</p>
+- id: 310
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-01-24 11:10:38 +0900'
+  date_gmt: '2013-01-24 02:10:38 +0900'
+  content: "https://groups.google.com/d/forum/tuesday_study\n\n이거고 메일링리스트 주소는 \ntuesday_study@googlegroups.com
+    입니다.\n\n구글 계정이 없으신 분은 저한테 이메일 주소를 알려주시면 메일링 리스트에 추가하겠습니다.\n"
+---
+<p>1월 22일 모임에서는 JMBook 4-5장 발표가 있습니다.</p>
+
+<p>장소는 늘 그렇듯 토즈 강남2호점입니다.</p>
+
+<p>참석하실 분들은 댓글 남겨주세요.</p>
+
+<p>일시: 2013년 1월 22일 (화) 오후 8:00 ~ 10:00
+장소: 토즈 강남 2호점</p>

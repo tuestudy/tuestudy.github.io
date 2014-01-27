@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 4월 2일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 689
+wordpress_url: http://www.tuestudy.org/bp/?p=689
+date: 2013-03-31 23:36:48.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 354
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-01 00:09:58 +0900'
+  date_gmt: '2013-03-31 15:09:58 +0900'
+  content: |
+    저요!
+
+    ... 왠진 모르게 irccloud 도 안들어가지고 weechat 도 먹통이고 ... ㅠㅠ
+- id: 355
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-01 10:09:22 +0900'
+  date_gmt: '2013-04-01 01:09:22 +0900'
+  content: |
+    <p>저도 갑니다~</p>
+- id: 356
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-04-02 12:15:25 +0900'
+  date_gmt: '2013-04-02 03:15:25 +0900'
+  content: |
+    갑니다~~
+- id: 357
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-02 12:21:05 +0900'
+  date_gmt: '2013-04-02 03:21:05 +0900'
+  content: |
+    <p>20분 정도 지각 예상됩니다. ㅠ.ㅠ</p>
+- id: 358
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-02 21:58:35 +0900'
+  date_gmt: '2013-04-02 12:58:35 +0900'
+  content: |
+    http://wiki.tuestudy.org/meeting/20130402
+
+    오늘 스터디 마쳤습니다!
+---
+<p><a href="http://www.algospot.com/judge/problem/read/TRIANGLEPATH">TRIANGLEPATH</a>, <a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/JLIS">JLIS</a>을 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 4월 2일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

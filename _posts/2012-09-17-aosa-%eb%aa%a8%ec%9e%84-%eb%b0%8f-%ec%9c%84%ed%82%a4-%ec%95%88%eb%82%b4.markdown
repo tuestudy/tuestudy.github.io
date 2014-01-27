@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: '[AOSA] 모임 및 위키 안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 574
+wordpress_url: http://www.tuestudy.org/bp/?p=574
+date: 2012-09-17 13:50:07.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 167
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-09-17 16:02:00 +0900'
+  date_gmt: '2012-09-17 07:02:00 +0900'
+  content: |
+    근데 모임 공지 및 참가신청은 여기가 더 낫지 않을까요 댓글다는게 더 편한데 ....
+---
+디군님이 수고해주셔서 저희 모임 위키가 생겼어요.
+
+
+
+앞으로 모임 공지와 자료들은 그쪽에 모일 예정입니다.
+
+
+
+북마크 해두고 자주 놀러오세요. :)
+
+
+
+9월 18일 모임안내: <a href="http://wiki.tuestudy.org/meeting/20120918">http://wiki.tuestudy.org/meeting/20120918</a>
+
+모임 위키: <a href="http://wiki.tuestudy.org/">http://wiki.tuestudy.org/</a>
+
+

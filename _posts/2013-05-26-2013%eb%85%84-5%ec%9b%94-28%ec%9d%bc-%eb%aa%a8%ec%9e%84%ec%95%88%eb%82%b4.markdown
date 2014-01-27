@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 5월 28일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 716
+wordpress_url: http://www.tuestudy.org/bp/?p=716
+date: 2013-05-26 19:48:33.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 397
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-05-26 21:01:55 +0900'
+  date_gmt: '2013-05-26 12:01:55 +0900'
+  content: |
+    <p>갑니다용~</p>
+- id: 398
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-05-27 13:31:02 +0900'
+  date_gmt: '2013-05-27 04:31:02 +0900'
+  content: |
+    갑니다!
+- id: 399
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-05-27 20:47:47 +0900'
+  date_gmt: '2013-05-27 11:47:47 +0900'
+  content: |
+    갑니다.
+---
+<p><a href="http://www.algospot.com/judge/problem/read/TILING2">TILING2</a>, <a href="http://algospot.com/judge/problem/read/TRIPATHCNT">TRIPATHCNT</a>를 공유하고, <a href="http://algospot.com/judge/problem/read/SNAIL">SNAIL</a>, <a href="http://algospot.com/judge/problem/read/ASYMTILING">ASYMTILING</a>을 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 5월 28일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

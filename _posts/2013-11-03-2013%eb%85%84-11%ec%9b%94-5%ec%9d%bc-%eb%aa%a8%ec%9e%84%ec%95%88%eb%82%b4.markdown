@@ -1,0 +1,77 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 11월 5일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 790
+wordpress_url: http://www.tuestudy.org/bp/?p=790
+date: 2013-11-03 22:15:35.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 519
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-11-03 22:16:26 +0900'
+  date_gmt: '2013-11-03 13:16:26 +0900'
+  content: |
+    <p>고고</p>
+- id: 520
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-11-03 22:39:35 +0900'
+  date_gmt: '2013-11-03 13:39:35 +0900'
+  content: |
+    갑니다.
+- id: 521
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-11-04 00:58:52 +0900'
+  date_gmt: '2013-11-03 15:58:52 +0900'
+  content: |
+    고고고~
+- id: 522
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-11-04 07:35:56 +0900'
+  date_gmt: '2013-11-03 22:35:56 +0900'
+  content: |
+    저도 ㄱㄱㄱ
+- id: 523
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-11-05 11:03:12 +0900'
+  date_gmt: '2013-11-05 02:03:12 +0900'
+  content: |
+    전 이번주엔 못가겠네요 ㅠ_ㅠ
+- id: 524
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-11-05 17:49:10 +0900'
+  date_gmt: '2013-11-05 08:49:10 +0900'
+  content: |
+    <p>인원이 적어서 토즈 취소했습니다. 참가 신청 한 사람들은 근처에서 모여서 식사와 차를 마시며 대충 책 볼듯합니다.</p>
+---
+<p>!!! 이번 주 부터 모임 시작 시간이 7시 반으로 변경되었습니다!!!</p>
+
+<p>자신에 진도에 맞게 문제를 풉니다. 적당한 때가 되면 공유합니다.</p>
+
+<p>참석 여부를 댓글로 남겨주세요~</p>
+
+<p><strong>이번 모임 장소도 교보타워 옆 강남 2호점입니다!</strong></p>
+
+<ul>
+<li>일시: 2013년 11월 5일 (화) 오후 7:30 ~ 9:30</li>
+<li>장소: 토즈 강남 2호점</li>
+</ul>

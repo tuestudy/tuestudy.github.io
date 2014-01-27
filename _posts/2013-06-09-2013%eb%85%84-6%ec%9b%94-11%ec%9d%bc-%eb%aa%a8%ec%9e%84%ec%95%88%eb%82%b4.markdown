@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 6월 11일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 722
+wordpress_url: http://www.tuestudy.org/bp/?p=722
+date: 2013-06-09 13:05:43.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 405
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-06-09 13:27:35 +0900'
+  date_gmt: '2013-06-09 04:27:35 +0900'
+  content: |
+    저 갑니다잉!
+- id: 406
+  author: Ki Sung Bae
+  author_email: realgsong@hotmail.com
+  author_url: ''
+  date: '2013-06-09 13:29:01 +0900'
+  date_gmt: '2013-06-09 04:29:01 +0900'
+  content: |
+    저도요. ipsc 문제 풀이 공유하는 시간도 가져보아요
+- id: 407
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2013-06-09 16:15:05 +0900'
+  date_gmt: '2013-06-09 07:15:05 +0900'
+  content: |
+    갑니다.
+    ipsc 문제 풀이 공유하는 시간도 가져보아요(2)
+- id: 408
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-06-10 10:08:37 +0900'
+  date_gmt: '2013-06-10 01:08:37 +0900'
+  content: |
+    <p>공지 수정했습니다~ 저도 갑니다~</p>
+- id: 409
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-06-11 07:42:28 +0900'
+  date_gmt: '2013-06-10 22:42:28 +0900'
+  content: |
+    저도 갑니다~~~
+---
+<p><a href="http://ipsc.ksp.sk/2013/real/problems/">IPSC 2013 문제 풀이</a>, <a href="http://algospot.com/judge/problem/read/SNAIL">SNAIL</a>, <a href="http://algospot.com/judge/problem/read/ASYMTILING">ASYMTILING</a>를 공유하고, 시간이 남으면 <a href="http://algospot.com/judge/problem/read/POLY">POLY</a>, <a href="http://algospot.com/judge/problem/read/NUMB3RS">NUMB3RS</a>를 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 6월 11일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

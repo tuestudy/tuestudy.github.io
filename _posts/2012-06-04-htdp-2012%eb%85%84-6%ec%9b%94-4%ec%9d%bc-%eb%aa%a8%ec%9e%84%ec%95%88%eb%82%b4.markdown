@@ -1,0 +1,113 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 6월 5일 모임안내'
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 432
+wordpress_url: http://www.tuestudy.org/bp/?p=432
+date: 2012-06-04 11:44:35.000000000 +09:00
+categories:
+- 공지사항
+tags: []
+comments:
+- id: 87
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2012-06-04 12:17:54 +0900'
+  date_gmt: '2012-06-04 03:17:54 +0900'
+  content: |
+    기분탓이군요 ... ㅎㅎㅎ
+- id: 88
+  author: falsetru
+  author_email: falsetru@gmail.com
+  author_url: ''
+  date: '2012-06-04 12:39:29 +0900'
+  date_gmt: '2012-06-04 03:39:29 +0900'
+  content: |
+    master님은 절대로 디아에 정신이 팔리실 분이 아닙니다. 제가 그렇습니다...
+- id: 89
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-05 10:25:07 +0900'
+  date_gmt: '2012-06-05 01:25:07 +0900'
+  content: |
+    <p>헛 디아하시나요? ㅋㅋ</p>
+- id: 90
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2012-06-05 15:41:11 +0900'
+  date_gmt: '2012-06-05 06:41:11 +0900'
+  content: |
+    오늘도 못가요 ㅠ_ㅠ
+    아.. 정말...
+- id: 91
+  author: 성큼이
+  author_email: sungkmi@gmail.com
+  author_url: ''
+  date: '2012-06-05 16:23:46 +0900'
+  date_gmt: '2012-06-05 07:23:46 +0900'
+  content: |
+    저도 오늘 못가겠네요 으으 학기말 @_@
+- id: 92
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-06-05 16:35:20 +0900'
+  date_gmt: '2012-06-05 07:35:20 +0900'
+  content: |
+    요즘 의지박약에 먼가에 집중도 안돼고 잉여의 시간만 늘어나네요.. 이번주도.. 빠집니다. 후우.. 회비는 오늘 입금 시키겠습니다.
+- id: 93
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-05 16:35:54 +0900'
+  date_gmt: '2012-06-05 07:35:54 +0900'
+  content: |
+    <p>6월도 잔인한 건가요... ㅎㄷ</p>
+- id: 94
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-05 16:36:09 +0900'
+  date_gmt: '2012-06-05 07:36:09 +0900'
+  content: |
+    <p>헛 벌써 기말고사 시즌이군요...</p>
+- id: 95
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2012-06-05 16:36:36 +0900'
+  date_gmt: '2012-06-05 07:36:36 +0900'
+  content: |
+    <p>그냥 한 마디로 '디아 때문'이라고 말하십쇼. ㅋㅋㅋㅋ</p>
+- id: 96
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2012-06-05 18:17:07 +0900'
+  date_gmt: '2012-06-05 09:17:07 +0900'
+  content: |
+    으아니.. 그건 차마...
+---
+<p>6월 첫 스터디 공지입니다. 이번 주는 31장 진도 나갑니다.<br />
+장소는 언제나 그렇듯 토즈 강남점입니다!<br />
+회비 2만원도 챙겨서 와주시면 감사하겠습니다.</p>
+
+<p>요즘 공지가 늦어지는 것이 모임지기가 디아에 정신이 팔려서라고 생각하신다면 그것은 기분탓입니다. (...)</p>
+
+<ul>
+<li>일시: 2012년 6월 5일 화요일, 오후 8시 ~ 10시</li>
+<li>장소: 토즈 강남점 (예약 모임명: TSG – HtDP 스터디) / 강남역 10번 출구, 파고다 어학원 뒤쪽</li>
+<li>준비물: 책 또는 노트북 / 31장 읽고 문제 골라오시면 됩니다.</li>
+</ul>
+
+<p><a href="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png"><img src="http://www.tuestudy.org/bp/wp-content/uploads/2012/02/toz_kangnam.png" alt="" title="토즈 강남점" width="715" height="353" class="alignnone size-full wp-image-79" /></a></p>
+
+<p>모임 전에 불참 인원을 알면 경우에 따라 예약 인원을 변경하여 회비를 절약할 수 있습니다.<br />
+<strong>스터디 참가가 어려우시면 늦어도 오후 6시까지 참석 여부를 알려주세요.</strong></p>

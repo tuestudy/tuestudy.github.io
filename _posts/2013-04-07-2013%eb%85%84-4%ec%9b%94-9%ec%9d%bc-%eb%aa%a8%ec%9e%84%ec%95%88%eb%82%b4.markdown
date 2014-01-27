@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013년 4월 9일 모임안내
+author: master
+author_login: master
+author_email: etsg.master@gmail.com
+wordpress_id: 693
+wordpress_url: http://www.tuestudy.org/bp/?p=693
+date: 2013-04-07 19:07:52.000000000 +09:00
+categories:
+- 공지사항
+- JMBOOK
+tags: []
+comments:
+- id: 359
+  author: dgoon
+  author_email: dgoon@dgoon.net
+  author_url: ''
+  date: '2013-04-07 20:52:40 +0900'
+  date_gmt: '2013-04-07 11:52:40 +0900'
+  content: |
+    저 갑니닷!
+- id: 360
+  author: soochul
+  author_email: masterguru9@gmail.com
+  author_url: ''
+  date: '2013-04-07 22:11:15 +0900'
+  date_gmt: '2013-04-07 13:11:15 +0900'
+  content: |
+    저도 오랫만에 참석합니다.
+- id: 361
+  author: master
+  author_email: etsg.master@gmail.com
+  author_url: ''
+  date: '2013-04-08 10:09:43 +0900'
+  date_gmt: '2013-04-08 01:09:43 +0900'
+  content: |
+    <p>갑니다~</p>
+- id: 362
+  author: bill
+  author_email: hick4321@gmail.com
+  author_url: ''
+  date: '2013-04-09 16:19:21 +0900'
+  date_gmt: '2013-04-09 07:19:21 +0900'
+  content: |
+    이번주는 못갈거 같아요 ㅎㅎㅎㅎ
+    담주에 뵈요 ^^*
+---
+<p><a href="http://www.algospot.com/judge/problem/read/LIS">LIS</a>를 공유하고, <a href="http://www.algospot.com/judge/problem/read/JLIS">JLIS</a>을 풉니다.</p>
+
+<p>장소는 강남점입니다!</p>
+
+<p>참석하시는 분들 댓글 남겨주세요~</p>
+
+<ul>
+<li>일시: 2013년 4월 9일 (화) 오후 8:00 ~ 10:00</li>
+<li>장소: 토즈 강남점</li>
+</ul>

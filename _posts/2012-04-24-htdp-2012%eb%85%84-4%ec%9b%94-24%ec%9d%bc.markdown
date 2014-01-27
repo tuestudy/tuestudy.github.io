@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: '[HtDP] 2012년 4월 24일'
+author: dgoon
+author_login: dgoon
+author_email: dgoon@dgoon.net
+wordpress_id: 362
+wordpress_url: http://www.tuestudy.org/bp/?p=362
+date: 2012-04-24 21:52:20.000000000 +09:00
+categories:
+- HtDP
+tags: []
+comments: []
+---
+<p>체크인 - 기분/근황</p>
+
+<ul>
+<li>master - 늦게와서 더운 기분이네요. / 회사를 잘 다니고 있습니다. 별일 없이 살고 있어요.</li>
+<li>yarra - 열흘째 감기와 함께... 좋은 상태는 아니네요 / 새 아이패드를 질렀어요. ㅎㅎㅎ</li>
+<li>gsong - 미리 감기를 앓아서 야라님 옆에 있지만 안심이 됩니다. / 전쟁같은 개발을 하고 있습니다.</li>
+<li>falstru - 좋아요. 좋습니다 / 딱히 별일 없고, 새로 구매한것도 없고.</li>
+<li>sunkmi - 늦게와서 정신이 없어요. / 랩탑을 얻었어요. 시험치는거 두개가 목/월에 있어서 정신 없어요.</li>
+<li>dgoon - 좋아요. 배불러요. / 아이패드를 질렀어요. 하지만 아직 도착하지 않았어...</li>
+</ul>
+
+<hr />
+
+<p>회고 - Good/Bad</p>
+
+<ul>
+<li>dgoon - 라이브 코딩은 아니지만, 목표하던 문제를 풀었어요 / 늦게 시작한게 아쉬워요. 비디오 어댑터를 가지고 다녀야 겠어요</li>
+<li>sunkmi -  나오길 잘했어요 / 지난주 안나왔더니 진도가 폭풍같이 나가서...</li>
+<li>falsetru - 예습을 해서 조금 널럴하게 할 수 있었던 것 같아요 / 널럴한게 너무 심해져서 게으르지 않았나.</li>
+<li>gsong - 게으름을 이기고 스터디에 참여했습니다 / 예습을 못해서 아쉬워요</li>
+<li>yarra - 진도 늦은걸 책 읽고 문제에 손을 댔다는게 좋았다 / 머리가 계속 멍해요... 감기 감기</li>
+<li>master - 이번엔 예습을 했는데, gui는 스터디 가서 해야지 하고 왔는데 와서 했네요 / gui만 했어요. 게다가 코드도 깔끔하지 않아요...</li>
+</ul>
