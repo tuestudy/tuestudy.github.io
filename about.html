@@ -1,0 +1,17 @@
+---
+layout: default
+title: About
+---
+
+<h1>About</h1>
+
+<h2>What's TSG?</h2>
+
+<p>TSG는 Tuesday Study Group의 약자로 매주 화요일 저녁에 스터디 모임을 하는데서 붙여진 이름입니다.</p>
+
+<h2>Members</h2>
+<ul>
+{% for member in site.data.members %}
+  <li><a href="https://github.com/{{ member.github }}">{{ member.nickname }}</a></li>
+{% endfor %}
+</ul>
