@@ -1,4 +1,5 @@
 name: TSG
 markdown: redcarpet
 pygments: true
-paginate: 5
+paginate: 20
+paginate_path: "posts/page:num"

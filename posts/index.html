@@ -1,0 +1,25 @@
+---
+layout: default
+title: All Posts
+---
+
+<h1>모든 글</h1>
+<hr />
+<div class="row">
+  <div class="col-lg-12">
+    <ul class="posts">
+      {% for post in paginator.posts %}
+        <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <ul class="pager">
+      {% if paginator.previous_page %}
+        <li><a href="/posts/page{{ paginator.previous_page }}" class="previous">Previous</a></li>
+      {% endif %}
+        <li><span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span></li>
+      {% if paginator.next_page %}
+        <li><a href="/posts/page{{ paginator.next_page }}" class="next">Next</a></li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
