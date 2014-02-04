@@ -14,11 +14,11 @@ title: All Posts
     </ul>
     <ul class="pager">
       {% if paginator.previous_page %}
-        <li><a href="/posts/page{{ paginator.previous_page }}" class="previous">Previous</a></li>
+        <li><a href="{{ paginator.previous_page_path }}" class="previous">Previous</a></li>
       {% endif %}
         <li><span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span></li>
       {% if paginator.next_page %}
-        <li><a href="/posts/page{{ paginator.next_page }}" class="next">Next</a></li>
+        <li><a href="{{ paginator.next_page_path }}" class="next">Next</a></li>
       {% endif %}
     </ul>
   </div>
