@@ -14,7 +14,3 @@ title: How to Design Programs
 {% for post in site.categories.htdp reversed %}
 1.  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
-
-
-
-
