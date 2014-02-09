@@ -2,6 +2,8 @@
 layout: post
 title: 2014년 1월 28일 모임
 date: 2014-01-28 20:10:00
+categories:
+- MMIX
 ---
 
 ## 모임 

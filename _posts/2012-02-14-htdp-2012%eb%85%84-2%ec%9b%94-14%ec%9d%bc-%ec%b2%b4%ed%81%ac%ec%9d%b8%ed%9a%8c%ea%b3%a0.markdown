@@ -11,6 +11,7 @@ wordpress_url: http://etsg.cafe24.com/bp/?p=69
 date: 2012-02-14 15:42:14.000000000 +09:00
 categories:
 - 공지사항
+- HtDP
 tags: []
 comments: []
 ---

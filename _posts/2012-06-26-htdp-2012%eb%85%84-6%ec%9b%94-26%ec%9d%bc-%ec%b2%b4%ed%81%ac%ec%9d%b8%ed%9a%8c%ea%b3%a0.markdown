@@ -11,6 +11,7 @@ wordpress_url: http://www.tuestudy.org/bp/?p=465
 date: 2012-06-26 21:49:03.000000000 +09:00
 categories:
 - 공지사항
+- HtDP
 tags: []
 comments: []
 ---
