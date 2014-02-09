@@ -8,7 +8,8 @@ author_login: master
 author_email: etsg.master@gmail.com
 wordpress_id: 175
 date: 2012-03-07 00:55:34.000000000 +09:00
-categories: []
+categories: 
+- HtDP
 tags: []
 comments: []
 ---
