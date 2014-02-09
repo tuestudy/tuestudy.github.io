@@ -11,7 +11,7 @@ wordpress_url: http://www.tuestudy.org/bp/?p=809
 date: 2014-01-05 17:59:33.000000000 +09:00
 categories:
 - 공지사항
-- TAOCP
+- MMIX
 tags: []
 comments:
 - id: 556
