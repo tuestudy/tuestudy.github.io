@@ -9,6 +9,10 @@ title: TAOCP - MMIX
 
 The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer for the New Millennium
 
+## References
+
+* [MMIX Quick Reference Card (PDF)]
+
 ### 모임 체크인/회고
 
 {% for post in site.categories.mmix %}
@@ -17,4 +21,4 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
 
 
 
-
+[MMIX Quick Reference Card (pdf)]: http://mmix.cs.hm.edu/doc/mmix-refcard-a4.pdf
