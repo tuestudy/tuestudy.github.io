@@ -14,3 +14,7 @@ blockquote p {
 #footer {
   background-color: #f7f7f9;
 }
+
+img {
+	max-width: 500px;
+}
