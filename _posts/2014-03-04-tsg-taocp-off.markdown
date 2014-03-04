@@ -1,3 +1,5 @@
+---
+layout: post
 title: 2014년 3월 4일 모임
 date: 2014-03-04 19:43:00
 categories:
