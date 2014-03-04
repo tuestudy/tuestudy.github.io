@@ -28,7 +28,7 @@ categories:
 
 ## 진행
 
-* falsetru 님의 [mmix 디버깅 강의](https://www.youtube.com/watch?v=JwV293e54Bg)
+* falsetru 님의 [mmix 디버깅 강의](http://www.youtube.com/watch?v=JwV293e54Bg&t=52m49s)
 
 ![MMIX Interactive mode commands](http://i.imgur.com/LWYTuLC.jpg)
 
