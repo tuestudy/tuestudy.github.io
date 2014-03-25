@@ -28,6 +28,7 @@ categories:
 
 ## 회고
 
-* gsong
-* falsetru
-* haru
+* falsetru: 육포를 먹을 겁니다.
+* dgoon: 코루틴 마치고 멘붕 챕터로 진입. 육포를 먹을 겁니다.
+* gsong: 스터디 준비도 안 해왔는데 잘 버텼습니다. 내 핸드폰 좋은 핸드폰.
+* haru: MMIXAL Summary를 보면서 정리를 해보고 있습니다. 저는 육포를 안 먹을 겁니다.
