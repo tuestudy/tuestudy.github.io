@@ -29,8 +29,8 @@ categories:
 ## 회고
 
 * dain
-    *
+    * 1.3.1 다 읽었습니다.
 * dgoon
-    *
+    * MOR!
 * falsetru
-    *
+    * MOR 싱기방기
