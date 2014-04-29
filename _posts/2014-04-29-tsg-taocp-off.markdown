@@ -28,3 +28,9 @@ categories:
 
 ## 회고
 
+* haru
+    * 두쪽 읽었어요! PUSHJ, POP 을 80% 정도 이해한듯
+* falsetru
+    * 목표한 바는 이루었습니다. 교보 고고?
+* dgoon
+    * 두쪽 읽었어요. goto 가 싫어요 ㅠㅠ
