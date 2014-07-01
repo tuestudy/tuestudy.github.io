@@ -39,3 +39,10 @@ categories:
     * A번 부터 차곡차곡 풀어볼까 합니다.
 
 ## 회고
+
+* dain: 실패했어요. 파이썬이나 공부해야겠어요.
+* gsong: B번 Beating the game에 졌습니다. 읽고 오겠어요.
+* bill: B는 절 또 농락하고 있어요.
+* falsetru: 해답을 봐야할 것 같아요.
+* dgoon: 성공했습니다.
+* haru: 저도 커밋을 했습니다!
