@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014년 6월 10일
+title: 2014년 6월 17일
 date: 2014-06-17 21:25:00
 categories:
 - IPSC
