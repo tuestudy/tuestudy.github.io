@@ -30,3 +30,6 @@ categories:
 
 ## 회고
 
+* haru: 드디어 submit까지 성공!
+* falsetru: hotsummer는 풀었..
+* dgoon: 다 못했어요. 으아... 생각보다 타이핑할께 많네요.
