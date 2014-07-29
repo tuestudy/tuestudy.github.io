@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014년 7월 29일
-date: 2014-07-22 19:54:00
+date: 2014-07-29 19:54:00
 categories:
 - IPSC
 ---
