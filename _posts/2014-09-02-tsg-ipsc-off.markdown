@@ -36,4 +36,8 @@ categories:
 
 ## 회고
 
-*
+* dgoon: 목표는 달성 하였습니다. 하지만 데스스타를 쳐부수기엔 힘드네요. 다음주에 데스스타를 부수겠습니다.
+* bill: F easy 를 풀었습니다. 자신감이 생겼어요!
+* falsetru: 2013 K 를 풀었습니다. 하지만 ...
+* gsong: G easy 풀고 G hard 하려다가 booklet 으로 ...
+
