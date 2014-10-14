@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014년 9월 23일
+title: 2014년 10월 7일
 date: 2014-10-07 19:45:00
 categories:
 - IPSC
