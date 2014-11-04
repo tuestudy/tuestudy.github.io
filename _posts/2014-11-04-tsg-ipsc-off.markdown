@@ -36,4 +36,7 @@ categories:
 
 ## 회고
 
-
+* falsetru: 두 문제나 풀었습니다!
+* dgoon: 2.5문제 풀었습니다!
+* bill: 보람차기만 해요.
+* haru: 저도 두문제!
