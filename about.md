@@ -14,8 +14,8 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 
 2012년에 [HtDP], [aosabook] 스터디를, 2013년에는 [JMBook]을 함께 공부하면서 알고리즘 정복을 노렸
 습니다. 2014년 1분기에는 TAOCP Vol.1 MMIX 파트를 공부했습니다.
-2014년 하반기에는 지난 [ipsc](http://ipsc.ksp.sk/) 문제들을 풀고 있습니다.
-문제 풀이방은 [http://github.com/tuestudy/ipsc](http://github.com/tuestudy/ipsc) 이곳입니다.
+2014년 하반기에는 지난 [ipsc](http://ipsc.ksp.sk/) 문제들을 [풀었습니다](http://github.com/tuestudy/ipsc).
+2015년 상반기에는 2013년에 다 보지 못했던 [JMBook]을 다시 펼쳤습니다.
 
 ## Members
 
