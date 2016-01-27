@@ -33,6 +33,21 @@ categories:
 
 * https://github.com/tuestudy/janggi
 
+```
+A
+[  Cha-a] [   Ma-a] [ Sang-a] [   Sa-a] [     __] [   Sa-a] [ Sang-a] [   Ma-a] [  Cha-a]
+[     __] [     __] [     __] [     __] [ Kung-a] [     __] [     __] [     __] [     __]
+[     __] [   Po-a] [     __] [     __] [     __] [     __] [     __] [   Po-a] [     __]
+[Byung-a] [     __] [Byung-a] [     __] [Byung-a] [     __] [Byung-a] [     __] [Byung-a]
+[     __] [     __] [     __] [     __] [     __] [     __] [     __] [     __] [     __]
+[     __] [     __] [     __] [     __] [     __] [     __] [     __] [     __] [     __]
+[  Jol-b] [     __] [  Jol-b] [     __] [  Jol-b] [     __] [  Jol-b] [     __] [  Jol-b]
+[     __] [   Po-b] [     __] [     __] [     __] [     __] [     __] [   Po-b] [     __]
+[     __] [     __] [     __] [     __] [ Kung-b] [     __] [     __] [     __] [     __]
+[  Cha-b] [ Sang-b] [   Ma-b] [   Sa-b] [     __] [   Sa-b] [   Ma-b] [ Sang-b] [  Cha-b]
+B
+```
+
 ## 회고
 
 * Gsong: 시작을 해서 좋군요.
