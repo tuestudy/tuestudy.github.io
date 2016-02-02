@@ -35,4 +35,8 @@ categories:
 
 ## 회고
 
+* bill: 코드에 손을 얹었어요.
+* falsetru: 저도 빨리 뭔가 찾아서 1바이트라도 커밋을
+* dgoon: 뭔가 그럴싸 해지고 있어요.
+* haru: 이런 jekyll!
 
