@@ -12,7 +12,7 @@ title: The Architecture of Open Source Applications
 
 ### 모임 안내
 
-{% for post in site.categories.aosa reversed %}
+{% for post in site.categories.AOSA reversed %}
 1.  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 

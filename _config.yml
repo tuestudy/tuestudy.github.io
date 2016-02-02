@@ -5,3 +5,4 @@ paginate: 20
 paginate_path: "posts/page:num"
 timezone: +0900
 future: true
+gems: [jekyll-paginate]

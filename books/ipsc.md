@@ -16,6 +16,6 @@ Internet Problem Solving Contest
 
 ### 모임 체크인/회고
 
-{% for post in site.categories.ipsc %}
+{% for post in site.categories.IPSC %}
 *  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}

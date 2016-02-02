@@ -1,5 +1,4 @@
 ---
-layout: bp_doc
 status: publish
 published: true
 title: HtDP 스터디 회비 내역서
