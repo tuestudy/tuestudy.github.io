@@ -11,6 +11,6 @@ title: How to Design Programs
 
 ### 관련 글
 
-{% for post in site.categories.HTDP reversed %}
+{% for post in site.categories.HtDP reversed %}
 1.  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
