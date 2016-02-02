@@ -3,4 +3,5 @@ markdown: kramdown
 highlighter: rouge
 paginate: 20
 paginate_path: "posts/page:num"
-timezone: Asia/Seoul
+timezone: +0900
+future: true
