@@ -1,5 +1,5 @@
 name: TSG
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 paginate: 20
 paginate_path: "posts/page:num"
