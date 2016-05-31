@@ -29,3 +29,7 @@ categories:
 
 한마디
 
+* falsetru: 하드코딩 만세!
+* dain: 다시 재실행을 한번 시켰습니다.
+* haru: select는 망가지지 않았다.
+
