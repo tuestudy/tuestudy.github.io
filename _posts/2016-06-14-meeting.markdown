@@ -33,3 +33,9 @@ categories:
 ## 회고
 
 한마디
+
+* bill: 커밋했습니다!
+* parkohyoung: 커밋을 못했습니다.
+* falsetru: 자바 하다가 해서 그런지 참 재밌네요.
+* haru: 커밋했어요! 와와!
+
