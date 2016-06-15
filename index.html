@@ -12,57 +12,36 @@ title: TSG
   </div>
 </div>
 <div class="row">
-  <div class="col-lg-3">
-    <div class="panel panel-default">
-      <div class="panel-heading">공부 중인 것</div>
-      <div class="panel-body">
-        <p class="text-center"> <img src="/images/jmbook.png" alt="프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략" /></p>
-        <p>
-        <a href="http://book.algospot.com/">&lt;알고리즘 문제 해결 전략&gt;</a>은 새로운 알고리즘 책입니다. 종이에 적힌 의사코드를 외우며 알고리즘을 배우는 대신, 해당 알고리즘을 적용해 푸는 프로그래밍 문제들을 직접 풀어보며 알고리즘 설계 기법과 자료 구조에 대해 배울 수 있도록 구성되어 있습니다. ... ... ...
-        </p>
-      </div>
+  <div class="col-lg-4">
+    <h4>2016년 프로젝트: 알파장</h4>
+    <div class="list-group-item">
+      <p class="text-center"><img src="/images/janggi.png" alt="조선장기" class="img-thumbnail" /></p>
+      <p class="text-center">조선 장기 인공지능 만들기</p>
     </div>
+    <div class="list-group-item text-center"><a href="https://github.com/tuestudy/janggi" class="btn btn-default btn-block">Project Repo</a></div>
   </div>
-  <div class="col-lg-9">
-    <div class="panel panel-default">
-      <div class="panel-heading">모임 일정</div>
-      <div class="panel-body">
-        <table class="table table-hover">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Topic</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>2015 상반기</td>
-              <td>JMBOOK 의 1권 뒤쪽(8장 이후)를 읽고 문제를 풉니다</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
+  <div class="col-lg-4">
     <h4>최근 업데이트된 글</h4>
     <div class="list-group">
-      {% for post in site.posts limit:5 %}
+      {% for post in site.posts limit:7 %}
         <p class="list-group-item">
           <span>{{ post.date | date: "%Y/%m/%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
         </p>
       {% endfor %}
-      <p class="list-group-item text-center"><a href="/posts" class="btn btn-success btn-block">모든 글 보기</a></p>
+      <p class="list-group-item text-center"><a href="/posts" class="btn btn-default btn-block">모든 글 보기</a></p>
     </div>
   </div>
-  <div class="col-lg-6">
-    <h4>커뮤니케이션 채널</h4>
+  <div class="col-lg-4">
+    <h4>모임 일정</h4>
     <div class="list-group">
-      <a href="https://tsgkr.slack.com/" class="list-group-item">tsgkr.slack.com</a>
-      <a href="https://groups.google.com/forum/?hl=en#!forum/tuesday_study" class="list-group-item">Google Groups</a>
+      <p class="list-group-item"><b>오프라인</b></p>
+      <p class="list-group-item text-right">매주 화요일, 하이퍼 스페이스</p>
+      <p class="list-group-item"><b>온라인</b></p>
+      <p class="list-group-item text-right"><a href="https://tsgkr.slack.com/" target=_blank>tsgkr.slack.com</a></p>
+      <p class="list-group-item text-center"><a href="https://github.com/tuestudy" class="btn btn-default btn-block">Github Team</a></p>
     </div>
-  </div>  
+  </div>
+</div>
+<div class="row">
+  <p>&nbsp;</p>
 </div>
