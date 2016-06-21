@@ -39,8 +39,8 @@ categories:
 
 한마디
 
-* falsetru
-* dgoon
-* bill
-* parkohyoung
-* haru
+* falsetru: 리팩토링을 다음 주에 해봐야겠습니다.
+* dgoon: 코드는 따라갔는데... 파이썬3에서 망했어요. ;ㅁ;
+* bill: 즐겁습니다.
+* parkohyoung: 저도 장기 보드와 장기와 룰에 관계를 파악했습니다.
+* haru: 상차림을 마무리한 것 같아요.
