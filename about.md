@@ -12,17 +12,19 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 2008년에 시작된 [SICP 함께 공부하기]가 매주 화요일 오프라인 모임을 가졌던 것에서 시작하여,
 [SICP]가 끝난 후에도 주제(책)를 바꿔 스터디를 진행하면서 TSG로 이름을 변경하였습니다.
 
-2012년에 [HtDP], [aosabook] 스터디를, 2013년에는 [JMBook]을 함께 공부하면서 알고리즘 정복을 노렸
-습니다. 2014년 1분기에는 TAOCP Vol.1 MMIX 파트를 공부했습니다.
-2014년 하반기에는 지난 [ipsc](http://ipsc.ksp.sk/) 문제들을 [풀었습니다](http://github.com/tuestudy/ipsc).
-2015년 상반기에는 2013년에 다 보지 못했던 [JMBook]을 다시 펼쳤습니다.
+* 2012년에 [HtDP], [aosabook] 스터디를, 2013년에는 [JMBook]을 함께 공부하면서 알고리즘 정복을 노렸
+습니다.
+* 2014년 1분기에는 TAOCP Vol.1 MMIX 파트를 공부했습니다.
+* 2014년 하반기에는 지난 [ipsc](http://ipsc.ksp.sk/) 문제들을 [풀었습니다](http://github.com/tuestudy/ipsc).
+* 2015년 상반기에는 2013년에 다 보지 못했던 [JMBook]을 다시 펼쳤습니다.
+* 2016년 [조선장기 알파장 프로젝트](https://github.com/tuestudy/janggi) 개시!
 
 ## Members
 
 2013년 이후 활동 중인 멤버들을 기준으로 작성되었습니다.
 
 {% for member in site.data.members %}
-* [{{ member.nickname }}](https://github.com/{{ member.github }}) 
+* [{{ member.nickname }}](https://github.com/{{ member.github }})
 {% endfor %}
 
 [SICP 온라인 스터디]: https://groups.google.com/forum/?fromgroups#!forum/study-sicp
