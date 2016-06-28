@@ -39,3 +39,9 @@ categories:
 ## 회고
 
 한마디
+
+* falsetru: 1커밋했습니다.
+* parkohyoung: 저도 1커밋했습니다. 저는 하나 더 있습니다. 이미지를 구했습니다.
+* robert: I was able to run the application, and checked the code.
+* pod: 1커밋을 못했습니다.
+* haru: 저도 1커밋했어요.
