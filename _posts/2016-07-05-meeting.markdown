@@ -1,0 +1,35 @@
+---
+layout: post
+title: 2016년 07월 05일
+date: 2016-07-05 19:40:00
+categories:
+- Meeting
+---
+
+## 체크인
+
+기분/근황/기대
+
+* parkohyoung
+  * 기분 좋아요.
+  * 짜증나는 일이 있습니다.
+  * 대화를 많이 하고 싶습니다.
+
+* robert
+  * annoyed
+  * working
+  * nothing
+
+* falsetru
+  * 피곤합니다.
+  * 봉식이와 헤어졌어요.
+  * 대화...
+
+
+## 회고
+
+한마디
+
+* 
+* 
+* 
