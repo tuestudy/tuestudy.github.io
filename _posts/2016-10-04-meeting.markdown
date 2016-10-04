@@ -35,4 +35,7 @@ categories:
 
 한마디
 
-
+* robert: Long time no see python
+* falsetru: Long time no see python(2), 설치 성공, 집에 있는 리눅스에 설치해보려고 했는데 일해야...
+* dain: 설치하다가 실팼습니다.
+* haru: 설치 성공, 저장소 만들었으니 코드를 공유해주세요.
