@@ -1,0 +1,47 @@
+---
+layout: post
+title: 2016년 06월 28일
+date: 2016-06-28 19:50:00
+categories:
+- Meeting
+---
+
+## 체크인
+
+기분/근황/기대
+
+* pod
+  * 밥을 먹어서 기분이 좋습니다.
+  * 일을 잘 안하고 있어요. 농땡이. 오늘 오랜만에 급하게 일처리.
+  * 오늘도 1커밋을 목표로 하겠습니다.
+
+* robert
+  * so so ..
+  * playing around ..
+  * figure out how things work here.
+
+* parkohyoung
+  * 싱숭생숭합니다.
+  * 요즘 열심히 일하고 있습니다.
+  * 장을 잡으면 게임을 끝내는 그쪽을 해보고 싶습니다.
+
+* falsetru
+  * 많이 피곤했었는데 뭘 먹고 나니까 좀 낫네요.
+  * 자바자바자바자바자바 ..
+  * 1커밋 리팩토링
+
+* haru
+  * 저도 밥 먹고 나니 기분이 좋습니다.
+  * 이번 주 금요일 대망의 릴리즈를 앞두고 있어요 ... 과연...
+  * 저도 1커밋 목표로 해보겠습니다.
+
+
+## 회고
+
+한마디
+
+* falsetru: 1커밋했습니다.
+* parkohyoung: 저도 1커밋했습니다. 저는 하나 더 있습니다. 이미지를 구했습니다.
+* robert: I was able to run the application, and checked the code.
+* pod: 1커밋을 못했습니다.
+* haru: 저도 1커밋했어요.
