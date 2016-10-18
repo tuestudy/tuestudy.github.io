@@ -21,11 +21,11 @@ title: TSG
     <div class="list-group-item text-center"><a href="https://github.com/tuestudy/opencv_playground" class="btn btn-default btn-block">Project Repo</a></div>
   </div>
   <div class="col-lg-4">
-    <h4>최근 업데이트된 글</h4>
+    <h4>모임 로그</h4>
     <div class="list-group">
       {% for post in site.posts limit:7 %}
         <p class="list-group-item">
-          <span>{{ post.date | date: "%Y/%m/%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+          <span>{{ post.categories | array_to_sentence_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
         </p>
       {% endfor %}
       <p class="list-group-item text-center"><a href="/posts" class="btn btn-default btn-block">모든 글 보기</a></p>
