@@ -3,7 +3,7 @@ layout: post
 title: 2016년 05월 31일
 date: 2016-05-31 19:48:00
 categories:
-- Meeting
+- Janggi
 ---
 
 ## 체크인
@@ -32,4 +32,3 @@ categories:
 * falsetru: 하드코딩 만세!
 * dain: 다시 재실행을 한번 시켰습니다.
 * haru: select는 망가지지 않았다.
-

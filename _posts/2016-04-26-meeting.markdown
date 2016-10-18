@@ -3,7 +3,7 @@ layout: post
 title: 2016년 04월 26일
 date: 2016-04-26 19:36:00
 categories:
-- Meeting
+- Janggi
 ---
 
 ## 체크인

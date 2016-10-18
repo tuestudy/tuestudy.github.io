@@ -61,7 +61,7 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
 </div>
 </div>
 
-## 모임 체크인/회고
+## 모임 로그
 
 {% for post in site.categories.MMIX %}
 *  <a href="{{ post.url }}">{{ post.title }}</a>

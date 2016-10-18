@@ -4,6 +4,7 @@ title: 2016년 01월 19일
 date: 2016-01-19 20:00:00
 categories:
 - Meeting
+tags: [2016, topics, janggi]
 ---
 
 모임 주제에 대해서 다시 얘기해 봅시다.

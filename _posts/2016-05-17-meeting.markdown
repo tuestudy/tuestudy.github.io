@@ -3,7 +3,7 @@ layout: post
 title: 2016년 05월 17일
 date: 2016-05-17 19:52:00
 categories:
-- Meeting
+- Janggi
 ---
 
 ## 체크인

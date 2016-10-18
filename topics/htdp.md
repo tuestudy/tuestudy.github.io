@@ -9,8 +9,8 @@ title: How to Design Programs
 
 ![HtDP cover]({{ site.url }}/images/htdp.gif)
 
-### 관련 글
+### 모임 로그
 
 {% for post in site.categories.HtDP reversed %}
-1.  <a href="{{ post.url }}">{{ post.title }}</a>
+* <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}

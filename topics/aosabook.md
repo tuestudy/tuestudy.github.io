@@ -10,9 +10,8 @@ title: The Architecture of Open Source Applications
 ![aosabook vol.1 cover]({{ site.url }}/images/aosabook-vol.1.jpg)
 ![aosabook vol.2 cover]({{ site.url }}/images/aosabook-vol.2.jpg)
 
-### 모임 안내
+### 모임 로그
 
 {% for post in site.categories.AOSA reversed %}
-1.  <a href="{{ post.url }}">{{ post.title }}</a>
+* <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
-

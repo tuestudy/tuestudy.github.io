@@ -10,3 +10,9 @@ title: 알파장
 ![조선장기]({{ site.url }}/images/janggi.png)
 
 * [Github 저장소](https://github.com/tuestudy/janggi)
+
+### 모임 로그
+
+{% for post in site.categories.Janggi reversed %}
+* <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}

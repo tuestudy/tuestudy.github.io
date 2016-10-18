@@ -9,7 +9,7 @@ title: All Posts
   <div class="col-lg-12">
     <ul class="posts">
       {% for post in paginator.posts %}
-        <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.categories | array_to_sentence_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
     <ul class="pager">

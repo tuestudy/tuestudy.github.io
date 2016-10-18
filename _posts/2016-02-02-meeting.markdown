@@ -4,6 +4,7 @@ title: 2016년 02월 02일
 date: 2016-02-02 19:30:00
 categories:
 - Meeting
+tags: [2016, janggi]
 ---
 
 ## 체크인

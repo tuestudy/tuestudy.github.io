@@ -3,7 +3,7 @@ layout: post
 title: 2016년 10월 4일
 date: 2016-10-04 19:54:00
 categories:
-- Meeting
+- OpenCV
 ---
 
 ## 체크인

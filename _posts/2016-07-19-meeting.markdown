@@ -3,7 +3,7 @@ layout: post
 title: 2016년 07월 19일
 date: 2016-07-19 20:39:00
 categories:
-- Meeting
+- Janggi
 ---
 
 ## 체크인
