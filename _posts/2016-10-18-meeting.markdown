@@ -1,0 +1,31 @@
+---
+layout: post
+title: 2016년 10월 18일
+date: 2016-10-18 19:40:00
+categories:
+- OpenCV
+---
+
+## 체크인
+
+기분(mood)/근황/기대
+
+* bill
+  * 좋습니다.
+  * 출장 갔다 오니 일이 많아졌어요. 바쁩니다.
+  * 뭐했는지 따라 잡아야겠어요.
+
+* haru
+  * 평범합니다.
+  * 별일 없구요.
+  * 지난주에 찾았던 사이트중에 스도쿠 사진 변환하는게 있어서 해보려구요.
+
+* robert
+  * Ok.
+  * jenkins thing work well with integration test.
+  * move the mouse.
+
+* falsetru
+  * 덤덤합니다.
+  * 디아블로 깔았다 지웠습니다.
+  * tutorial 에서 하나 따라해보겠습니다.
