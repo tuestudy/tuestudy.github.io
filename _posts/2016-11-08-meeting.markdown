@@ -1,0 +1,41 @@
+---
+layout: post
+title: 2016년 11월 8일
+date: 2016-11-08 19:40:00
+categories:
+- OpenCV
+---
+
+## 체크인
+
+기분(mood)/근황/기대
+
+* robert
+  * good mood
+  * python code review
+  * 없습니다.
+
+* haru
+  * 피곤합니다.
+  * 드디어 취직을 했어요. 짝짝짝짝
+  * 세팅을 다시 해야겠어요.
+
+* ohyoung
+  * 배가 부른 기분
+  * 코드리뷰어가 되가고 있어요
+  * 이따가 치맥이 기대됩니다.
+
+* falsetru
+  * 덤덤합니다.
+  * 신변의 변화는 없습니다.
+  * 딱히 치맥이 기대되진 않습니다.
+
+
+## 회고
+
+한마디
+
+* ohyoung:
+* haru:
+* robert:
+* falsetru:
