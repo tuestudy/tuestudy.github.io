@@ -37,7 +37,8 @@ categories:
 
 한마디
 
-* dgoon
-* dain
-* fred
-* haru
+* dgoon: 브라우저에서 html 아이템 드래그 하는 걸 이해했어요. drag.js!
+* dain: 코드 바로 전까지 왔습니다. 다음 주 부터는 코드를!
+* fred: 웹은 정말 어려운 것 같아요.
+* haru: block.js 까지 일단 읽었어요. 다음 주에는 코드를 실행해보면서 분석해보겠습니다.
+
