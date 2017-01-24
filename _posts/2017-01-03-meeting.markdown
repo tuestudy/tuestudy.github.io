@@ -3,7 +3,7 @@ layout: post
 title: 2017년 1월 3일
 date: 2017-01-03 19:57:00
 categories:
-- Meeting
+- 500lines
 ---
 
 ## 체크인
