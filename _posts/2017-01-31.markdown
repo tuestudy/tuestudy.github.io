@@ -24,5 +24,6 @@ categories:
 
 한마디
 
-* fred:
-* haru:
+* fred: ci 재밌었습니다. 다음 챕터 기대되요.
+* haru: blockcode 얼추 다 봤어요. 웹프로그래밍도 좀 해보고 싶긴한데 이 정도로 끝내고 저도 ci로 넘어가겠습니다.
+
