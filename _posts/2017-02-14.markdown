@@ -28,3 +28,7 @@ categories:
 ## 회고
 
 한마디
+
+* fred: 절반 정도 봤는데 아직 본론이 안나와서 좀 아쉽네요. 주말에 좀 더 보려고요. 파이썬 재밌어요.
+* bill: 저도 절반쯤 봤습니다. 이제 리더(Leader)를 뽑고 있어요.
+* haru: CI 일단 봤고요, 8장 event driven web framework를 조금 보았습니다. 그리고 Fred 님이 행렬을 가르쳐주셨어요!
