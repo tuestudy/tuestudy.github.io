@@ -18,3 +18,8 @@ blockquote p {
 img {
 	max-width: 500px;
 }
+
+table, th, td {
+   border: 1px solid #f7f7f9;
+   padding: 15px;
+}
