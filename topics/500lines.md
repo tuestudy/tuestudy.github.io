@@ -7,6 +7,8 @@ title: 500 Lines or Less
 
 The fourth in [the Architecture of Open Source Applications series](http://aosabook.org/).
 
+![500lines]({{ site.url }}/images/500l-lines.png)
+
 ## 목차
 
 |------------------------------------------+--------------------------+-----------------+------------------------------------|
