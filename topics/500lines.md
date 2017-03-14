@@ -14,17 +14,17 @@ The fourth in [the Architecture of Open Source Applications series](http://aosab
 |:--:|:-----------------------------------:|:------------------------:|:----------------|:-----------------------------------|
 | 0  | Introduction                        |  Michael DiBernardo      |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 1  | Blockcode                           | Dethe Elza               |                 |                                    |
+| 1  | Blockcode                           | Dethe Elza               |                 | html/css/javascript                |
 |    |  - A visual programming toolkit     |                          |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 2  | A Continuous Integration System     | Malini Das               |                 |                                    |
+| 2  | A Continuous Integration System     | Malini Das               |                 | python                             |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 3  | Clustering by Consensus             | Dustin J. Mitchell       |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 4  | Contingent                          | Brandon Rhodes and       |                 |                                    |
 |    |  - A Fully Dynamic Build System     | Daniel Rocco             |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 5  | A Web Crawler                       | A. Jesse Jiryu Davis     |                 |                                    |
+| 5  | A Web Crawler                       | A. Jesse Jiryu Davis     |                 | python                             |
 |    | With asyncio Coroutines             | and Guido van Rossum     |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 6  | Dagoba: an in-memory graph database | Dann Toliver             |                 |                                    |
@@ -37,7 +37,7 @@ The fourth in [the Architecture of Open Source Applications series](http://aosab
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 10 | An Archaeology-Inspired Database    | Yoav Rubin               |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 11 | Making Your Own Image Filters       | Cate Huston              |                 |                                    |
+| 11 | Making Your Own Image Filters       | Cate Huston              |                 | java                               |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 12 | A Python Interpreter                | Allison Kaptur           |                 |                                    |
 |    | Written in Python                   |                          |                 |                                    |
@@ -48,7 +48,7 @@ The fourth in [the Architecture of Open Source Applications series](http://aosab
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 15 | Optical Character Recognition (OCR) | Marina Samuel            |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 16 | A Pedometer in the Real World       | Dessy Daskalov           |                 |                                    |
+| 16 | A Pedometer in the Real World       | Dessy Daskalov           |                 | ruby                               |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 17 | The Same-Origin Policy              | Eunsuk Kang,             |                 |                                    |
 |    |                                     | Santiago Perez De Rosso, |                 |                                    |
@@ -60,9 +60,9 @@ The fourth in [the Architecture of Open Source Applications series](http://aosab
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 | 20 | Static Analysis                     | Leah Hanson              |                 |                                    |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 21 | A Template Engine                   | Ned Batchelder           |                 |                                    |
+| 21 | A Template Engine                   | Ned Batchelder           |                 | python                             |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
-| 22 | A Simple Web Server                 | Greg Wilson              |                 |                                    |
+| 22 | A Simple Web Server                 | Greg Wilson              |                 | python                             |
 |----+-------------------------------------+--------------------------+-----------------+------------------------------------|
 
 
