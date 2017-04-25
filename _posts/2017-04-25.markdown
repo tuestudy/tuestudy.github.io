@@ -1,0 +1,33 @@
+---
+layout: post
+title: 2017년 4월 18일
+date: 2017-04-25 20:05:00
+categories:
+- 500lines
+---
+
+![Yoav Rubin](http://www.tuestudy.org/images/yoav.png)
+
+## 체크인
+
+* dgoon
+  * 새 약을 받아서 기분이 좋습니다.
+  * 입 안이 헐어있다 회복해서 이제 살아나고 있어요.
+  * Yoav Rubin 씨의 글을 읽어보겠습니다. LISP이라 기대가 됩니다.
+* fred
+  * 매우 피곤합니다.
+  * 특별히 요샌 하는 게 없습니다.
+  * 읽을 걸 방금 정했는데 A Python Interpreter Written in Python 읽을 예정입니다. 재밌게 읽고 가겠습니다.
+* haru
+  * 피곤한데 다음에 연휴가 있어서 벌써 기분이 좋습니다.
+  * 닥터 하우스 미드 달리고 있습니다. 시즌 3 ㅋㅋ
+  * 지난 주에 이어서 계속 image filter 볼 예정입니다.
+
+
+## 회고
+
+한마디
+
+* fred:
+* dgoon:
+* haru:
