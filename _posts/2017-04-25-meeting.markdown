@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2017년 4월 18일
+title: 2017년 4월 25일
 date: 2017-04-25 20:05:00
 categories:
 - 500lines
 ---
 
-![Yoav Rubin](http://www.tuestudy.org/images/yoav.png)
+![Yoav Rubin](http://www.tuestudy.org/images/misc/yoav.png)
 
 ## 체크인
 
