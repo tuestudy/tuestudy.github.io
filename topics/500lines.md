@@ -70,6 +70,6 @@ The fourth in [the Architecture of Open Source Applications series](http://aosab
 
 ### 모임 로그
 
-{% for post in site.categories.500lines reversed %}
+{% for post in site.categories['500lines'] reversed %}
 * <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
