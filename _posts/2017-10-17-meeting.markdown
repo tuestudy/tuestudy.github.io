@@ -1,0 +1,20 @@
+---
+layout: post
+title: 2017년 10월 17일
+date: 2017-10-17 21:30:00
+categories:
+- ipsc2017
+---
+
+## 체크인
+
+기분/근황/기대
+
+안했어요
+
+## 회고
+
+* bill: docpad 좋아요. 성배를 찾은 기분.
+* fred: Elementary OS 를 설치해서 트러블슈팅한 글을 블로그에 썼어요. 
+* haru: docpad 영업해서 좋아요. 같이 삽질합니다.
+
