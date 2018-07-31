@@ -3,7 +3,7 @@ layout: post
 title: 2018년 7월 24일
 date: 2018-07-24 19:49:00
 categories:
-- 모각코
+- MOGAKO
 ---
 
 ## 체크인
