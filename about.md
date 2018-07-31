@@ -22,6 +22,7 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 * 2017년 시작과 함께 [500LinesOrLess]를 읽었습니다.
 * 2017년 하반기에는 함께 [ipsc] 문제들을 [풀고있습니다](http://github.com/tuestudy/ipsc).
 * 2018년 상반기에는 함께 [unity]를 공부합니다.
+* 2018년 하반기에는 함께 모각코(모여서 각자 코딩)를 합니다.
 
 ## Members
 
