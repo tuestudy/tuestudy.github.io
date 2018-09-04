@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018년 9월 00일
+title: 2018년 9월 04일
 date: 2018-09-04 20:00:00
 categories:
 - MOGAKO
