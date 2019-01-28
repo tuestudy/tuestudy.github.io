@@ -1,22 +1,39 @@
 - nickname: bill
   github: AlchemistX
+  active: true
 - nickname: dgoon
   github: dgoon
+  active: true
 - nickname: falsetru
   github: falsetru
+  active: false
 - nickname: gsong
   github: realgsong
+  active: false
 - nickname: haru
   github: soharu
+  active: true
 - nickname: pod
   github: masterguru9
+  active: false
 - nickname: dain
   github: darklibra
+  active: false
 - nickname: parkohyoung
   github: ParkOhyoung
+  active: false
 - nickname: robert
   github: robertjerovsek
+  active: false
 - nickname: fred
   github: polonez
+  active: true
 - nickname: hannah
   github: jyhwng
+  active: true
+- nickname: 소보
+  github: sobo81
+  active: true
+- nickname: R
+  github: JeewhanR
+  active: true

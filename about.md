@@ -23,13 +23,26 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 * 2017년 하반기에는 함께 [ipsc] 문제들을 [풀고있습니다](http://github.com/tuestudy/ipsc).
 * 2018년 상반기에는 함께 [unity]를 공부합니다.
 * 2018년 하반기에는 함께 모각코(모여서 각자 코딩)를 합니다.
+* 2019년 상반기에는 [JMBook] 2권을 다시 공부합니다.
 
 ## Members
 
 2013년 이후 활동 중인 멤버들을 기준으로 작성되었습니다 (알파벳 순으로 정렬).
 
-{% assign sorted_members = (site.data.members | sort: 'nickname') %}
-{% for member in sorted_members %}
+{% assign active_members = (site.data.members | where_exp:"item", "item.active == true" | sort: 'nickname') %}
+{% assign inactive_members = (site.data.members | where_exp:"item", "item.active == false" | sort: 'nickname') %}
+
+### 활동 중 ({{ active_members.size }})
+
+최근 1년 이내 스터디 모임에 참석한 멤버들입니다.
+
+{% for member in active_members %}
+* [{{ member.nickname }}](https://github.com/{{ member.github }})
+{% endfor %}
+
+### 휴식 중 ({{ inactive_members.size }})
+
+{% for member in inactive_members %}
 * [{{ member.nickname }}](https://github.com/{{ member.github }})
 {% endfor %}
 

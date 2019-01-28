@@ -3,7 +3,7 @@ layout: post
 title: 2019년 1월 22일
 date: 2019-01-22 20:25:55
 categories:
-- JMBOOK2
+- JMBOOK
 ---
 
 ## 체크인
