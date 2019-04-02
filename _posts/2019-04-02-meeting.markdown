@@ -25,3 +25,7 @@ categories:
 
 ## 회고
 
+* dgoon: 피곤해요
+* haru: 삽질했어요
+* 소보: 설치가 안 끝나서 짜증나요
+* Garuda: 치킨 고고
