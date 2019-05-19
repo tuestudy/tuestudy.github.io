@@ -23,7 +23,7 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 * 2017년 하반기에는 함께 [ipsc] 문제들을 [풀고있습니다](http://github.com/tuestudy/ipsc).
 * 2018년 상반기에는 함께 [unity]를 공부합니다.
 * 2018년 하반기에는 함께 모각코(모여서 각자 코딩)를 합니다.
-* 2019년 상반기에는 [JMBook] 2권을 다시 공부합니다.
+* 2019년에는 모각코를 하기도 하고, [JMBook]을 좀 보다가 [Nand2Tetris]를 공부합니다.
 
 ## Members
 
@@ -54,3 +54,4 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 [500LinesOrLess]: http://aosabook.org/en/index.html
 [ipsc]: http://ipsc.ksp.sk/
 [unity]: https://unity3d.com/
+[Nand2Tetris]: https://www.nand2tetris.org/
