@@ -7,7 +7,7 @@ title: 밑바닥부터 만드는 컴퓨팅 시스템
 
 ![nand2tetris korean book cover][Bookcover_of_Nand2Tetris_in_Korean]
 
-- 원서: [The Elements of Computing Systems: Building a Modern Computer from First Principles][Nand2Tetris_in_English]
+- 원서: [The Elements of Computing Systems: Building a Modern Computer from First Principles][Nand2Tetris_in_English] / [PDF](http://f.javier.io/rep/books/The%20Elements%20of%20Computing%20Systems.pdf)
 - 번역서: [밑바닥부터 만드는 컴퓨팅 시스템][Nand2Tetris_in_Korean] / [정오표][Nand2Tetris_in_Korean_typo]
 - 공식 웹사이트: [nand2tetris][Nand2Tetris_official_website]
 
