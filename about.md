@@ -37,13 +37,13 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 최근 1년 이내 스터디 모임에 참석한 멤버들입니다.
 
 {% for member in active_members %}
-* [{{ member.nickname }}](https://github.com/{{ member.github }})
+* [{{ member.nickname }}](https://github.com/{{ member.github }}) ({{ member.join_date }})
 {% endfor %}
 
 ### 휴식 중 ({{ inactive_members.size }})
 
 {% for member in inactive_members %}
-* [{{ member.nickname }}](https://github.com/{{ member.github }})
+* [{{ member.nickname }}](https://github.com/{{ member.github }}) ({{ member.join_date }})
 {% endfor %}
 
 [SICP 함께 공부하기]: https://groups.google.com/forum/?fromgroups#!forum/study-sicp

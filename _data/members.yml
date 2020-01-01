@@ -1,48 +1,64 @@
 - nickname: bill
   github: AlchemistX
   active: true
+  join_date: 2012-02-12
 - nickname: dgoon
   github: dgoon
   active: true
+  join_date: 2012-01-01
 - nickname: falsetru
   github: falsetru
-  active: false
+  active: true
+  join_date: 2012-01-01
 - nickname: gsong
   github: realgsong
   active: false
+  join_date: 2012-01-01
 - nickname: haru
   github: soharu
   active: true
+  join_date: 2012-01-01
 - nickname: pod
   github: masterguru9
   active: false
+  join_date: 2012-01-01
 - nickname: dain
   github: darklibra
   active: false
+  join_date: 2014-03-11
 - nickname: parkohyoung
   github: ParkOhyoung
   active: false
+  join_date: 2016-06-14
 - nickname: robert
   github: robertjerovsek
   active: false
+  join_date: 2016-06-28
 - nickname: fred
   github: polonez
   active: true
+  join_date: 2017-01-10
 - nickname: hannah
   github: jyhwng
   active: true
+  join_date: 2018-07-10
 - nickname: 소보
   github: sobo81
   active: true
+  join_date: 2018-09-04
 - nickname: R
   github: JeewhanR
   active: true
+  join_date: 2019-01-22
 - nickname: garuda
   github: hyeonupark
   active: true
+  join_date: 2019-03-26
 - nickname: harvey
   github: ChaeMingyun
   active: true
+  join_date: 2019-06-18
 - nickname: KyungyoungHeo
   github: bbvch13531
   active: true
+  join_date: 2019-09-10
