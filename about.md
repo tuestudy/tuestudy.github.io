@@ -25,6 +25,22 @@ TSG는 Tueday Study Group의 약자로, 매주 화요일 스터디 모임을 가
 * 2018년 하반기에는 함께 모각코(모여서 각자 코딩)를 합니다.
 * 2019년에는 모각코를 하기도 하고, [JMBook]을 좀 보다가 [Nand2Tetris]를 공부합니다.
 
+## 연도별 결산
+
+### 2019
+
+* 모임 주제: [JMBOOK X 모각코](https://www.tuestudy.org/topics/jmbook.html), [Nand2Tetris X 모각코](https://www.tuestudy.org/topics/nand2tetris.html)
+* 2번의 공휴일을 제외한 51일의 화요일 중 **41**회 모임
+* 최대 연속 주간은 **13주** (3월 첫째주 ~ 5월 마지막주)
+* **12명**의 사람들이 다녀갔고, **4명**의 새로운 멤버가 스터디에 합류함
+* 평균 참석 인원은 **4명**
+* 가장 많은 사람이 참석한 날은 [8월 13일](https://www.tuestudy.org/nand2tetris/2019/08/13/meeting.html)로 **7명**이 참석함
+* 가장 적은 사람이 참석한 날은 [4월 16일](https://www.tuestudy.org/jmbook/2019/04/16/meeting.html)로 **1명**이 참석함
+* 2019년도 출석왕: haru(40), garuda(25), hannah(23)
+  * 상반기 출석왕: haru(22), bill(15), hannah(14)
+  * 하반기 출석왕: haru(18), garuda(18), fred(14)
+  * 최다 연속 출석: haru(31주), garuda(12주), bill(7주), hannah(7주)
+
 ## Members
 
 2013년 이후 활동 중인 멤버들을 기준으로 작성되었습니다 (알파벳 순으로 정렬).
