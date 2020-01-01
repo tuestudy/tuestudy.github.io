@@ -14,7 +14,7 @@ categories:
     * 살짝 피곤하지만 야근 대신 개인 프로젝트를 할 생각에 기분이 좋네요.
     * 동생이 졸업을 해서 졸업 전시에 다녀왔습니다.
     * 자바스크립트를 타입스크립트로 바꾸려고 합니다.
-* garry
+* 소보
     * 피곤합니다.
     * 힘듭니다.
     * iPad를 안 가져와서 보던 책은 못보고, iOS 기본 공부를 하려고 합니다.
@@ -26,5 +26,5 @@ categories:
 ## 회고
 
 * hannah: TypeScript 세팅은 다 끝났습니다. 옮기기만 하면 됩니다.
-* garry: iOS boost course의 1장 music player를 만들었습니다.
+* 소보: iOS boost course의 1장 music player를 만들었습니다.
 * fred: 저는 random walk를 1d, 2d, 3d에서 simulation 한 결과를 plot해보았습니다.
